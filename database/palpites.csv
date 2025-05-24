@@ -1,0 +1,3361 @@
+Mandante,Placar,Visitante,Rodada,Coringa,Jogador
+Flamengo,2 x 1,Internacional,1,SIM,RENAN
+Vasco,2 x 0,Santos,1,NÃO,RENAN
+Juventude,1 x 0,Vitória,1,NÃO,RENAN
+São Paulo,2 x 0,Sport,1,NÃO,RENAN
+Bragantino,1 x 1,Ceará,1,NÃO,RENAN
+Cruzeiro,2 x 0,Mirassol,1,NÃO,RENAN
+Grêmio,1 x 1,Atlético-MG,1,NÃO,RENAN
+Bahia,1 x 1,Corinthians,1,NÃO,RENAN
+Fortaleza,1 x 2,Fluminense,1,NÃO,RENAN
+Palmeiras,2 x 1,Botafogo,1,SIM,RENAN
+Atlético-MG,2 x 1,São Paulo,2,SIM,RENAN
+Botafogo,2 x 0,Juventude,2,NÃO,RENAN
+Corinthians,1 x 1,Vasco,2,NÃO,RENAN
+Santos,1 x 1,Bahia,2,NÃO,RENAN
+Mirassol,1 x 0,Fortaleza,2,NÃO,RENAN
+Sport,1 x 3,Palmeiras,2,NÃO,RENAN
+Fluminense,2 x 1,Bragantino,2,NÃO,RENAN
+Vitória,0 x 2,Flamengo,2,NÃO,RENAN
+Ceará,1 x 2,Grêmio,2,NÃO,RENAN
+Internacional,1 x 1,Cruzeiro,2,SIM,RENAN
+Palmeiras,1 x 1,Corinthians,3,SIM,RENAN
+Vasco,2 x 0,Sport,3,NÃO,RENAN
+Fluminense,2 x 1,Santos,3,NÃO,RENAN
+São Paulo,2 x 1,Cruzeiro,3,NÃO,RENAN
+Bragantino,1 x 1,Botafogo,3,NÃO,RENAN
+Atlético-MG,1 x 0,Vitória,3,NÃO,RENAN
+Juventude,2 x 1,Ceará,3,NÃO,RENAN
+Bahia,2 x 0,Mirassol,3,NÃO,RENAN
+Fortaleza,1 x 0,Internacional,3,NÃO,RENAN
+Grêmio,1 x 2,Flamengo,3,SIM,RENAN
+Santos,2 x 1,Atlético-MG,4,SIM,RENAN
+Botafogo,2 x 2,São Paulo,4,NÃO,RENAN
+Corinthians,1 x 0,Fluminense,4,NÃO,RENAN
+Flamengo,3 x 1,Juventude,4,NÃO,RENAN
+Mirassol,1 x 0,Grêmio,4,NÃO,RENAN
+Cruzeiro,2 x 0,Bahia,4,NÃO,RENAN
+Sport,1 x 0,Bragantino,4,NÃO,RENAN
+Vitória,1 x 1,Fortaleza,4,NÃO,RENAN
+Ceará,1 x 2,Vasco,4,NÃO,RENAN
+Internacional,1 x 1,Palmeiras,4,SIM,RENAN
+Vasco,3 x 2,Flamengo,5,SIM,RENAN
+Fluminense,3 x 2,Vitória,5,NÃO,RENAN
+Corinthians,3 x 1,Sport,5,NÃO,RENAN
+São Paulo,2 x 1,Santos,5,NÃO,RENAN
+Bragantino,1 x 2,Cruzeiro,5,NÃO,RENAN
+Atlético-MG,2 x 2,Botafogo,5,NÃO,RENAN
+Juventude,1 x 0,Mirassol,5,NÃO,RENAN
+Bahia,2 x 1,Ceará,5,NÃO,RENAN
+Fortaleza,0 x 1,Palmeiras,5,NÃO,RENAN
+Grêmio,0 x 1,Internacional,5,SIM,RENAN
+Flamengo,2 x 0,Corinthians,6,SIM,RENAN
+Sport,1 x 2,Fortaleza,6,NÃO,RENAN
+Palmeiras,3 x 2,Bahia,6,NÃO,RENAN
+Santos,2 x 1,Bragantino,6,NÃO,RENAN
+Mirassol,1 x 1,Atlético-MG,6,NÃO,RENAN
+Cruzeiro,1 x 2,Vasco,6,NÃO,RENAN
+Internacional,2 x 1,Juventude,6,NÃO,RENAN
+Vitória,2 x 1,Grêmio,6,NÃO,RENAN
+Ceará,0 x 1,São Paulo,6,NÃO,RENAN
+Botafogo,3 x 1,Fluminense,6,SIM,RENAN
+Vasco,2 x 1,Palmeiras,7,SIM,RENAN
+Fluminense,1 x 0,Sport,7,NÃO,RENAN
+Corinthians,1 x 0,Internacional,7,NÃO,RENAN
+São Paulo,1 x 0,Fortaleza,7,NÃO,RENAN
+Bragantino,1 x 0,Mirassol,7,NÃO,RENAN
+Juventude,2 x 1,Atlético-MG,7,NÃO,RENAN
+Grêmio,2 x 0,Santos,7,NÃO,RENAN
+Bahia,1 x 2,Botafogo,7,NÃO,RENAN
+Ceará,2 x 1,Vitória,7,NÃO,RENAN
+Cruzeiro,2 x 2,Flamengo,7,SIM,RENAN
+Botafogo,2 x 1,Internacional,8,SIM,RENAN
+Sport,2 x 3,Cruzeiro,8,NÃO,RENAN
+Flamengo,4 x 2,Bahia,8,NÃO,RENAN
+Santos,2 x 0,Ceará,8,NÃO,RENAN
+Mirassol,0 x 3,Corinthians,8,NÃO,RENAN
+Atlético-MG,2 x 1,Fluminense,8,NÃO,RENAN
+Grêmio,2 x 0,Bragantino,8,NÃO,RENAN
+Vitória,1 x 3,Vasco,8,NÃO,RENAN
+Fortaleza,2 x 1,Juventude,8,NÃO,RENAN
+Palmeiras,0 x 0,São Paulo,8,SIM,RENAN
+Flamengo,2 x 0,Internacional,1,SIM,LUCCA
+Vasco,1 x 1,Santos,1,NÃO,LUCCA
+Juventude,1 x 2,Vitória,1,NÃO,LUCCA
+São Paulo,3 x 1,Sport,1,NÃO,LUCCA
+Bragantino,1 x 1,Ceará,1,NÃO,LUCCA
+Cruzeiro,4 x 0,Mirassol,1,NÃO,LUCCA
+Grêmio,1 x 2,Atlético-MG,1,NÃO,LUCCA
+Bahia,2 x 0,Corinthians,1,NÃO,LUCCA
+Fortaleza,1 x 0,Fluminense,1,NÃO,LUCCA
+Palmeiras,2 x 0,Botafogo,1,SIM,LUCCA
+Atlético-MG,2 x 1,São Paulo,2,SIM,LUCCA
+Botafogo,3 x 0,Juventude,2,NÃO,LUCCA
+Corinthians,2 x 0,Vasco,2,NÃO,LUCCA
+Santos,2 x 1,Bahia,2,NÃO,LUCCA
+Mirassol,1 x 0,Fortaleza,2,NÃO,LUCCA
+Sport,0 x 1,Palmeiras,2,NÃO,LUCCA
+Fluminense,2 x 0,Bragantino,2,NÃO,LUCCA
+Vitória,1 x 2,Flamengo,2,NÃO,LUCCA
+Ceará,1 x 0,Grêmio,2,NÃO,LUCCA
+Internacional,2 x 2,Cruzeiro,2,SIM,LUCCA
+Palmeiras,1 x 1,Corinthians,3,SIM,LUCCA
+Vasco,2 x 0,Sport,3,NÃO,LUCCA
+Fluminense,1 x 1,Santos,3,NÃO,LUCCA
+São Paulo,1 x 0,Cruzeiro,3,NÃO,LUCCA
+Bragantino,1 x 0,Botafogo,3,NÃO,LUCCA
+Atlético-MG,3 x 0,Vitória,3,NÃO,LUCCA
+Juventude,1 x 2,Ceará,3,NÃO,LUCCA
+Bahia,4 x 0,Mirassol,3,NÃO,LUCCA
+Fortaleza,1 x 0,Internacional,3,NÃO,LUCCA
+Grêmio,0 x 2,Flamengo,3,SIM,LUCCA
+Santos,2 x 1,Atlético-MG,4,SIM,LUCCA
+Botafogo,2 x 1,São Paulo,4,NÃO,LUCCA
+Corinthians,2 x 0,Fluminense,4,NÃO,LUCCA
+Flamengo,4 x 0,Juventude,4,NÃO,LUCCA
+Mirassol,1 x 1,Grêmio,4,NÃO,LUCCA
+Cruzeiro,2 x 1,Bahia,4,NÃO,LUCCA
+Sport,1 x 0,Bragantino,4,NÃO,LUCCA
+Vitória,2 x 0,Fortaleza,4,NÃO,LUCCA
+Ceará,2 x 0,Vasco,4,NÃO,LUCCA
+Internacional,1 x 0,Palmeiras,4,SIM,LUCCA
+Vasco,0 x 2,Flamengo,5,SIM,LUCCA
+Fluminense,2 x 0,Vitória,5,NÃO,LUCCA
+Corinthians,3 x 0,Sport,5,NÃO,LUCCA
+São Paulo,2 x 1,Santos,5,NÃO,LUCCA
+Bragantino,1 x 2,Cruzeiro,5,NÃO,LUCCA
+Atlético-MG,2 x 1,Botafogo,5,NÃO,LUCCA
+Juventude,2 x 0,Mirassol,5,NÃO,LUCCA
+Bahia,2 x 0,Ceará,5,NÃO,LUCCA
+Fortaleza,1 x 0,Palmeiras,5,NÃO,LUCCA
+Grêmio,1 x 2,Internacional,5,SIM,LUCCA
+Flamengo,1 x 0,Corinthians,6,SIM,LUCCA
+Sport,1 x 0,Fortaleza,6,NÃO,LUCCA
+Palmeiras,1 x 0,Bahia,6,NÃO,LUCCA
+Santos,2 x 0,Bragantino,6,NÃO,LUCCA
+Mirassol,0 x 2,Atlético-MG,6,NÃO,LUCCA
+Cruzeiro,2 x 0,Vasco,6,NÃO,LUCCA
+Internacional,3 x 0,Juventude,6,NÃO,LUCCA
+Vitória,1 x 1,Grêmio,6,NÃO,LUCCA
+Ceará,1 x 0,São Paulo,6,NÃO,LUCCA
+Botafogo,2 x 1,Fluminense,6,SIM,LUCCA
+Vasco,2 x 1,Palmeiras,7,SIM,LUCCA
+Fluminense,2 x 1,Sport,7,NÃO,LUCCA
+Corinthians,2 x 1,Internacional,7,NÃO,LUCCA
+São Paulo,2 x 0,Fortaleza,7,NÃO,LUCCA
+Bragantino,2 x 1,Mirassol,7,NÃO,LUCCA
+Juventude,1 x 1,Atlético-MG,7,NÃO,LUCCA
+Grêmio,1 x 0,Santos,7,NÃO,LUCCA
+Bahia,1 x 0,Botafogo,7,NÃO,LUCCA
+Ceará,1 x 0,Vitória,7,NÃO,LUCCA
+Cruzeiro,1 x 1,Flamengo,7,SIM,LUCCA
+Botafogo,2 x 1,Internacional,8,SIM,LUCCA
+Sport,1 x 0,Cruzeiro,8,NÃO,LUCCA
+Flamengo,2 x 0,Bahia,8,NÃO,LUCCA
+Santos,2 x 0,Ceará,8,NÃO,LUCCA
+Mirassol,0 x 1,Corinthians,8,NÃO,LUCCA
+Atlético-MG,2 x 1,Fluminense,8,NÃO,LUCCA
+Grêmio,1 x 0,Bragantino,8,NÃO,LUCCA
+Vitória,1 x 0,Vasco,8,NÃO,LUCCA
+Fortaleza,3 x 0,Juventude,8,NÃO,LUCCA
+Palmeiras,2 x 2,São Paulo,8,SIM,LUCCA
+Flamengo,3 x 1,Internacional,1,SIM,NALDIN
+Vasco,2 x 1,Santos,1,NÃO,NALDIN
+Juventude,1 x 1,Vitória,1,NÃO,NALDIN
+São Paulo,2 x 0,Sport,1,NÃO,NALDIN
+Bragantino,2 x 1,Ceará,1,NÃO,NALDIN
+Cruzeiro,2 x 0,Mirassol,1,NÃO,NALDIN
+Grêmio,2 x 3,Atlético-MG,1,NÃO,NALDIN
+Bahia,2 x 2,Corinthians,1,NÃO,NALDIN
+Fortaleza,2 x 1,Fluminense,1,NÃO,NALDIN
+Palmeiras,1 x 0,Botafogo,1,SIM,NALDIN
+Atlético-MG,2 x 1,São Paulo,2,SIM,NALDIN
+Botafogo,2 x 0,Juventude,2,NÃO,NALDIN
+Corinthians,3 x 1,Vasco,2,NÃO,NALDIN
+Santos,2 x 1,Bahia,2,NÃO,NALDIN
+Mirassol,2 x 2,Fortaleza,2,NÃO,NALDIN
+Sport,0 x 1,Palmeiras,2,NÃO,NALDIN
+Fluminense,3 x 2,Bragantino,2,NÃO,NALDIN
+Vitória,1 x 2,Flamengo,2,NÃO,NALDIN
+Ceará,1 x 1,Grêmio,2,NÃO,NALDIN
+Internacional,3 x 1,Cruzeiro,2,SIM,NALDIN
+Palmeiras,1 x 2,Corinthians,3,SIM,NALDIN
+Vasco,1 x 0,Sport,3,NÃO,NALDIN
+Fluminense,2 x 1,Santos,3,NÃO,NALDIN
+São Paulo,3 x 2,Cruzeiro,3,NÃO,NALDIN
+Bragantino,1 x 1,Botafogo,3,NÃO,NALDIN
+Atlético-MG,2 x 0,Vitória,3,NÃO,NALDIN
+Juventude,2 x 1,Ceará,3,NÃO,NALDIN
+Bahia,3 x 0,Mirassol,3,NÃO,NALDIN
+Fortaleza,1 x 2,Internacional,3,NÃO,NALDIN
+Grêmio,1 x 2,Flamengo,3,SIM,NALDIN
+Santos,2 x 1,Atlético-MG,4,SIM,NALDIN
+Botafogo,3 x 2,São Paulo,4,NÃO,NALDIN
+Corinthians,1 x 1,Fluminense,4,NÃO,NALDIN
+Flamengo,2 x 0,Juventude,4,NÃO,NALDIN
+Mirassol,1 x 0,Grêmio,4,NÃO,NALDIN
+Cruzeiro,2 x 1,Bahia,4,NÃO,NALDIN
+Sport,1 x 0,Bragantino,4,NÃO,NALDIN
+Vitória,2 x 1,Fortaleza,4,NÃO,NALDIN
+Ceará,2 x 2,Vasco,4,NÃO,NALDIN
+Internacional,2 x 0,Palmeiras,4,SIM,NALDIN
+Vasco,1 x 1,Flamengo,5,SIM,NALDIN
+Fluminense,2 x 0,Vitória,5,NÃO,NALDIN
+Corinthians,3 x 1,Sport,5,NÃO,NALDIN
+São Paulo,2 x 2,Santos,5,NÃO,NALDIN
+Bragantino,1 x 2,Cruzeiro,5,NÃO,NALDIN
+Atlético-MG,2 x 2,Botafogo,5,NÃO,NALDIN
+Juventude,2 x 0,Mirassol,5,NÃO,NALDIN
+Bahia,3 x 2,Ceará,5,NÃO,NALDIN
+Fortaleza,2 x 1,Palmeiras,5,NÃO,NALDIN
+Grêmio,0 x 1,Internacional,5,SIM,NALDIN
+Flamengo,2 x 0,Corinthians,6,SIM,NALDIN
+Sport,1 x 0,Fortaleza,6,NÃO,NALDIN
+Palmeiras,2 x 1,Bahia,6,NÃO,NALDIN
+Santos,3 x 1,Bragantino,6,NÃO,NALDIN
+Mirassol,0 x 3,Atlético-MG,6,NÃO,NALDIN
+Cruzeiro,1 x 1,Vasco,6,NÃO,NALDIN
+Internacional,3 x 1,Juventude,6,NÃO,NALDIN
+Vitória,1 x 0,Grêmio,6,NÃO,NALDIN
+Ceará,2 x 1,São Paulo,6,NÃO,NALDIN
+Botafogo,2 x 0,Fluminense,6,SIM,NALDIN
+Vasco,0 x 1,Palmeiras,7,SIM,NALDIN
+Fluminense,2 x 0,Sport,7,NÃO,NALDIN
+Corinthians,1 x 1,Internacional,7,NÃO,NALDIN
+São Paulo,3 x 2,Fortaleza,7,NÃO,NALDIN
+Bragantino,2 x 1,Mirassol,7,NÃO,NALDIN
+Juventude,1 x 0,Atlético-MG,7,NÃO,NALDIN
+Grêmio,2 x 1,Santos,7,NÃO,NALDIN
+Bahia,2 x 1,Botafogo,7,NÃO,NALDIN
+Ceará,2 x 2,Vitória,7,NÃO,NALDIN
+Cruzeiro,1 x 1,Flamengo,7,SIM,NALDIN
+Botafogo,3 x 1,Internacional,8,SIM,NALDIN
+Sport,1 x 1,Cruzeiro,8,NÃO,NALDIN
+Flamengo,2 x 0,Bahia,8,NÃO,NALDIN
+Santos,2 x 1,Ceará,8,NÃO,NALDIN
+Mirassol,1 x 0,Corinthians,8,NÃO,NALDIN
+Atlético-MG,2 x 2,Fluminense,8,NÃO,NALDIN
+Grêmio,0 x 0,Bragantino,8,NÃO,NALDIN
+Vitória,1 x 1,Vasco,8,NÃO,NALDIN
+Fortaleza,2 x 1,Juventude,8,NÃO,NALDIN
+Palmeiras,2 x 1,São Paulo,8,SIM,NALDIN
+Flamengo,1 x 0,Internacional,1,SIM,THIAGO
+Vasco,1 x 0,Santos,1,NÃO,THIAGO
+Juventude,1 x 0,Vitória,1,NÃO,THIAGO
+São Paulo,1 x 0,Sport,1,NÃO,THIAGO
+Bragantino,1 x 0,Ceará,1,NÃO,THIAGO
+Cruzeiro,2 x 0,Mirassol,1,NÃO,THIAGO
+Grêmio,1 x 2,Atlético-MG,1,NÃO,THIAGO
+Bahia,2 x 1,Corinthians,1,NÃO,THIAGO
+Fortaleza,2 x 1,Fluminense,1,NÃO,THIAGO
+Palmeiras,2 x 1,Botafogo,1,SIM,THIAGO
+Atlético-MG,2 x 1,São Paulo,2,SIM,THIAGO
+Botafogo,2 x 0,Juventude,2,NÃO,THIAGO
+Corinthians,1 x 0,Vasco,2,NÃO,THIAGO
+Santos,1 x 0,Bahia,2,NÃO,THIAGO
+Mirassol,1 x 0,Fortaleza,2,NÃO,THIAGO
+Sport,0 x 1,Palmeiras,2,NÃO,THIAGO
+Fluminense,1 x 0,Bragantino,2,NÃO,THIAGO
+Vitória,1 x 2,Flamengo,2,NÃO,THIAGO
+Ceará,2 x 1,Grêmio,2,NÃO,THIAGO
+Internacional,2 x 1,Cruzeiro,2,SIM,THIAGO
+Palmeiras,2 x 1,Corinthians,3,SIM,THIAGO
+Vasco,2 x 1,Sport,3,NÃO,THIAGO
+Fluminense,2 x 1,Santos,3,NÃO,THIAGO
+São Paulo,2 x 1,Cruzeiro,3,NÃO,THIAGO
+Bragantino,2 x 1,Botafogo,3,NÃO,THIAGO
+Atlético-MG,1 x 0,Vitória,3,NÃO,THIAGO
+Juventude,1 x 0,Ceará,3,NÃO,THIAGO
+Bahia,1 x 0,Mirassol,3,NÃO,THIAGO
+Fortaleza,0 x 1,Internacional,3,NÃO,THIAGO
+Grêmio,1 x 0,Flamengo,3,SIM,THIAGO
+Santos,1 x 2,Atlético-MG,4,SIM,THIAGO
+Botafogo,1 x 0,São Paulo,4,NÃO,THIAGO
+Corinthians,1 x 0,Fluminense,4,NÃO,THIAGO
+Flamengo,2 x 0,Juventude,4,NÃO,THIAGO
+Mirassol,1 x 0,Grêmio,4,NÃO,THIAGO
+Cruzeiro,2 x 1,Bahia,4,NÃO,THIAGO
+Sport,2 x 1,Bragantino,4,NÃO,THIAGO
+Vitória,2 x 1,Fortaleza,4,NÃO,THIAGO
+Ceará,1 x 2,Vasco,4,NÃO,THIAGO
+Internacional,1 x 1,Palmeiras,4,SIM,THIAGO
+Vasco,2 x 1,Flamengo,5,SIM,THIAGO
+Fluminense,2 x 0,Vitória,5,NÃO,THIAGO
+Corinthians,2 x 0,Sport,5,NÃO,THIAGO
+São Paulo,2 x 1,Santos,5,NÃO,THIAGO
+Bragantino,2 x 1,Cruzeiro,5,NÃO,THIAGO
+Atlético-MG,2 x 1,Botafogo,5,NÃO,THIAGO
+Juventude,1 x 0,Mirassol,5,NÃO,THIAGO
+Bahia,1 x 0,Ceará,5,NÃO,THIAGO
+Fortaleza,0 x 1,Palmeiras,5,NÃO,THIAGO
+Grêmio,1 x 1,Internacional,5,SIM,THIAGO
+Flamengo,2 x 1,Corinthians,6,SIM,THIAGO
+Sport,1 x 0,Fortaleza,6,NÃO,THIAGO
+Palmeiras,1 x 0,Bahia,6,NÃO,THIAGO
+Santos,1 x 0,Bragantino,6,NÃO,THIAGO
+Mirassol,0 x 1,Atlético-MG,6,NÃO,THIAGO
+Cruzeiro,0 x 1,Vasco,6,NÃO,THIAGO
+Internacional,2 x 1,Juventude,6,NÃO,THIAGO
+Vitória,2 x 1,Grêmio,6,NÃO,THIAGO
+Ceará,1 x 1,São Paulo,6,NÃO,THIAGO
+Botafogo,2 x 1,Fluminense,6,SIM,THIAGO
+Vasco,2 x 1,Palmeiras,7,SIM,THIAGO
+Fluminense,2 x 0,Sport,7,NÃO,THIAGO
+Corinthians,2 x 1,Internacional,7,NÃO,THIAGO
+São Paulo,2 x 1,Fortaleza,7,NÃO,THIAGO
+Bragantino,2 x 0,Mirassol,7,NÃO,THIAGO
+Juventude,1 x 2,Atlético-MG,7,NÃO,THIAGO
+Grêmio,2 x 1,Santos,7,NÃO,THIAGO
+Bahia,1 x 0,Botafogo,7,NÃO,THIAGO
+Ceará,1 x 0,Vitória,7,NÃO,THIAGO
+Cruzeiro,1 x 1,Flamengo,7,SIM,THIAGO
+Botafogo,1 x 0,Internacional,8,SIM,THIAGO
+Sport,1 x 0,Cruzeiro,8,NÃO,THIAGO
+Flamengo,1 x 0,Bahia,8,NÃO,THIAGO
+Santos,1 x 0,Ceará,8,NÃO,THIAGO
+Mirassol,0 x 1,Corinthians,8,NÃO,THIAGO
+Atlético-MG,2 x 1,Fluminense,8,NÃO,THIAGO
+Grêmio,2 x 1,Bragantino,8,NÃO,THIAGO
+Vitória,1 x 2,Vasco,8,NÃO,THIAGO
+Fortaleza,2 x 1,Juventude,8,NÃO,THIAGO
+Palmeiras,2 x 1,São Paulo,8,SIM,THIAGO
+Flamengo,2 x 1,Internacional,1,SIM,BOLINHA
+Vasco,2 x 1,Santos,1,NÃO,BOLINHA
+Juventude,1 x 0,Vitória,1,NÃO,BOLINHA
+São Paulo,2 x 0,Sport,1,NÃO,BOLINHA
+Bragantino,1 x 0,Ceará,1,NÃO,BOLINHA
+Cruzeiro,2 x 0,Mirassol,1,NÃO,BOLINHA
+Grêmio,1 x 2,Atlético-MG,1,NÃO,BOLINHA
+Bahia,2 x 1,Corinthians,1,NÃO,BOLINHA
+Fortaleza,1 x 1,Fluminense,1,NÃO,BOLINHA
+Palmeiras,2 x 1,Botafogo,1,SIM,BOLINHA
+Atlético-MG,2 x 1,São Paulo,2,SIM,BOLINHA
+Botafogo,2 x 0,Juventude,2,NÃO,BOLINHA
+Corinthians,1 x 0,Vasco,2,NÃO,BOLINHA
+Santos,2 x 1,Bahia,2,NÃO,BOLINHA
+Mirassol,1 x 0,Fortaleza,2,NÃO,BOLINHA
+Sport,0 x 1,Palmeiras,2,NÃO,BOLINHA
+Fluminense,2 x 0,Bragantino,2,NÃO,BOLINHA
+Vitória,0 x 2,Flamengo,2,NÃO,BOLINHA
+Ceará,2 x 1,Grêmio,2,NÃO,BOLINHA
+Internacional,1 x 0,Cruzeiro,2,SIM,BOLINHA
+Palmeiras,2 x 1,Corinthians,3,SIM,BOLINHA
+Vasco,2 x 0,Sport,3,NÃO,BOLINHA
+Fluminense,2 x 0,Santos,3,NÃO,BOLINHA
+São Paulo,2 x 1,Cruzeiro,3,NÃO,BOLINHA
+Bragantino,1 x 1,Botafogo,3,NÃO,BOLINHA
+Atlético-MG,2 x 0,Vitória,3,NÃO,BOLINHA
+Juventude,1 x 0,Ceará,3,NÃO,BOLINHA
+Bahia,2 x 0,Mirassol,3,NÃO,BOLINHA
+Fortaleza,1 x 2,Internacional,3,NÃO,BOLINHA
+Grêmio,0 x 2,Flamengo,3,SIM,BOLINHA
+Santos,1 x 2,Atlético-MG,4,SIM,BOLINHA
+Botafogo,1 x 0,São Paulo,4,NÃO,BOLINHA
+Corinthians,1 x 0,Fluminense,4,NÃO,BOLINHA
+Flamengo,2 x 0,Juventude,4,NÃO,BOLINHA
+Mirassol,1 x 1,Grêmio,4,NÃO,BOLINHA
+Cruzeiro,2 x 1,Bahia,4,NÃO,BOLINHA
+Sport,1 x 0,Bragantino,4,NÃO,BOLINHA
+Vitória,2 x 1,Fortaleza,4,NÃO,BOLINHA
+Ceará,1 x 1,Vasco,4,NÃO,BOLINHA
+Internacional,1 x 0,Palmeiras,4,SIM,BOLINHA
+Vasco,1 x 2,Flamengo,5,SIM,BOLINHA
+Fluminense,2 x 0,Vitória,5,NÃO,BOLINHA
+Corinthians,2 x 0,Sport,5,NÃO,BOLINHA
+São Paulo,1 x 0,Santos,5,NÃO,BOLINHA
+Bragantino,2 x 1,Cruzeiro,5,NÃO,BOLINHA
+Atlético-MG,1 x 0,Botafogo,5,NÃO,BOLINHA
+Juventude,2 x 0,Mirassol,5,NÃO,BOLINHA
+Bahia,2 x 0,Ceará,5,NÃO,BOLINHA
+Fortaleza,1 x 2,Palmeiras,5,NÃO,BOLINHA
+Grêmio,1 x 2,Internacional,5,SIM,BOLINHA
+Flamengo,3 x 1,Corinthians,6,SIM,BOLINHA
+Sport,1 x 0,Fortaleza,6,NÃO,BOLINHA
+Palmeiras,2 x 0,Bahia,6,NÃO,BOLINHA
+Santos,1 x 0,Bragantino,6,NÃO,BOLINHA
+Mirassol,0 x 2,Atlético-MG,6,NÃO,BOLINHA
+Cruzeiro,1 x 0,Vasco,6,NÃO,BOLINHA
+Internacional,2 x 0,Juventude,6,NÃO,BOLINHA
+Vitória,1 x 0,Grêmio,6,NÃO,BOLINHA
+Ceará,1 x 2,São Paulo,6,NÃO,BOLINHA
+Botafogo,2 x 1,Fluminense,6,SIM,BOLINHA
+Vasco,2 x 1,Palmeiras,7,SIM,BOLINHA
+Fluminense,2 x 0,Sport,7,NÃO,BOLINHA
+Corinthians,2 x 1,Internacional,7,NÃO,BOLINHA
+São Paulo,2 x 0,Fortaleza,7,NÃO,BOLINHA
+Bragantino,3 x 1,Mirassol,7,NÃO,BOLINHA
+Juventude,1 x 2,Atlético-MG,7,NÃO,BOLINHA
+Grêmio,1 x 0,Santos,7,NÃO,BOLINHA
+Bahia,2 x 1,Botafogo,7,NÃO,BOLINHA
+Ceará,2 x 1,Vitória,7,NÃO,BOLINHA
+Cruzeiro,0 x 1,Flamengo,7,SIM,BOLINHA
+Botafogo,1 x 0,Internacional,8,SIM,BOLINHA
+Sport,2 x 1,Cruzeiro,8,NÃO,BOLINHA
+Flamengo,2 x 0,Bahia,8,NÃO,BOLINHA
+Santos,1 x 0,Ceará,8,NÃO,BOLINHA
+Mirassol,0 x 2,Corinthians,8,NÃO,BOLINHA
+Atlético-MG,2 x 1,Fluminense,8,NÃO,BOLINHA
+Grêmio,2 x 1,Bragantino,8,NÃO,BOLINHA
+Vitória,1 x 2,Vasco,8,NÃO,BOLINHA
+Fortaleza,1 x 0,Juventude,8,NÃO,BOLINHA
+Palmeiras,2 x 1,São Paulo,8,SIM,BOLINHA
+Flamengo,1 x 0,Internacional,1,SIM,WILLIAN
+Vasco,1 x 0,Santos,1,NÃO,WILLIAN
+Juventude,1 x 0,Vitória,1,NÃO,WILLIAN
+São Paulo,2 x 0,Sport,1,NÃO,WILLIAN
+Bragantino,2 x 0,Ceará,1,NÃO,WILLIAN
+Cruzeiro,2 x 0,Mirassol,1,NÃO,WILLIAN
+Grêmio,2 x 0,Atlético-MG,1,NÃO,WILLIAN
+Bahia,2 x 0,Corinthians,1,NÃO,WILLIAN
+Fortaleza,0 x 1,Fluminense,1,NÃO,WILLIAN
+Palmeiras,1 x 0,Botafogo,1,SIM,WILLIAN
+Atlético-MG,2 x 0,São Paulo,2,SIM,WILLIAN
+Botafogo,2 x 0,Juventude,2,NÃO,WILLIAN
+Corinthians,2 x 0,Vasco,2,NÃO,WILLIAN
+Santos,1 x 0,Bahia,2,NÃO,WILLIAN
+Mirassol,1 x 0,Fortaleza,2,NÃO,WILLIAN
+Sport,0 x 1,Palmeiras,2,NÃO,WILLIAN
+Fluminense,1 x 0,Bragantino,2,NÃO,WILLIAN
+Vitória,0 x 2,Flamengo,2,NÃO,WILLIAN
+Ceará,1 x 0,Grêmio,2,NÃO,WILLIAN
+Internacional,2 x 0,Cruzeiro,2,SIM,WILLIAN
+Palmeiras,1 x 0,Corinthians,3,SIM,WILLIAN
+Vasco,2 x 0,Sport,3,NÃO,WILLIAN
+Fluminense,2 x 0,Santos,3,NÃO,WILLIAN
+São Paulo,1 x 0,Cruzeiro,3,NÃO,WILLIAN
+Bragantino,1 x 0,Botafogo,3,NÃO,WILLIAN
+Atlético-MG,2 x 0,Vitória,3,NÃO,WILLIAN
+Juventude,1 x 0,Ceará,3,NÃO,WILLIAN
+Bahia,2 x 0,Mirassol,3,NÃO,WILLIAN
+Fortaleza,2 x 0,Internacional,3,NÃO,WILLIAN
+Grêmio,1 x 0,Flamengo,3,SIM,WILLIAN
+Santos,1 x 0,Atlético-MG,4,SIM,WILLIAN
+Botafogo,2 x 0,São Paulo,4,NÃO,WILLIAN
+Corinthians,0 x 1,Fluminense,4,NÃO,WILLIAN
+Flamengo,2 x 0,Juventude,4,NÃO,WILLIAN
+Mirassol,1 x 0,Grêmio,4,NÃO,WILLIAN
+Cruzeiro,2 x 0,Bahia,4,NÃO,WILLIAN
+Sport,1 x 0,Bragantino,4,NÃO,WILLIAN
+Vitória,2 x 0,Fortaleza,4,NÃO,WILLIAN
+Ceará,2 x 0,Vasco,4,NÃO,WILLIAN
+Internacional,1 x 0,Palmeiras,4,SIM,WILLIAN
+Vasco,0 x 1,Flamengo,5,SIM,WILLIAN
+Fluminense,2 x 0,Vitória,5,NÃO,WILLIAN
+Corinthians,2 x 0,Sport,5,NÃO,WILLIAN
+São Paulo,1 x 0,Santos,5,NÃO,WILLIAN
+Bragantino,1 x 0,Cruzeiro,5,NÃO,WILLIAN
+Atlético-MG,2 x 0,Botafogo,5,NÃO,WILLIAN
+Juventude,2 x 0,Mirassol,5,NÃO,WILLIAN
+Bahia,2 x 0,Ceará,5,NÃO,WILLIAN
+Fortaleza,1 x 0,Palmeiras,5,NÃO,WILLIAN
+Grêmio,1 x 0,Internacional,5,SIM,WILLIAN
+Flamengo,1 x 0,Corinthians,6,SIM,WILLIAN
+Sport,2 x 0,Fortaleza,6,NÃO,WILLIAN
+Palmeiras,2 x 0,Bahia,6,NÃO,WILLIAN
+Santos,1 x 0,Bragantino,6,NÃO,WILLIAN
+Mirassol,0 x 2,Atlético-MG,6,NÃO,WILLIAN
+Cruzeiro,2 x 0,Vasco,6,NÃO,WILLIAN
+Internacional,2 x 0,Juventude,6,NÃO,WILLIAN
+Vitória,1 x 0,Grêmio,6,NÃO,WILLIAN
+Ceará,1 x 0,São Paulo,6,NÃO,WILLIAN
+Botafogo,0 x 1,Fluminense,6,SIM,WILLIAN
+Vasco,0 x 2,Palmeiras,7,SIM,WILLIAN
+Fluminense,2 x 0,Sport,7,NÃO,WILLIAN
+Corinthians,1 x 0,Internacional,7,NÃO,WILLIAN
+São Paulo,2 x 0,Fortaleza,7,NÃO,WILLIAN
+Bragantino,2 x 0,Mirassol,7,NÃO,WILLIAN
+Juventude,0 x 1,Atlético-MG,7,NÃO,WILLIAN
+Grêmio,1 x 0,Santos,7,NÃO,WILLIAN
+Bahia,1 x 0,Botafogo,7,NÃO,WILLIAN
+Ceará,1 x 0,Vitória,7,NÃO,WILLIAN
+Cruzeiro,2 x 0,Flamengo,7,SIM,WILLIAN
+Botafogo,1 x 0,Internacional,8,SIM,WILLIAN
+Sport,0 x 1,Cruzeiro,8,NÃO,WILLIAN
+Flamengo,2 x 0,Bahia,8,NÃO,WILLIAN
+Santos,2 x 0,Ceará,8,NÃO,WILLIAN
+Mirassol,0 x 1,Corinthians,8,NÃO,WILLIAN
+Atlético-MG,1 x 0,Fluminense,8,NÃO,WILLIAN
+Grêmio,2 x 0,Bragantino,8,NÃO,WILLIAN
+Vitória,2 x 0,Vasco,8,NÃO,WILLIAN
+Fortaleza,2 x 0,Juventude,8,NÃO,WILLIAN
+Palmeiras,1 x 0,São Paulo,8,SIM,WILLIAN
+Flamengo,2 x 1,Internacional,1,SIM,TOINHO
+Vasco,1 x 0,Santos,1,NÃO,TOINHO
+Juventude,2 x 0,Vitória,1,NÃO,TOINHO
+São Paulo,2 x 0,Sport,1,NÃO,TOINHO
+Bragantino,1 x 0,Ceará,1,NÃO,TOINHO
+Cruzeiro,2 x 0,Mirassol,1,NÃO,TOINHO
+Grêmio,1 x 1,Atlético-MG,1,NÃO,TOINHO
+Bahia,1 x 0,Corinthians,1,NÃO,TOINHO
+Fortaleza,1 x 2,Fluminense,1,NÃO,TOINHO
+Palmeiras,2 x 1,Botafogo,1,SIM,TOINHO
+Atlético-MG,2 x 1,São Paulo,2,SIM,TOINHO
+Botafogo,2 x 0,Juventude,2,NÃO,TOINHO
+Corinthians,2 x 0,Vasco,2,NÃO,TOINHO
+Santos,2 x 1,Bahia,2,NÃO,TOINHO
+Mirassol,1 x 0,Fortaleza,2,NÃO,TOINHO
+Sport,1 x 2,Palmeiras,2,NÃO,TOINHO
+Fluminense,2 x 0,Bragantino,2,NÃO,TOINHO
+Vitória,0 x 2,Flamengo,2,NÃO,TOINHO
+Ceará,1 x 0,Grêmio,2,NÃO,TOINHO
+Internacional,2 x 1,Cruzeiro,2,SIM,TOINHO
+Palmeiras,2 x 1,Corinthians,3,SIM,TOINHO
+Vasco,2 x 1,Sport,3,NÃO,TOINHO
+Fluminense,2 x 1,Santos,3,NÃO,TOINHO
+São Paulo,2 x 1,Cruzeiro,3,NÃO,TOINHO
+Bragantino,1 x 2,Botafogo,3,NÃO,TOINHO
+Atlético-MG,2 x 0,Vitória,3,NÃO,TOINHO
+Juventude,2 x 0,Ceará,3,NÃO,TOINHO
+Bahia,2 x 0,Mirassol,3,NÃO,TOINHO
+Fortaleza,1 x 0,Internacional,3,NÃO,TOINHO
+Grêmio,1 x 1,Flamengo,3,SIM,TOINHO
+Santos,1 x 0,Atlético-MG,4,SIM,TOINHO
+Botafogo,1 x 0,São Paulo,4,NÃO,TOINHO
+Corinthians,1 x 2,Fluminense,4,NÃO,TOINHO
+Flamengo,3 x 0,Juventude,4,NÃO,TOINHO
+Mirassol,1 x 1,Grêmio,4,NÃO,TOINHO
+Cruzeiro,2 x 1,Bahia,4,NÃO,TOINHO
+Sport,1 x 0,Bragantino,4,NÃO,TOINHO
+Vitória,1 x 1,Fortaleza,4,NÃO,TOINHO
+Ceará,1 x 0,Vasco,4,NÃO,TOINHO
+Internacional,2 x 1,Palmeiras,4,SIM,TOINHO
+Vasco,1 x 1,Flamengo,5,SIM,TOINHO
+Fluminense,2 x 0,Vitória,5,NÃO,TOINHO
+Corinthians,2 x 0,Sport,5,NÃO,TOINHO
+São Paulo,2 x 1,Santos,5,NÃO,TOINHO
+Bragantino,1 x 0,Cruzeiro,5,NÃO,TOINHO
+Atlético-MG,1 x 0,Botafogo,5,NÃO,TOINHO
+Juventude,2 x 1,Mirassol,5,NÃO,TOINHO
+Bahia,2 x 0,Ceará,5,NÃO,TOINHO
+Fortaleza,1 x 1,Palmeiras,5,NÃO,TOINHO
+Grêmio,1 x 1,Internacional,5,SIM,TOINHO
+Flamengo,2 x 1,Corinthians,6,SIM,TOINHO
+Sport,1 x 1,Fortaleza,6,NÃO,TOINHO
+Palmeiras,2 x 0,Bahia,6,NÃO,TOINHO
+Santos,2 x 1,Bragantino,6,NÃO,TOINHO
+Mirassol,1 x 1,Atlético-MG,6,NÃO,TOINHO
+Cruzeiro,2 x 1,Vasco,6,NÃO,TOINHO
+Internacional,1 x 0,Juventude,6,NÃO,TOINHO
+Vitória,1 x 0,Grêmio,6,NÃO,TOINHO
+Ceará,1 x 1,São Paulo,6,NÃO,TOINHO
+Botafogo,1 x 2,Fluminense,6,SIM,TOINHO
+Vasco,1 x 1,Palmeiras,7,SIM,TOINHO
+Fluminense,2 x 0,Sport,7,NÃO,TOINHO
+Corinthians,2 x 1,Internacional,7,NÃO,TOINHO
+São Paulo,2 x 1,Fortaleza,7,NÃO,TOINHO
+Bragantino,2 x 0,Mirassol,7,NÃO,TOINHO
+Juventude,1 x 1,Atlético-MG,7,NÃO,TOINHO
+Grêmio,2 x 1,Santos,7,NÃO,TOINHO
+Bahia,1 x 0,Botafogo,7,NÃO,TOINHO
+Ceará,2 x 0,Vitória,7,NÃO,TOINHO
+Cruzeiro,1 x 0,Flamengo,7,SIM,TOINHO
+Botafogo,2 x 1,Internacional,8,SIM,TOINHO
+Sport,1 x 1,Cruzeiro,8,NÃO,TOINHO
+Flamengo,1 x 0,Bahia,8,NÃO,TOINHO
+Santos,2 x 1,Ceará,8,NÃO,TOINHO
+Mirassol,1 x 1,Corinthians,8,NÃO,TOINHO
+Atlético-MG,0 x 2,Fluminense,8,NÃO,TOINHO
+Grêmio,1 x 0,Bragantino,8,NÃO,TOINHO
+Vitória,1 x 1,Vasco,8,NÃO,TOINHO
+Fortaleza,1 x 0,Juventude,8,NÃO,TOINHO
+Palmeiras,2 x 1,São Paulo,8,SIM,TOINHO
+Flamengo,2 x 1,Internacional,1,SIM,RUAN
+Vasco,1 x 0,Santos,1,NÃO,RUAN
+Juventude,1 x 0,Vitória,1,NÃO,RUAN
+São Paulo,2 x 0,Sport,1,NÃO,RUAN
+Bragantino,2 x 1,Ceará,1,NÃO,RUAN
+Cruzeiro,2 x 0,Mirassol,1,NÃO,RUAN
+Grêmio,1 x 1,Atlético-MG,1,NÃO,RUAN
+Bahia,1 x 0,Corinthians,1,NÃO,RUAN
+Fortaleza,2 x 1,Fluminense,1,NÃO,RUAN
+Palmeiras,2 x 1,Botafogo,1,SIM,RUAN
+Atlético-MG,2 x 1,São Paulo,2,SIM,RUAN
+Botafogo,2 x 1,Juventude,2,NÃO,RUAN
+Corinthians,1 x 0,Vasco,2,NÃO,RUAN
+Santos,2 x 1,Bahia,2,NÃO,RUAN
+Mirassol,0 x 2,Fortaleza,2,NÃO,RUAN
+Sport,0 x 1,Palmeiras,2,NÃO,RUAN
+Fluminense,2 x 1,Bragantino,2,NÃO,RUAN
+Vitória,1 x 2,Flamengo,2,NÃO,RUAN
+Ceará,1 x 0,Grêmio,2,NÃO,RUAN
+Internacional,1 x 0,Cruzeiro,2,SIM,RUAN
+Palmeiras,2 x 1,Corinthians,3,SIM,RUAN
+Vasco,2 x 1,Sport,3,NÃO,RUAN
+Fluminense,1 x 0,Santos,3,NÃO,RUAN
+São Paulo,2 x 0,Cruzeiro,3,NÃO,RUAN
+Bragantino,2 x 1,Botafogo,3,NÃO,RUAN
+Atlético-MG,2 x 0,Vitória,3,NÃO,RUAN
+Juventude,1 x 0,Ceará,3,NÃO,RUAN
+Bahia,2 x 0,Mirassol,3,NÃO,RUAN
+Fortaleza,0 x 1,Internacional,3,NÃO,RUAN
+Grêmio,1 x 2,Flamengo,3,SIM,RUAN
+Santos,2 x 1,Atlético-MG,4,SIM,RUAN
+Botafogo,2 x 1,São Paulo,4,NÃO,RUAN
+Corinthians,1 x 0,Fluminense,4,NÃO,RUAN
+Flamengo,2 x 0,Juventude,4,NÃO,RUAN
+Mirassol,1 x 0,Grêmio,4,NÃO,RUAN
+Cruzeiro,2 x 0,Bahia,4,NÃO,RUAN
+Sport,1 x 0,Bragantino,4,NÃO,RUAN
+Vitória,1 x 1,Fortaleza,4,NÃO,RUAN
+Ceará,0 x 1,Vasco,4,NÃO,RUAN
+Internacional,1 x 0,Palmeiras,4,SIM,RUAN
+Vasco,1 x 2,Flamengo,5,SIM,RUAN
+Fluminense,2 x 0,Vitória,5,NÃO,RUAN
+Corinthians,2 x 0,Sport,5,NÃO,RUAN
+São Paulo,2 x 1,Santos,5,NÃO,RUAN
+Bragantino,2 x 1,Cruzeiro,5,NÃO,RUAN
+Atlético-MG,1 x 0,Botafogo,5,NÃO,RUAN
+Juventude,1 x 0,Mirassol,5,NÃO,RUAN
+Bahia,2 x 1,Ceará,5,NÃO,RUAN
+Fortaleza,1 x 1,Palmeiras,5,NÃO,RUAN
+Grêmio,1 x 0,Internacional,5,SIM,RUAN
+Flamengo,2 x 0,Corinthians,6,SIM,RUAN
+Sport,2 x 1,Fortaleza,6,NÃO,RUAN
+Palmeiras,2 x 1,Bahia,6,NÃO,RUAN
+Santos,1 x 0,Bragantino,6,NÃO,RUAN
+Mirassol,0 x 2,Atlético-MG,6,NÃO,RUAN
+Cruzeiro,2 x 1,Vasco,6,NÃO,RUAN
+Internacional,2 x 0,Juventude,6,NÃO,RUAN
+Vitória,1 x 0,Grêmio,6,NÃO,RUAN
+Ceará,0 x 1,São Paulo,6,NÃO,RUAN
+Botafogo,1 x 1,Fluminense,6,SIM,RUAN
+Vasco,1 x 2,Palmeiras,7,SIM,RUAN
+Fluminense,2 x 0,Sport,7,NÃO,RUAN
+Corinthians,1 x 0,Internacional,7,NÃO,RUAN
+São Paulo,2 x 1,Fortaleza,7,NÃO,RUAN
+Bragantino,2 x 1,Mirassol,7,NÃO,RUAN
+Juventude,0 x 2,Atlético-MG,7,NÃO,RUAN
+Grêmio,1 x 0,Santos,7,NÃO,RUAN
+Bahia,1 x 0,Botafogo,7,NÃO,RUAN
+Ceará,2 x 0,Vitória,7,NÃO,RUAN
+Cruzeiro,1 x 2,Flamengo,7,SIM,RUAN
+Botafogo,2 x 1,Internacional,8,SIM,RUAN
+Sport,1 x 0,Cruzeiro,8,NÃO,RUAN
+Flamengo,2 x 0,Bahia,8,NÃO,RUAN
+Santos,2 x 0,Ceará,8,NÃO,RUAN
+Mirassol,1 x 0,Corinthians,8,NÃO,RUAN
+Atlético-MG,1 x 0,Fluminense,8,NÃO,RUAN
+Grêmio,2 x 1,Bragantino,8,NÃO,RUAN
+Vitória,1 x 0,Vasco,8,NÃO,RUAN
+Fortaleza,2 x 0,Juventude,8,NÃO,RUAN
+Palmeiras,1 x 0,São Paulo,8,SIM,RUAN
+Flamengo,2 x 1,Internacional,1,SIM,GABRIEL
+Vasco,1 x 1,Santos,1,NÃO,GABRIEL
+Juventude,0 x 1,Vitória,1,NÃO,GABRIEL
+São Paulo,1 x 0,Sport,1,NÃO,GABRIEL
+Bragantino,1 x 2,Ceará,1,NÃO,GABRIEL
+Cruzeiro,2 x 1,Mirassol,1,NÃO,GABRIEL
+Grêmio,1 x 0,Atlético-MG,1,NÃO,GABRIEL
+Bahia,1 x 0,Corinthians,1,NÃO,GABRIEL
+Fortaleza,2 x 1,Fluminense,1,NÃO,GABRIEL
+Palmeiras,1 x 0,Botafogo,1,SIM,GABRIEL
+Atlético-MG,1 x 0,São Paulo,2,SIM,GABRIEL
+Botafogo,2 x 0,Juventude,2,NÃO,GABRIEL
+Corinthians,1 x 0,Vasco,2,NÃO,GABRIEL
+Santos,1 x 1,Bahia,2,NÃO,GABRIEL
+Mirassol,1 x 2,Fortaleza,2,NÃO,GABRIEL
+Sport,1 x 2,Palmeiras,2,NÃO,GABRIEL
+Fluminense,1 x 0,Bragantino,2,NÃO,GABRIEL
+Vitória,1 x 2,Flamengo,2,NÃO,GABRIEL
+Ceará,1 x 0,Grêmio,2,NÃO,GABRIEL
+Internacional,2 x 1,Cruzeiro,2,SIM,GABRIEL
+Palmeiras,1 x 1,Corinthians,3,SIM,GABRIEL
+Vasco,1 x 0,Sport,3,NÃO,GABRIEL
+Fluminense,0 x 1,Santos,3,NÃO,GABRIEL
+São Paulo,1 x 2,Cruzeiro,3,NÃO,GABRIEL
+Bragantino,1 x 2,Botafogo,3,NÃO,GABRIEL
+Atlético-MG,2 x 0,Vitória,3,NÃO,GABRIEL
+Juventude,2 x 1,Ceará,3,NÃO,GABRIEL
+Bahia,2 x 1,Mirassol,3,NÃO,GABRIEL
+Fortaleza,2 x 2,Internacional,3,NÃO,GABRIEL
+Grêmio,1 x 2,Flamengo,3,SIM,GABRIEL
+Santos,2 x 1,Atlético-MG,4,SIM,GABRIEL
+Botafogo,1 x 0,São Paulo,4,NÃO,GABRIEL
+Corinthians,2 x 1,Fluminense,4,NÃO,GABRIEL
+Flamengo,2 x 0,Juventude,4,NÃO,GABRIEL
+Mirassol,0 x 2,Grêmio,4,NÃO,GABRIEL
+Cruzeiro,1 x 2,Bahia,4,NÃO,GABRIEL
+Sport,1 x 0,Bragantino,4,NÃO,GABRIEL
+Vitória,2 x 1,Fortaleza,4,NÃO,GABRIEL
+Ceará,2 x 0,Vasco,4,NÃO,GABRIEL
+Internacional,2 x 1,Palmeiras,4,SIM,GABRIEL
+Vasco,1 x 2,Flamengo,5,SIM,GABRIEL
+Fluminense,1 x 0,Vitória,5,NÃO,GABRIEL
+Corinthians,2 x 0,Sport,5,NÃO,GABRIEL
+São Paulo,2 x 1,Santos,5,NÃO,GABRIEL
+Bragantino,0 x 1,Cruzeiro,5,NÃO,GABRIEL
+Atlético-MG,1 x 1,Botafogo,5,NÃO,GABRIEL
+Juventude,1 x 0,Mirassol,5,NÃO,GABRIEL
+Bahia,2 x 1,Ceará,5,NÃO,GABRIEL
+Fortaleza,2 x 1,Palmeiras,5,NÃO,GABRIEL
+Grêmio,1 x 0,Internacional,5,SIM,GABRIEL
+Flamengo,2 x 1,Corinthians,6,SIM,GABRIEL
+Sport,1 x 0,Fortaleza,6,NÃO,GABRIEL
+Palmeiras,2 x 1,Bahia,6,NÃO,GABRIEL
+Santos,2 x 0,Bragantino,6,NÃO,GABRIEL
+Mirassol,1 x 2,Atlético-MG,6,NÃO,GABRIEL
+Cruzeiro,2 x 1,Vasco,6,NÃO,GABRIEL
+Internacional,2 x 0,Juventude,6,NÃO,GABRIEL
+Vitória,0 x 1,Grêmio,6,NÃO,GABRIEL
+Ceará,0 x 1,São Paulo,6,NÃO,GABRIEL
+Botafogo,2 x 1,Fluminense,6,SIM,GABRIEL
+Vasco,0 x 2,Palmeiras,7,SIM,GABRIEL
+Fluminense,1 x 0,Sport,7,NÃO,GABRIEL
+Corinthians,1 x 1,Internacional,7,NÃO,GABRIEL
+São Paulo,2 x 1,Fortaleza,7,NÃO,GABRIEL
+Bragantino,1 x 1,Mirassol,7,NÃO,GABRIEL
+Juventude,1 x 2,Atlético-MG,7,NÃO,GABRIEL
+Grêmio,1 x 0,Santos,7,NÃO,GABRIEL
+Bahia,2 x 1,Botafogo,7,NÃO,GABRIEL
+Ceará,2 x 1,Vitória,7,NÃO,GABRIEL
+Cruzeiro,0 x 1,Flamengo,7,SIM,GABRIEL
+Botafogo,2 x 1,Internacional,8,SIM,GABRIEL
+Sport,0 x 1,Cruzeiro,8,NÃO,GABRIEL
+Flamengo,3 x 1,Bahia,8,NÃO,GABRIEL
+Santos,1 x 0,Ceará,8,NÃO,GABRIEL
+Mirassol,0 x 2,Corinthians,8,NÃO,GABRIEL
+Atlético-MG,2 x 1,Fluminense,8,NÃO,GABRIEL
+Grêmio,1 x 0,Bragantino,8,NÃO,GABRIEL
+Vitória,2 x 1,Vasco,8,NÃO,GABRIEL
+Fortaleza,2 x 0,Juventude,8,NÃO,GABRIEL
+Palmeiras,0 x 0,São Paulo,8,SIM,GABRIEL
+Flamengo,2 x 1,Internacional,1,SIM,ALLAN
+Vasco,2 x 1,Santos,1,NÃO,ALLAN
+Juventude,1 x 0,Vitória,1,NÃO,ALLAN
+São Paulo,2 x 0,Sport,1,NÃO,ALLAN
+Bragantino,1 x 0,Ceará,1,NÃO,ALLAN
+Cruzeiro,1 x 0,Mirassol,1,NÃO,ALLAN
+Grêmio,1 x 2,Atlético-MG,1,NÃO,ALLAN
+Bahia,2 x 3,Corinthians,1,NÃO,ALLAN
+Fortaleza,1 x 0,Fluminense,1,NÃO,ALLAN
+Palmeiras,1 x 1,Botafogo,1,SIM,ALLAN
+Atlético-MG,2 x 1,São Paulo,2,SIM,ALLAN
+Botafogo,1 x 0,Juventude,2,NÃO,ALLAN
+Corinthians,1 x 1,Vasco,2,NÃO,ALLAN
+Santos,2 x 0,Bahia,2,NÃO,ALLAN
+Mirassol,1 x 0,Fortaleza,2,NÃO,ALLAN
+Sport,1 x 2,Palmeiras,2,NÃO,ALLAN
+Fluminense,1 x 0,Bragantino,2,NÃO,ALLAN
+Vitória,1 x 2,Flamengo,2,NÃO,ALLAN
+Ceará,0 x 0,Grêmio,2,NÃO,ALLAN
+Internacional,2 x 1,Cruzeiro,2,SIM,ALLAN
+Palmeiras,0 x 1,Corinthians,3,SIM,ALLAN
+Vasco,2 x 1,Sport,3,NÃO,ALLAN
+Fluminense,1 x 0,Santos,3,NÃO,ALLAN
+São Paulo,2 x 1,Cruzeiro,3,NÃO,ALLAN
+Bragantino,1 x 0,Botafogo,3,NÃO,ALLAN
+Atlético-MG,2 x 0,Vitória,3,NÃO,ALLAN
+Juventude,1 x 1,Ceará,3,NÃO,ALLAN
+Bahia,3 x 1,Mirassol,3,NÃO,ALLAN
+Fortaleza,1 x 0,Internacional,3,NÃO,ALLAN
+Grêmio,1 x 2,Flamengo,3,SIM,ALLAN
+Santos,1 x 0,Atlético-MG,4,SIM,ALLAN
+Botafogo,2 x 1,São Paulo,4,NÃO,ALLAN
+Corinthians,3 x 1,Fluminense,4,NÃO,ALLAN
+Flamengo,2 x 1,Juventude,4,NÃO,ALLAN
+Mirassol,0 x 2,Grêmio,4,NÃO,ALLAN
+Cruzeiro,2 x 1,Bahia,4,NÃO,ALLAN
+Sport,0 x 2,Bragantino,4,NÃO,ALLAN
+Vitória,1 x 0,Fortaleza,4,NÃO,ALLAN
+Ceará,1 x 2,Vasco,4,NÃO,ALLAN
+Internacional,2 x 1,Palmeiras,4,SIM,ALLAN
+Vasco,2 x 1,Flamengo,5,SIM,ALLAN
+Fluminense,2 x 1,Vitória,5,NÃO,ALLAN
+Corinthians,2 x 0,Sport,5,NÃO,ALLAN
+São Paulo,1 x 0,Santos,5,NÃO,ALLAN
+Bragantino,1 x 0,Cruzeiro,5,NÃO,ALLAN
+Atlético-MG,2 x 0,Botafogo,5,NÃO,ALLAN
+Juventude,3 x 1,Mirassol,5,NÃO,ALLAN
+Bahia,2 x 1,Ceará,5,NÃO,ALLAN
+Fortaleza,1 x 2,Palmeiras,5,NÃO,ALLAN
+Grêmio,0 x 2,Internacional,5,SIM,ALLAN
+Flamengo,0 x 1,Corinthians,6,SIM,ALLAN
+Sport,1 x 0,Fortaleza,6,NÃO,ALLAN
+Palmeiras,2 x 0,Bahia,6,NÃO,ALLAN
+Santos,2 x 1,Bragantino,6,NÃO,ALLAN
+Mirassol,0 x 2,Atlético-MG,6,NÃO,ALLAN
+Cruzeiro,0 x 1,Vasco,6,NÃO,ALLAN
+Internacional,2 x 1,Juventude,6,NÃO,ALLAN
+Vitória,0 x 2,Grêmio,6,NÃO,ALLAN
+Ceará,1 x 1,São Paulo,6,NÃO,ALLAN
+Botafogo,2 x 1,Fluminense,6,SIM,ALLAN
+Vasco,1 x 1,Palmeiras,7,SIM,ALLAN
+Fluminense,2 x 0,Sport,7,NÃO,ALLAN
+Corinthians,2 x 1,Internacional,7,NÃO,ALLAN
+São Paulo,1 x 0,Fortaleza,7,NÃO,ALLAN
+Bragantino,2 x 0,Mirassol,7,NÃO,ALLAN
+Juventude,1 x 2,Atlético-MG,7,NÃO,ALLAN
+Grêmio,1 x 0,Santos,7,NÃO,ALLAN
+Bahia,3 x 1,Botafogo,7,NÃO,ALLAN
+Ceará,1 x 0,Vitória,7,NÃO,ALLAN
+Cruzeiro,2 x 3,Flamengo,7,SIM,ALLAN
+Botafogo,1 x 0,Internacional,8,SIM,ALLAN
+Sport,1 x 0,Cruzeiro,8,NÃO,ALLAN
+Flamengo,2 x 1,Bahia,8,NÃO,ALLAN
+Santos,2 x 1,Ceará,8,NÃO,ALLAN
+Mirassol,0 x 3,Corinthians,8,NÃO,ALLAN
+Atlético-MG,2 x 0,Fluminense,8,NÃO,ALLAN
+Grêmio,1 x 1,Bragantino,8,NÃO,ALLAN
+Vitória,1 x 2,Vasco,8,NÃO,ALLAN
+Fortaleza,2 x 0,Juventude,8,NÃO,ALLAN
+Palmeiras,2 x 1,São Paulo,8,SIM,ALLAN
+Flamengo,2 x 1,Internacional,1,SIM,LORRAN
+Vasco,1 x 1,Santos,1,NÃO,LORRAN
+Juventude,1 x 1,Vitória,1,NÃO,LORRAN
+São Paulo,2 x 0,Sport,1,NÃO,LORRAN
+Bragantino,2 x 1,Ceará,1,NÃO,LORRAN
+Cruzeiro,2 x 0,Mirassol,1,NÃO,LORRAN
+Grêmio,1 x 1,Atlético-MG,1,NÃO,LORRAN
+Bahia,1 x 0,Corinthians,1,NÃO,LORRAN
+Fortaleza,2 x 1,Fluminense,1,NÃO,LORRAN
+Palmeiras,2 x 1,Botafogo,1,SIM,LORRAN
+Atlético-MG,1 x 0,São Paulo,2,SIM,LORRAN
+Botafogo,2 x 0,Juventude,2,NÃO,LORRAN
+Corinthians,2 x 1,Vasco,2,NÃO,LORRAN
+Santos,2 x 1,Bahia,2,NÃO,LORRAN
+Mirassol,1 x 1,Fortaleza,2,NÃO,LORRAN
+Sport,0 x 2,Palmeiras,2,NÃO,LORRAN
+Fluminense,2 x 1,Bragantino,2,NÃO,LORRAN
+Vitória,0 x 2,Flamengo,2,NÃO,LORRAN
+Ceará,1 x 1,Grêmio,2,NÃO,LORRAN
+Internacional,2 x 1,Cruzeiro,2,SIM,LORRAN
+Palmeiras,1 x 1,Corinthians,3,SIM,LORRAN
+Vasco,2 x 1,Sport,3,NÃO,LORRAN
+Fluminense,1 x 1,Santos,3,NÃO,LORRAN
+São Paulo,2 x 1,Cruzeiro,3,NÃO,LORRAN
+Bragantino,0 x 1,Botafogo,3,NÃO,LORRAN
+Atlético-MG,2 x 0,Vitória,3,NÃO,LORRAN
+Juventude,1 x 0,Ceará,3,NÃO,LORRAN
+Bahia,2 x 0,Mirassol,3,NÃO,LORRAN
+Fortaleza,1 x 1,Internacional,3,NÃO,LORRAN
+Grêmio,1 x 2,Flamengo,3,SIM,LORRAN
+Santos,2 x 1,Atlético-MG,4,SIM,LORRAN
+Botafogo,1 x 1,São Paulo,4,NÃO,LORRAN
+Corinthians,1 x 0,Fluminense,4,NÃO,LORRAN
+Flamengo,2 x 0,Juventude,4,NÃO,LORRAN
+Mirassol,1 x 0,Grêmio,4,NÃO,LORRAN
+Cruzeiro,2 x 1,Bahia,4,NÃO,LORRAN
+Sport,1 x 1,Bragantino,4,NÃO,LORRAN
+Vitória,0 x 1,Fortaleza,4,NÃO,LORRAN
+Ceará,1 x 1,Vasco,4,NÃO,LORRAN
+Internacional,2 x 1,Palmeiras,4,SIM,LORRAN
+Vasco,1 x 2,Flamengo,5,SIM,LORRAN
+Fluminense,2 x 0,Vitória,5,NÃO,LORRAN
+Corinthians,2 x 0,Sport,5,NÃO,LORRAN
+São Paulo,1 x 1,Santos,5,NÃO,LORRAN
+Bragantino,1 x 2,Cruzeiro,5,NÃO,LORRAN
+Atlético-MG,1 x 1,Botafogo,5,NÃO,LORRAN
+Juventude,1 x 0,Mirassol,5,NÃO,LORRAN
+Bahia,2 x 1,Ceará,5,NÃO,LORRAN
+Fortaleza,1 x 1,Palmeiras,5,NÃO,LORRAN
+Grêmio,0 x 2,Internacional,5,SIM,LORRAN
+Flamengo,2 x 0,Corinthians,6,SIM,LORRAN
+Sport,1 x 1,Fortaleza,6,NÃO,LORRAN
+Palmeiras,2 x 0,Bahia,6,NÃO,LORRAN
+Santos,1 x 1,Bragantino,6,NÃO,LORRAN
+Mirassol,0 x 1,Atlético-MG,6,NÃO,LORRAN
+Cruzeiro,2 x 0,Vasco,6,NÃO,LORRAN
+Internacional,2 x 0,Juventude,6,NÃO,LORRAN
+Vitória,1 x 0,Grêmio,6,NÃO,LORRAN
+Ceará,1 x 2,São Paulo,6,NÃO,LORRAN
+Botafogo,1 x 1,Fluminense,6,SIM,LORRAN
+Vasco,1 x 2,Palmeiras,7,SIM,LORRAN
+Fluminense,2 x 0,Sport,7,NÃO,LORRAN
+Corinthians,1 x 1,Internacional,7,NÃO,LORRAN
+São Paulo,2 x 1,Fortaleza,7,NÃO,LORRAN
+Bragantino,2 x 0,Mirassol,7,NÃO,LORRAN
+Juventude,1 x 2,Atlético-MG,7,NÃO,LORRAN
+Grêmio,1 x 1,Santos,7,NÃO,LORRAN
+Bahia,1 x 1,Botafogo,7,NÃO,LORRAN
+Ceará,2 x 1,Vitória,7,NÃO,LORRAN
+Cruzeiro,0 x 1,Flamengo,7,SIM,LORRAN
+Botafogo,1 x 1,Internacional,8,SIM,LORRAN
+Sport,0 x 1,Cruzeiro,8,NÃO,LORRAN
+Flamengo,2 x 0,Bahia,8,NÃO,LORRAN
+Santos,1 x 0,Ceará,8,NÃO,LORRAN
+Mirassol,1 x 2,Corinthians,8,NÃO,LORRAN
+Atlético-MG,2 x 1,Fluminense,8,NÃO,LORRAN
+Grêmio,1 x 0,Bragantino,8,NÃO,LORRAN
+Vitória,1 x 1,Vasco,8,NÃO,LORRAN
+Fortaleza,2 x 0,Juventude,8,NÃO,LORRAN
+Palmeiras,1 x 1,São Paulo,8,SIM,LORRAN
+Flamengo,2 x 1,Internacional,1,SIM,SHESLEY
+Vasco,1 x 0,Santos,1,NÃO,SHESLEY
+Juventude,2 x 0,Vitória,1,NÃO,SHESLEY
+São Paulo,2 x 0,Sport,1,NÃO,SHESLEY
+Bragantino,1 x 1,Ceará,1,NÃO,SHESLEY
+Cruzeiro,2 x 1,Mirassol,1,NÃO,SHESLEY
+Grêmio,1 x 2,Atlético-MG,1,NÃO,SHESLEY
+Bahia,0 x 1,Corinthians,1,NÃO,SHESLEY
+Fortaleza,2 x 1,Fluminense,1,NÃO,SHESLEY
+Palmeiras,1 x 1,Botafogo,1,SIM,SHESLEY
+Atlético-MG,2 x 1,São Paulo,2,SIM,SHESLEY
+Botafogo,3 x 1,Juventude,2,NÃO,SHESLEY
+Corinthians,3 x 0,Vasco,2,NÃO,SHESLEY
+Santos,2 x 1,Bahia,2,NÃO,SHESLEY
+Mirassol,0 x 0,Fortaleza,2,NÃO,SHESLEY
+Sport,1 x 2,Palmeiras,2,NÃO,SHESLEY
+Fluminense,2 x 0,Bragantino,2,NÃO,SHESLEY
+Vitória,1 x 2,Flamengo,2,NÃO,SHESLEY
+Ceará,1 x 1,Grêmio,2,NÃO,SHESLEY
+Internacional,2 x 0,Cruzeiro,2,SIM,SHESLEY
+Palmeiras,1 x 1,Corinthians,3,SIM,SHESLEY
+Vasco,2 x 1,Sport,3,NÃO,SHESLEY
+Fluminense,1 x 1,Santos,3,NÃO,SHESLEY
+São Paulo,2 x 0,Cruzeiro,3,NÃO,SHESLEY
+Bragantino,0 x 1,Botafogo,3,NÃO,SHESLEY
+Atlético-MG,3 x 1,Vitória,3,NÃO,SHESLEY
+Juventude,1 x 0,Ceará,3,NÃO,SHESLEY
+Bahia,2 x 0,Mirassol,3,NÃO,SHESLEY
+Fortaleza,1 x 2,Internacional,3,NÃO,SHESLEY
+Grêmio,0 x 1,Flamengo,3,SIM,SHESLEY
+Santos,2 x 1,Atlético-MG,4,SIM,SHESLEY
+Botafogo,2 x 2,São Paulo,4,NÃO,SHESLEY
+Corinthians,2 x 0,Fluminense,4,NÃO,SHESLEY
+Flamengo,3 x 0,Juventude,4,NÃO,SHESLEY
+Mirassol,1 x 0,Grêmio,4,NÃO,SHESLEY
+Cruzeiro,2 x 1,Bahia,4,NÃO,SHESLEY
+Sport,1 x 0,Bragantino,4,NÃO,SHESLEY
+Vitória,2 x 1,Fortaleza,4,NÃO,SHESLEY
+Ceará,2 x 1,Vasco,4,NÃO,SHESLEY
+Internacional,2 x 1,Palmeiras,4,SIM,SHESLEY
+Vasco,0 x 2,Flamengo,5,SIM,SHESLEY
+Fluminense,1 x 0,Vitória,5,NÃO,SHESLEY
+Corinthians,2 x 0,Sport,5,NÃO,SHESLEY
+São Paulo,2 x 1,Santos,5,NÃO,SHESLEY
+Bragantino,1 x 1,Cruzeiro,5,NÃO,SHESLEY
+Atlético-MG,2 x 1,Botafogo,5,NÃO,SHESLEY
+Juventude,2 x 0,Mirassol,5,NÃO,SHESLEY
+Bahia,2 x 0,Ceará,5,NÃO,SHESLEY
+Fortaleza,1 x 2,Palmeiras,5,NÃO,SHESLEY
+Grêmio,0 x 1,Internacional,5,SIM,SHESLEY
+Flamengo,2 x 1,Corinthians,6,SIM,SHESLEY
+Sport,1 x 1,Fortaleza,6,NÃO,SHESLEY
+Palmeiras,3 x 1,Bahia,6,NÃO,SHESLEY
+Santos,2 x 1,Bragantino,6,NÃO,SHESLEY
+Mirassol,0 x 3,Atlético-MG,6,NÃO,SHESLEY
+Cruzeiro,1 x 0,Vasco,6,NÃO,SHESLEY
+Internacional,2 x 0,Juventude,6,NÃO,SHESLEY
+Vitória,0 x 0,Grêmio,6,NÃO,SHESLEY
+Ceará,1 x 1,São Paulo,6,NÃO,SHESLEY
+Botafogo,1 x 1,Fluminense,6,SIM,SHESLEY
+Vasco,2 x 1,Palmeiras,7,SIM,SHESLEY
+Fluminense,2 x 0,Sport,7,NÃO,SHESLEY
+Corinthians,2 x 1,Internacional,7,NÃO,SHESLEY
+São Paulo,2 x 0,Fortaleza,7,NÃO,SHESLEY
+Bragantino,1 x 1,Mirassol,7,NÃO,SHESLEY
+Juventude,0 x 1,Atlético-MG,7,NÃO,SHESLEY
+Grêmio,2 x 1,Santos,7,NÃO,SHESLEY
+Bahia,1 x 0,Botafogo,7,NÃO,SHESLEY
+Ceará,2 x 1,Vitória,7,NÃO,SHESLEY
+Cruzeiro,0 x 2,Flamengo,7,SIM,SHESLEY
+Botafogo,1 x 1,Internacional,8,SIM,SHESLEY
+Sport,1 x 0,Cruzeiro,8,NÃO,SHESLEY
+Flamengo,2 x 0,Bahia,8,NÃO,SHESLEY
+Santos,2 x 0,Ceará,8,NÃO,SHESLEY
+Mirassol,1 x 2,Corinthians,8,NÃO,SHESLEY
+Atlético-MG,2 x 1,Fluminense,8,NÃO,SHESLEY
+Grêmio,1 x 0,Bragantino,8,NÃO,SHESLEY
+Vitória,1 x 1,Vasco,8,NÃO,SHESLEY
+Fortaleza,3 x 1,Juventude,8,NÃO,SHESLEY
+Palmeiras,1 x 0,São Paulo,8,SIM,SHESLEY
+Flamengo,2 x 1,Internacional,1,SIM,LUCAS
+Vasco,1 x 1,Santos,1,NÃO,LUCAS
+Juventude,2 x 0,Vitória,1,NÃO,LUCAS
+São Paulo,2 x 0,Sport,1,NÃO,LUCAS
+Bragantino,2 x 0,Ceará,1,NÃO,LUCAS
+Cruzeiro,1 x 0,Mirassol,1,NÃO,LUCAS
+Grêmio,1 x 2,Atlético-MG,1,NÃO,LUCAS
+Bahia,1 x 0,Corinthians,1,NÃO,LUCAS
+Fortaleza,2 x 0,Fluminense,1,NÃO,LUCAS
+Palmeiras,1 x 1,Botafogo,1,SIM,LUCAS
+Atlético-MG,1 x 0,São Paulo,2,SIM,LUCAS
+Botafogo,2 x 0,Juventude,2,NÃO,LUCAS
+Corinthians,2 x 0,Vasco,2,NÃO,LUCAS
+Santos,3 x 1,Bahia,2,NÃO,LUCAS
+Mirassol,1 x 1,Fortaleza,2,NÃO,LUCAS
+Sport,2 x 2,Palmeiras,2,NÃO,LUCAS
+Fluminense,1 x 0,Bragantino,2,NÃO,LUCAS
+Vitória,1 x 3,Flamengo,2,NÃO,LUCAS
+Ceará,1 x 0,Grêmio,2,NÃO,LUCAS
+Internacional,2 x 1,Cruzeiro,2,SIM,LUCAS
+Palmeiras,1 x 1,Corinthians,3,SIM,LUCAS
+Vasco,2 x 0,Sport,3,NÃO,LUCAS
+Fluminense,2 x 2,Santos,3,NÃO,LUCAS
+São Paulo,2 x 1,Cruzeiro,3,NÃO,LUCAS
+Bragantino,0 x 0,Botafogo,3,NÃO,LUCAS
+Atlético-MG,2 x 0,Vitória,3,NÃO,LUCAS
+Juventude,2 x 0,Ceará,3,NÃO,LUCAS
+Bahia,2 x 0,Mirassol,3,NÃO,LUCAS
+Fortaleza,1 x 2,Internacional,3,NÃO,LUCAS
+Grêmio,1 x 3,Flamengo,3,SIM,LUCAS
+Santos,2 x 1,Atlético-MG,4,SIM,LUCAS
+Botafogo,2 x 2,São Paulo,4,NÃO,LUCAS
+Corinthians,3 x 0,Fluminense,4,NÃO,LUCAS
+Flamengo,4 x 0,Juventude,4,NÃO,LUCAS
+Mirassol,2 x 1,Grêmio,4,NÃO,LUCAS
+Cruzeiro,2 x 0,Bahia,4,NÃO,LUCAS
+Sport,1 x 0,Bragantino,4,NÃO,LUCAS
+Vitória,2 x 1,Fortaleza,4,NÃO,LUCAS
+Ceará,1 x 0,Vasco,4,NÃO,LUCAS
+Internacional,0 x 1,Palmeiras,4,SIM,LUCAS
+Vasco,0 x 3,Flamengo,5,SIM,LUCAS
+Fluminense,2 x 0,Vitória,5,NÃO,LUCAS
+Corinthians,2 x 0,Sport,5,NÃO,LUCAS
+São Paulo,1 x 1,Santos,5,NÃO,LUCAS
+Bragantino,2 x 1,Cruzeiro,5,NÃO,LUCAS
+Atlético-MG,2 x 1,Botafogo,5,NÃO,LUCAS
+Juventude,0 x 1,Mirassol,5,NÃO,LUCAS
+Bahia,2 x 0,Ceará,5,NÃO,LUCAS
+Fortaleza,2 x 1,Palmeiras,5,NÃO,LUCAS
+Grêmio,2 x 1,Internacional,5,SIM,LUCAS
+Flamengo,2 x 0,Corinthians,6,SIM,LUCAS
+Sport,1 x 0,Fortaleza,6,NÃO,LUCAS
+Palmeiras,3 x 0,Bahia,6,NÃO,LUCAS
+Santos,2 x 0,Bragantino,6,NÃO,LUCAS
+Mirassol,1 x 1,Atlético-MG,6,NÃO,LUCAS
+Cruzeiro,0 x 1,Vasco,6,NÃO,LUCAS
+Internacional,2 x 1,Juventude,6,NÃO,LUCAS
+Vitória,2 x 1,Grêmio,6,NÃO,LUCAS
+Ceará,1 x 0,São Paulo,6,NÃO,LUCAS
+Botafogo,2 x 1,Fluminense,6,SIM,LUCAS
+Vasco,1 x 2,Palmeiras,7,SIM,LUCAS
+Fluminense,2 x 0,Sport,7,NÃO,LUCAS
+Corinthians,2 x 2,Internacional,7,NÃO,LUCAS
+São Paulo,0 x 1,Fortaleza,7,NÃO,LUCAS
+Bragantino,1 x 1,Mirassol,7,NÃO,LUCAS
+Juventude,2 x 0,Atlético-MG,7,NÃO,LUCAS
+Grêmio,2 x 0,Santos,7,NÃO,LUCAS
+Bahia,1 x 0,Botafogo,7,NÃO,LUCAS
+Ceará,2 x 0,Vitória,7,NÃO,LUCAS
+Cruzeiro,1 x 2,Flamengo,7,SIM,LUCAS
+Botafogo,1 x 2,Internacional,8,SIM,LUCAS
+Sport,1 x 1,Cruzeiro,8,NÃO,LUCAS
+Flamengo,2 x 1,Bahia,8,NÃO,LUCAS
+Santos,3 x 1,Ceará,8,NÃO,LUCAS
+Mirassol,1 x 0,Corinthians,8,NÃO,LUCAS
+Atlético-MG,2 x 0,Fluminense,8,NÃO,LUCAS
+Grêmio,1 x 1,Bragantino,8,NÃO,LUCAS
+Vitória,2 x 1,Vasco,8,NÃO,LUCAS
+Fortaleza,1 x 2,Juventude,8,NÃO,LUCAS
+Palmeiras,0 x 1,São Paulo,8,SIM,LUCAS
+Flamengo,3 x 1,Internacional,1,SIM,BIEL
+Vasco,1 x 2,Santos,1,NÃO,BIEL
+Juventude,2 x 1,Vitória,1,NÃO,BIEL
+São Paulo,2 x 0,Sport,1,NÃO,BIEL
+Bragantino,2 x 0,Ceará,1,NÃO,BIEL
+Cruzeiro,2 x 0,Mirassol,1,NÃO,BIEL
+Grêmio,1 x 1,Atlético-MG,1,NÃO,BIEL
+Bahia,2 x 1,Corinthians,1,NÃO,BIEL
+Fortaleza,3 x 1,Fluminense,1,NÃO,BIEL
+Palmeiras,2 x 0,Botafogo,1,SIM,BIEL
+Atlético-MG,2 x 1,São Paulo,2,SIM,BIEL
+Botafogo,2 x 1,Juventude,2,NÃO,BIEL
+Corinthians,3 x 1,Vasco,2,NÃO,BIEL
+Santos,2 x 1,Bahia,2,NÃO,BIEL
+Mirassol,1 x 2,Fortaleza,2,NÃO,BIEL
+Sport,0 x 1,Palmeiras,2,NÃO,BIEL
+Fluminense,1 x 1,Bragantino,2,NÃO,BIEL
+Vitória,1 x 2,Flamengo,2,NÃO,BIEL
+Ceará,1 x 1,Grêmio,2,NÃO,BIEL
+Internacional,2 x 0,Cruzeiro,2,SIM,BIEL
+Palmeiras,1 x 1,Corinthians,3,SIM,BIEL
+Vasco,2 x 1,Sport,3,NÃO,BIEL
+Fluminense,1 x 1,Santos,3,NÃO,BIEL
+São Paulo,2 x 0,Cruzeiro,3,NÃO,BIEL
+Bragantino,2 x 1,Botafogo,3,NÃO,BIEL
+Atlético-MG,3 x 1,Vitória,3,NÃO,BIEL
+Juventude,2 x 0,Ceará,3,NÃO,BIEL
+Bahia,3 x 1,Mirassol,3,NÃO,BIEL
+Fortaleza,1 x 1,Internacional,3,NÃO,BIEL
+Grêmio,0 x 2,Flamengo,3,SIM,BIEL
+Santos,2 x 1,Atlético-MG,4,SIM,BIEL
+Botafogo,1 x 1,São Paulo,4,NÃO,BIEL
+Corinthians,3 x 1,Fluminense,4,NÃO,BIEL
+Flamengo,4 x 1,Juventude,4,NÃO,BIEL
+Mirassol,2 x 1,Grêmio,4,NÃO,BIEL
+Cruzeiro,2 x 1,Bahia,4,NÃO,BIEL
+Sport,1 x 0,Bragantino,4,NÃO,BIEL
+Vitória,1 x 0,Fortaleza,4,NÃO,BIEL
+Ceará,2 x 1,Vasco,4,NÃO,BIEL
+Internacional,2 x 2,Palmeiras,4,SIM,BIEL
+Vasco,1 x 4,Flamengo,5,SIM,BIEL
+Fluminense,2 x 1,Vitória,5,NÃO,BIEL
+Corinthians,2 x 0,Sport,5,NÃO,BIEL
+São Paulo,2 x 2,Santos,5,NÃO,BIEL
+Bragantino,2 x 1,Cruzeiro,5,NÃO,BIEL
+Atlético-MG,3 x 1,Botafogo,5,NÃO,BIEL
+Juventude,2 x 0,Mirassol,5,NÃO,BIEL
+Bahia,2 x 0,Ceará,5,NÃO,BIEL
+Fortaleza,2 x 1,Palmeiras,5,NÃO,BIEL
+Grêmio,1 x 1,Internacional,5,SIM,BIEL
+Flamengo,3 x 1,Corinthians,6,SIM,BIEL
+Sport,2 x 1,Fortaleza,6,NÃO,BIEL
+Palmeiras,2 x 0,Bahia,6,NÃO,BIEL
+Santos,2 x 0,Bragantino,6,NÃO,BIEL
+Mirassol,1 x 2,Atlético-MG,6,NÃO,BIEL
+Cruzeiro,2 x 0,Vasco,6,NÃO,BIEL
+Internacional,3 x 1,Juventude,6,NÃO,BIEL
+Vitória,2 x 1,Grêmio,6,NÃO,BIEL
+Ceará,2 x 0,São Paulo,6,NÃO,BIEL
+Botafogo,1 x 1,Fluminense,6,SIM,BIEL
+Vasco,1 x 2,Palmeiras,7,SIM,BIEL
+Fluminense,2 x 1,Sport,7,NÃO,BIEL
+Corinthians,2 x 1,Internacional,7,NÃO,BIEL
+São Paulo,2 x 1,Fortaleza,7,NÃO,BIEL
+Bragantino,2 x 0,Mirassol,7,NÃO,BIEL
+Juventude,2 x 1,Atlético-MG,7,NÃO,BIEL
+Grêmio,1 x 0,Santos,7,NÃO,BIEL
+Bahia,2 x 0,Botafogo,7,NÃO,BIEL
+Ceará,2 x 0,Vitória,7,NÃO,BIEL
+Cruzeiro,0 x 2,Flamengo,7,SIM,BIEL
+Botafogo,1 x 1,Internacional,8,SIM,BIEL
+Sport,2 x 1,Cruzeiro,8,NÃO,BIEL
+Flamengo,2 x 0,Bahia,8,NÃO,BIEL
+Santos,2 x 0,Ceará,8,NÃO,BIEL
+Mirassol,1 x 0,Corinthians,8,NÃO,BIEL
+Atlético-MG,3 x 1,Fluminense,8,NÃO,BIEL
+Grêmio,2 x 1,Bragantino,8,NÃO,BIEL
+Vitória,2 x 0,Vasco,8,NÃO,BIEL
+Fortaleza,2 x 1,Juventude,8,NÃO,BIEL
+Palmeiras,1 x 1,São Paulo,8,SIM,BIEL
+Flamengo,3 x 1,Internacional,1,SIM,OLEGÁRIO
+Vasco,1 x 0,Santos,1,NÃO,OLEGÁRIO
+Juventude,0 x 0,Vitória,1,NÃO,OLEGÁRIO
+São Paulo,1 x 0,Sport,1,NÃO,OLEGÁRIO
+Bragantino,1 x 1,Ceará,1,NÃO,OLEGÁRIO
+Cruzeiro,2 x 0,Mirassol,1,NÃO,OLEGÁRIO
+Grêmio,1 x 2,Atlético-MG,1,NÃO,OLEGÁRIO
+Bahia,2 x 2,Corinthians,1,NÃO,OLEGÁRIO
+Fortaleza,1 x 1,Fluminense,1,NÃO,OLEGÁRIO
+Palmeiras,0 x 1,Botafogo,1,SIM,OLEGÁRIO
+Atlético-MG,1 x 1,São Paulo,2,SIM,OLEGÁRIO
+Botafogo,3 x 1,Juventude,2,NÃO,OLEGÁRIO
+Corinthians,1 x 1,Vasco,2,NÃO,OLEGÁRIO
+Santos,2 x 2,Bahia,2,NÃO,OLEGÁRIO
+Mirassol,0 x 0,Fortaleza,2,NÃO,OLEGÁRIO
+Sport,0 x 2,Palmeiras,2,NÃO,OLEGÁRIO
+Fluminense,1 x 0,Bragantino,2,NÃO,OLEGÁRIO
+Vitória,0 x 2,Flamengo,2,NÃO,OLEGÁRIO
+Ceará,2 x 2,Grêmio,2,NÃO,OLEGÁRIO
+Internacional,0 x 0,Cruzeiro,2,SIM,OLEGÁRIO
+Palmeiras,1 x 2,Corinthians,3,SIM,OLEGÁRIO
+Vasco,2 x 0,Sport,3,NÃO,OLEGÁRIO
+Fluminense,1 x 1,Santos,3,NÃO,OLEGÁRIO
+São Paulo,0 x 0,Cruzeiro,3,NÃO,OLEGÁRIO
+Bragantino,0 x 1,Botafogo,3,NÃO,OLEGÁRIO
+Atlético-MG,3 x 0,Vitória,3,NÃO,OLEGÁRIO
+Juventude,1 x 1,Ceará,3,NÃO,OLEGÁRIO
+Bahia,2 x 0,Mirassol,3,NÃO,OLEGÁRIO
+Fortaleza,2 x 2,Internacional,3,NÃO,OLEGÁRIO
+Grêmio,1 x 3,Flamengo,3,SIM,OLEGÁRIO
+Santos,1 x 2,Atlético-MG,4,SIM,OLEGÁRIO
+Botafogo,0 x 0,São Paulo,4,NÃO,OLEGÁRIO
+Corinthians,2 x 2,Fluminense,4,NÃO,OLEGÁRIO
+Flamengo,3 x 0,Juventude,4,NÃO,OLEGÁRIO
+Mirassol,0 x 1,Grêmio,4,NÃO,OLEGÁRIO
+Cruzeiro,2 x 1,Bahia,4,NÃO,OLEGÁRIO
+Sport,1 x 1,Bragantino,4,NÃO,OLEGÁRIO
+Vitória,1 x 0,Fortaleza,4,NÃO,OLEGÁRIO
+Ceará,0 x 1,Vasco,4,NÃO,OLEGÁRIO
+Internacional,1 x 1,Palmeiras,4,SIM,OLEGÁRIO
+Vasco,0 x 2,Flamengo,5,SIM,OLEGÁRIO
+Fluminense,2 x 0,Vitória,5,NÃO,OLEGÁRIO
+Corinthians,3 x 1,Sport,5,NÃO,OLEGÁRIO
+São Paulo,2 x 2,Santos,5,NÃO,OLEGÁRIO
+Bragantino,1 x 2,Cruzeiro,5,NÃO,OLEGÁRIO
+Atlético-MG,2 x 2,Botafogo,5,NÃO,OLEGÁRIO
+Juventude,0 x 0,Mirassol,5,NÃO,OLEGÁRIO
+Bahia,2 x 1,Ceará,5,NÃO,OLEGÁRIO
+Fortaleza,1 x 3,Palmeiras,5,NÃO,OLEGÁRIO
+Grêmio,2 x 2,Internacional,5,SIM,OLEGÁRIO
+Flamengo,1 x 0,Corinthians,6,SIM,OLEGÁRIO
+Sport,0 x 0,Fortaleza,6,NÃO,OLEGÁRIO
+Palmeiras,0 x 1,Bahia,6,NÃO,OLEGÁRIO
+Santos,2 x 0,Bragantino,6,NÃO,OLEGÁRIO
+Mirassol,0 x 2,Atlético-MG,6,NÃO,OLEGÁRIO
+Cruzeiro,1 x 0,Vasco,6,NÃO,OLEGÁRIO
+Internacional,2 x 1,Juventude,6,NÃO,OLEGÁRIO
+Vitória,1 x 2,Grêmio,6,NÃO,OLEGÁRIO
+Ceará,0 x 3,São Paulo,6,NÃO,OLEGÁRIO
+Botafogo,1 x 1,Fluminense,6,SIM,OLEGÁRIO
+Vasco,0 x 0,Palmeiras,7,SIM,OLEGÁRIO
+Fluminense,3 x 1,Sport,7,NÃO,OLEGÁRIO
+Corinthians,2 x 2,Internacional,7,NÃO,OLEGÁRIO
+São Paulo,1 x 1,Fortaleza,7,NÃO,OLEGÁRIO
+Bragantino,2 x 0,Mirassol,7,NÃO,OLEGÁRIO
+Juventude,2 x 3,Atlético-MG,7,NÃO,OLEGÁRIO
+Grêmio,1 x 1,Santos,7,NÃO,OLEGÁRIO
+Bahia,2 x 2,Botafogo,7,NÃO,OLEGÁRIO
+Ceará,1 x 1,Vitória,7,NÃO,OLEGÁRIO
+Cruzeiro,0 x 0,Flamengo,7,SIM,OLEGÁRIO
+Botafogo,2 x 1,Internacional,8,SIM,OLEGÁRIO
+Sport,1 x 2,Cruzeiro,8,NÃO,OLEGÁRIO
+Flamengo,2 x 1,Bahia,8,NÃO,OLEGÁRIO
+Santos,1 x 0,Ceará,8,NÃO,OLEGÁRIO
+Mirassol,1 x 2,Corinthians,8,NÃO,OLEGÁRIO
+Atlético-MG,1 x 1,Fluminense,8,NÃO,OLEGÁRIO
+Grêmio,1 x 0,Bragantino,8,NÃO,OLEGÁRIO
+Vitória,1 x 3,Vasco,8,NÃO,OLEGÁRIO
+Fortaleza,2 x 0,Juventude,8,NÃO,OLEGÁRIO
+Palmeiras,2 x 1,São Paulo,8,SIM,OLEGÁRIO
+Flamengo,1 x 0,Internacional,1,SIM,ULISSES
+Vasco,1 x 0,Santos,1,NÃO,ULISSES
+Juventude,2 x 1,Vitória,1,NÃO,ULISSES
+São Paulo,2 x 0,Sport,1,NÃO,ULISSES
+Bragantino,1 x 0,Ceará,1,NÃO,ULISSES
+Cruzeiro,3 x 0,Mirassol,1,NÃO,ULISSES
+Grêmio,1 x 2,Atlético-MG,1,NÃO,ULISSES
+Bahia,1 x 1,Corinthians,1,NÃO,ULISSES
+Fortaleza,1 x 2,Fluminense,1,NÃO,ULISSES
+Palmeiras,1 x 0,Botafogo,1,SIM,ULISSES
+Atlético-MG,2 x 1,São Paulo,2,SIM,ULISSES
+Botafogo,2 x 0,Juventude,2,NÃO,ULISSES
+Corinthians,2 x 1,Vasco,2,NÃO,ULISSES
+Santos,2 x 0,Bahia,2,NÃO,ULISSES
+Mirassol,0 x 1,Fortaleza,2,NÃO,ULISSES
+Sport,0 x 2,Palmeiras,2,NÃO,ULISSES
+Fluminense,2 x 0,Bragantino,2,NÃO,ULISSES
+Vitória,1 x 2,Flamengo,2,NÃO,ULISSES
+Ceará,0 x 2,Grêmio,2,NÃO,ULISSES
+Internacional,2 x 1,Cruzeiro,2,SIM,ULISSES
+Palmeiras,1 x 0,Corinthians,3,SIM,ULISSES
+Vasco,2 x 1,Sport,3,NÃO,ULISSES
+Fluminense,1 x 0,Santos,3,NÃO,ULISSES
+São Paulo,1 x 0,Cruzeiro,3,NÃO,ULISSES
+Bragantino,1 x 2,Botafogo,3,NÃO,ULISSES
+Atlético-MG,3 x 1,Vitória,3,NÃO,ULISSES
+Juventude,1 x 1,Ceará,3,NÃO,ULISSES
+Bahia,3 x 1,Mirassol,3,NÃO,ULISSES
+Fortaleza,1 x 2,Internacional,3,NÃO,ULISSES
+Grêmio,0 x 1,Flamengo,3,SIM,ULISSES
+Santos,1 x 2,Atlético-MG,4,SIM,ULISSES
+Botafogo,2 x 1,São Paulo,4,NÃO,ULISSES
+Corinthians,1 x 0,Fluminense,4,NÃO,ULISSES
+Flamengo,2 x 0,Juventude,4,NÃO,ULISSES
+Mirassol,0 x 1,Grêmio,4,NÃO,ULISSES
+Cruzeiro,2 x 1,Bahia,4,NÃO,ULISSES
+Sport,2 x 0,Bragantino,4,NÃO,ULISSES
+Vitória,1 x 0,Fortaleza,4,NÃO,ULISSES
+Ceará,1 x 1,Vasco,4,NÃO,ULISSES
+Internacional,1 x 1,Palmeiras,4,SIM,ULISSES
+Vasco,1 x 2,Flamengo,5,SIM,ULISSES
+Fluminense,2 x 0,Vitória,5,NÃO,ULISSES
+Corinthians,2 x 1,Sport,5,NÃO,ULISSES
+São Paulo,1 x 0,Santos,5,NÃO,ULISSES
+Bragantino,1 x 2,Cruzeiro,5,NÃO,ULISSES
+Atlético-MG,2 x 0,Botafogo,5,NÃO,ULISSES
+Juventude,2 x 0,Mirassol,5,NÃO,ULISSES
+Bahia,2 x 1,Ceará,5,NÃO,ULISSES
+Fortaleza,0 x 1,Palmeiras,5,NÃO,ULISSES
+Grêmio,1 x 1,Internacional,5,SIM,ULISSES
+Flamengo,1 x 0,Corinthians,6,SIM,ULISSES
+Sport,1 x 0,Fortaleza,6,NÃO,ULISSES
+Palmeiras,2 x 1,Bahia,6,NÃO,ULISSES
+Santos,2 x 1,Bragantino,6,NÃO,ULISSES
+Mirassol,0 x 2,Atlético-MG,6,NÃO,ULISSES
+Cruzeiro,2 x 1,Vasco,6,NÃO,ULISSES
+Internacional,2 x 0,Juventude,6,NÃO,ULISSES
+Vitória,0 x 1,Grêmio,6,NÃO,ULISSES
+Ceará,1 x 2,São Paulo,6,NÃO,ULISSES
+Botafogo,1 x 1,Fluminense,6,SIM,ULISSES
+Vasco,1 x 2,Palmeiras,7,SIM,ULISSES
+Fluminense,2 x 0,Sport,7,NÃO,ULISSES
+Corinthians,1 x 0,Internacional,7,NÃO,ULISSES
+São Paulo,2 x 1,Fortaleza,7,NÃO,ULISSES
+Bragantino,2 x 1,Mirassol,7,NÃO,ULISSES
+Juventude,0 x 1,Atlético-MG,7,NÃO,ULISSES
+Grêmio,2 x 1,Santos,7,NÃO,ULISSES
+Bahia,1 x 1,Botafogo,7,NÃO,ULISSES
+Ceará,1 x 1,Vitória,7,NÃO,ULISSES
+Cruzeiro,1 x 1,Flamengo,7,SIM,ULISSES
+Botafogo,1 x 1,Internacional,8,SIM,ULISSES
+Sport,0 x 1,Cruzeiro,8,NÃO,ULISSES
+Flamengo,2 x 1,Bahia,8,NÃO,ULISSES
+Santos,2 x 0,Ceará,8,NÃO,ULISSES
+Mirassol,1 x 2,Corinthians,8,NÃO,ULISSES
+Atlético-MG,2 x 0,Fluminense,8,NÃO,ULISSES
+Grêmio,2 x 1,Bragantino,8,NÃO,ULISSES
+Vitória,0 x 1,Vasco,8,NÃO,ULISSES
+Fortaleza,2 x 1,Juventude,8,NÃO,ULISSES
+Palmeiras,2 x 2,São Paulo,8,SIM,ULISSES
+Flamengo,2 x 1,Internacional,1,SIM,SALU
+Vasco,1 x 2,Santos,1,NÃO,SALU
+Juventude,1 x 0,Vitória,1,NÃO,SALU
+São Paulo,2 x 0,Sport,1,NÃO,SALU
+Bragantino,1 x 1,Ceará,1,NÃO,SALU
+Cruzeiro,3 x 0,Mirassol,1,NÃO,SALU
+Grêmio,0 x 0,Atlético-MG,1,NÃO,SALU
+Bahia,1 x 2,Corinthians,1,NÃO,SALU
+Fortaleza,2 x 1,Fluminense,1,NÃO,SALU
+Palmeiras,2 x 1,Botafogo,1,SIM,SALU
+Atlético-MG,1 x 0,São Paulo,2,SIM,SALU
+Botafogo,2 x 0,Juventude,2,NÃO,SALU
+Corinthians,2 x 0,Vasco,2,NÃO,SALU
+Santos,2 x 1,Bahia,2,NÃO,SALU
+Mirassol,0 x 1,Fortaleza,2,NÃO,SALU
+Sport,1 x 3,Palmeiras,2,NÃO,SALU
+Fluminense,1 x 0,Bragantino,2,NÃO,SALU
+Vitória,0 x 2,Flamengo,2,NÃO,SALU
+Ceará,1 x 0,Grêmio,2,NÃO,SALU
+Internacional,2 x 1,Cruzeiro,2,SIM,SALU
+Palmeiras,1 x 0,Corinthians,3,SIM,SALU
+Vasco,2 x 0,Sport,3,NÃO,SALU
+Fluminense,1 x 1,Santos,3,NÃO,SALU
+São Paulo,2 x 1,Cruzeiro,3,NÃO,SALU
+Bragantino,0 x 2,Botafogo,3,NÃO,SALU
+Atlético-MG,3 x 0,Vitória,3,NÃO,SALU
+Juventude,0 x 1,Ceará,3,NÃO,SALU
+Bahia,2 x 0,Mirassol,3,NÃO,SALU
+Fortaleza,1 x 2,Internacional,3,NÃO,SALU
+Grêmio,1 x 2,Flamengo,3,SIM,SALU
+Santos,2 x 1,Atlético-MG,4,SIM,SALU
+Botafogo,1 x 0,São Paulo,4,NÃO,SALU
+Corinthians,2 x 0,Fluminense,4,NÃO,SALU
+Flamengo,3 x 0,Juventude,4,NÃO,SALU
+Mirassol,1 x 2,Grêmio,4,NÃO,SALU
+Cruzeiro,2 x 1,Bahia,4,NÃO,SALU
+Sport,1 x 0,Bragantino,4,NÃO,SALU
+Vitória,1 x 2,Fortaleza,4,NÃO,SALU
+Ceará,1 x 1,Vasco,4,NÃO,SALU
+Internacional,2 x 1,Palmeiras,4,SIM,SALU
+Vasco,1 x 3,Flamengo,5,SIM,SALU
+Fluminense,2 x 0,Vitória,5,NÃO,SALU
+Corinthians,3 x 0,Sport,5,NÃO,SALU
+São Paulo,2 x 1,Santos,5,NÃO,SALU
+Bragantino,0 x 2,Cruzeiro,5,NÃO,SALU
+Atlético-MG,2 x 0,Botafogo,5,NÃO,SALU
+Juventude,1 x 0,Mirassol,5,NÃO,SALU
+Bahia,2 x 1,Ceará,5,NÃO,SALU
+Fortaleza,1 x 2,Palmeiras,5,NÃO,SALU
+Grêmio,1 x 1,Internacional,5,SIM,SALU
+Flamengo,2 x 0,Corinthians,6,SIM,SALU
+Sport,1 x 2,Fortaleza,6,NÃO,SALU
+Palmeiras,2 x 0,Bahia,6,NÃO,SALU
+Santos,3 x 0,Bragantino,6,NÃO,SALU
+Mirassol,1 x 2,Atlético-MG,6,NÃO,SALU
+Cruzeiro,2 x 0,Vasco,6,NÃO,SALU
+Internacional,2 x 0,Juventude,6,NÃO,SALU
+Vitória,0 x 1,Grêmio,6,NÃO,SALU
+Ceará,1 x 1,São Paulo,6,NÃO,SALU
+Botafogo,2 x 1,Fluminense,6,SIM,SALU
+Vasco,1 x 2,Palmeiras,7,SIM,SALU
+Fluminense,2 x 0,Sport,7,NÃO,SALU
+Corinthians,2 x 1,Internacional,7,NÃO,SALU
+São Paulo,3 x 0,Fortaleza,7,NÃO,SALU
+Bragantino,2 x 0,Mirassol,7,NÃO,SALU
+Juventude,0 x 2,Atlético-MG,7,NÃO,SALU
+Grêmio,1 x 1,Santos,7,NÃO,SALU
+Bahia,2 x 1,Botafogo,7,NÃO,SALU
+Ceará,2 x 0,Vitória,7,NÃO,SALU
+Cruzeiro,1 x 2,Flamengo,7,SIM,SALU
+Botafogo,1 x 0,Internacional,8,SIM,SALU
+Sport,0 x 2,Cruzeiro,8,NÃO,SALU
+Flamengo,2 x 0,Bahia,8,NÃO,SALU
+Santos,2 x 0,Ceará,8,NÃO,SALU
+Mirassol,0 x 3,Corinthians,8,NÃO,SALU
+Atlético-MG,1 x 0,Fluminense,8,NÃO,SALU
+Grêmio,1 x 0,Bragantino,8,NÃO,SALU
+Vitória,2 x 1,Vasco,8,NÃO,SALU
+Fortaleza,2 x 0,Juventude,8,NÃO,SALU
+Palmeiras,1 x 0,São Paulo,8,SIM,SALU
+Flamengo,2 x 0,Internacional,1,SIM,JUNIOR
+Vasco,1 x 0,Santos,1,NÃO,JUNIOR
+Juventude,3 x 1,Vitória,1,NÃO,JUNIOR
+São Paulo,2 x 0,Sport,1,NÃO,JUNIOR
+Bragantino,1 x 1,Ceará,1,NÃO,JUNIOR
+Cruzeiro,3 x 0,Mirassol,1,NÃO,JUNIOR
+Grêmio,0 x 1,Atlético-MG,1,NÃO,JUNIOR
+Bahia,2 x 0,Corinthians,1,NÃO,JUNIOR
+Fortaleza,1 x 0,Fluminense,1,NÃO,JUNIOR
+Palmeiras,2 x 0,Botafogo,1,SIM,JUNIOR
+Atlético-MG,2 x 2,São Paulo,2,SIM,JUNIOR
+Botafogo,2 x 0,Juventude,2,NÃO,JUNIOR
+Corinthians,2 x 0,Vasco,2,NÃO,JUNIOR
+Santos,1 x 0,Bahia,2,NÃO,JUNIOR
+Mirassol,0 x 0,Fortaleza,2,NÃO,JUNIOR
+Sport,1 x 2,Palmeiras,2,NÃO,JUNIOR
+Fluminense,3 x 0,Bragantino,2,NÃO,JUNIOR
+Vitória,0 x 2,Flamengo,2,NÃO,JUNIOR
+Ceará,2 x 0,Grêmio,2,NÃO,JUNIOR
+Internacional,1 x 0,Cruzeiro,2,SIM,JUNIOR
+Palmeiras,2 x 0,Corinthians,3,SIM,JUNIOR
+Vasco,1 x 0,Sport,3,NÃO,JUNIOR
+Fluminense,2 x 1,Santos,3,NÃO,JUNIOR
+São Paulo,1 x 0,Cruzeiro,3,NÃO,JUNIOR
+Bragantino,0 x 2,Botafogo,3,NÃO,JUNIOR
+Atlético-MG,2 x 1,Vitória,3,NÃO,JUNIOR
+Juventude,1 x 0,Ceará,3,NÃO,JUNIOR
+Bahia,3 x 1,Mirassol,3,NÃO,JUNIOR
+Fortaleza,0 x 0,Internacional,3,NÃO,JUNIOR
+Grêmio,1 x 2,Flamengo,3,SIM,JUNIOR
+Santos,2 x 0,Atlético-MG,4,SIM,JUNIOR
+Botafogo,1 x 1,São Paulo,4,NÃO,JUNIOR
+Corinthians,2 x 0,Fluminense,4,NÃO,JUNIOR
+Flamengo,3 x 0,Juventude,4,NÃO,JUNIOR
+Mirassol,1 x 0,Grêmio,4,NÃO,JUNIOR
+Cruzeiro,2 x 1,Bahia,4,NÃO,JUNIOR
+Sport,2 x 0,Bragantino,4,NÃO,JUNIOR
+Vitória,1 x 1,Fortaleza,4,NÃO,JUNIOR
+Ceará,0 x 1,Vasco,4,NÃO,JUNIOR
+Internacional,2 x 2,Palmeiras,4,SIM,JUNIOR
+Vasco,0 x 2,Flamengo,5,SIM,JUNIOR
+Fluminense,1 x 0,Vitória,5,NÃO,JUNIOR
+Corinthians,3 x 0,Sport,5,NÃO,JUNIOR
+São Paulo,1 x 0,Santos,5,NÃO,JUNIOR
+Bragantino,1 x 2,Cruzeiro,5,NÃO,JUNIOR
+Atlético-MG,2 x 0,Botafogo,5,NÃO,JUNIOR
+Juventude,2 x 1,Mirassol,5,NÃO,JUNIOR
+Bahia,3 x 1,Ceará,5,NÃO,JUNIOR
+Fortaleza,1 x 1,Palmeiras,5,NÃO,JUNIOR
+Grêmio,0 x 0,Internacional,5,SIM,JUNIOR
+Flamengo,2 x 1,Corinthians,6,SIM,JUNIOR
+Sport,2 x 0,Fortaleza,6,NÃO,JUNIOR
+Palmeiras,2 x 1,Bahia,6,NÃO,JUNIOR
+Santos,3 x 1,Bragantino,6,NÃO,JUNIOR
+Mirassol,1 x 0,Atlético-MG,6,NÃO,JUNIOR
+Cruzeiro,2 x 1,Vasco,6,NÃO,JUNIOR
+Internacional,2 x 0,Juventude,6,NÃO,JUNIOR
+Vitória,1 x 0,Grêmio,6,NÃO,JUNIOR
+Ceará,1 x 0,São Paulo,6,NÃO,JUNIOR
+Botafogo,2 x 1,Fluminense,6,SIM,JUNIOR
+Vasco,0 x 2,Palmeiras,7,SIM,JUNIOR
+Fluminense,2 x 1,Sport,7,NÃO,JUNIOR
+Corinthians,1 x 0,Internacional,7,NÃO,JUNIOR
+São Paulo,3 x 2,Fortaleza,7,NÃO,JUNIOR
+Bragantino,1 x 0,Mirassol,7,NÃO,JUNIOR
+Juventude,1 x 1,Atlético-MG,7,NÃO,JUNIOR
+Grêmio,2 x 0,Santos,7,NÃO,JUNIOR
+Bahia,0 x 1,Botafogo,7,NÃO,JUNIOR
+Ceará,2 x 0,Vitória,7,NÃO,JUNIOR
+Cruzeiro,2 x 2,Flamengo,7,SIM,JUNIOR
+Botafogo,0 x 1,Internacional,8,SIM,JUNIOR
+Sport,1 x 2,Cruzeiro,8,NÃO,JUNIOR
+Flamengo,1 x 0,Bahia,8,NÃO,JUNIOR
+Santos,3 x 0,Ceará,8,NÃO,JUNIOR
+Mirassol,1 x 1,Corinthians,8,NÃO,JUNIOR
+Atlético-MG,2 x 1,Fluminense,8,NÃO,JUNIOR
+Grêmio,1 x 0,Bragantino,8,NÃO,JUNIOR
+Vitória,1 x 2,Vasco,8,NÃO,JUNIOR
+Fortaleza,3 x 0,Juventude,8,NÃO,JUNIOR
+Palmeiras,1 x 0,São Paulo,8,SIM,JUNIOR
+Flamengo,2 x 1,Internacional,1,SIM,FERNANDO
+Vasco,0 x 2,Santos,1,NÃO,FERNANDO
+Juventude,2 x 0,Vitória,1,NÃO,FERNANDO
+São Paulo,3 x 0,Sport,1,NÃO,FERNANDO
+Bragantino,1 x 1,Ceará,1,NÃO,FERNANDO
+Cruzeiro,2 x 0,Mirassol,1,NÃO,FERNANDO
+Grêmio,1 x 2,Atlético-MG,1,NÃO,FERNANDO
+Bahia,1 x 1,Corinthians,1,NÃO,FERNANDO
+Fortaleza,1 x 0,Fluminense,1,NÃO,FERNANDO
+Palmeiras,1 x 0,Botafogo,1,SIM,FERNANDO
+Atlético-MG,2 x 2,São Paulo,2,SIM,FERNANDO
+Botafogo,0 x 1,Juventude,2,NÃO,FERNANDO
+Corinthians,3 x 0,Vasco,2,NÃO,FERNANDO
+Santos,1 x 2,Bahia,2,NÃO,FERNANDO
+Mirassol,0 x 2,Fortaleza,2,NÃO,FERNANDO
+Sport,0 x 2,Palmeiras,2,NÃO,FERNANDO
+Fluminense,2 x 1,Bragantino,2,NÃO,FERNANDO
+Vitória,0 x 4,Flamengo,2,NÃO,FERNANDO
+Ceará,1 x 0,Grêmio,2,NÃO,FERNANDO
+Internacional,2 x 1,Cruzeiro,2,SIM,FERNANDO
+Palmeiras,1 x 1,Corinthians,3,SIM,FERNANDO
+Vasco,1 x 0,Sport,3,NÃO,FERNANDO
+Fluminense,3 x 2,Santos,3,NÃO,FERNANDO
+São Paulo,2 x 1,Cruzeiro,3,NÃO,FERNANDO
+Bragantino,1 x 0,Botafogo,3,NÃO,FERNANDO
+Atlético-MG,2 x 0,Vitória,3,NÃO,FERNANDO
+Juventude,2 x 2,Ceará,3,NÃO,FERNANDO
+Bahia,3 x 0,Mirassol,3,NÃO,FERNANDO
+Fortaleza,2 x 2,Internacional,3,NÃO,FERNANDO
+Grêmio,0 x 2,Flamengo,3,SIM,FERNANDO
+Santos,1 x 2,Atlético-MG,4,SIM,FERNANDO
+Botafogo,1 x 2,São Paulo,4,NÃO,FERNANDO
+Corinthians,2 x 0,Fluminense,4,NÃO,FERNANDO
+Flamengo,3 x 0,Juventude,4,NÃO,FERNANDO
+Mirassol,1 x 0,Grêmio,4,NÃO,FERNANDO
+Cruzeiro,0 x 2,Bahia,4,NÃO,FERNANDO
+Sport,2 x 0,Bragantino,4,NÃO,FERNANDO
+Vitória,0 x 1,Fortaleza,4,NÃO,FERNANDO
+Ceará,0 x 0,Vasco,4,NÃO,FERNANDO
+Internacional,2 x 2,Palmeiras,4,SIM,FERNANDO
+Vasco,0 x 2,Flamengo,5,SIM,FERNANDO
+Fluminense,2 x 0,Vitória,5,NÃO,FERNANDO
+Corinthians,3 x 0,Sport,5,NÃO,FERNANDO
+São Paulo,3 x 1,Santos,5,NÃO,FERNANDO
+Bragantino,1 x 2,Cruzeiro,5,NÃO,FERNANDO
+Atlético-MG,2 x 1,Botafogo,5,NÃO,FERNANDO
+Juventude,1 x 1,Mirassol,5,NÃO,FERNANDO
+Bahia,3 x 1,Ceará,5,NÃO,FERNANDO
+Fortaleza,2 x 1,Palmeiras,5,NÃO,FERNANDO
+Grêmio,0 x 2,Internacional,5,SIM,FERNANDO
+Flamengo,2 x 1,Corinthians,6,SIM,FERNANDO
+Sport,1 x 2,Fortaleza,6,NÃO,FERNANDO
+Palmeiras,1 x 1,Bahia,6,NÃO,FERNANDO
+Santos,2 x 1,Bragantino,6,NÃO,FERNANDO
+Mirassol,0 x 2,Atlético-MG,6,NÃO,FERNANDO
+Cruzeiro,0 x 1,Vasco,6,NÃO,FERNANDO
+Internacional,3 x 0,Juventude,6,NÃO,FERNANDO
+Vitória,1 x 1,Grêmio,6,NÃO,FERNANDO
+Ceará,0 x 2,São Paulo,6,NÃO,FERNANDO
+Botafogo,2 x 2,Fluminense,6,SIM,FERNANDO
+Vasco,1 x 0,Palmeiras,7,SIM,FERNANDO
+Fluminense,2 x 0,Sport,7,NÃO,FERNANDO
+Corinthians,2 x 1,Internacional,7,NÃO,FERNANDO
+São Paulo,2 x 2,Fortaleza,7,NÃO,FERNANDO
+Bragantino,3 x 1,Mirassol,7,NÃO,FERNANDO
+Juventude,2 x 2,Atlético-MG,7,NÃO,FERNANDO
+Grêmio,2 x 0,Santos,7,NÃO,FERNANDO
+Bahia,2 x 1,Botafogo,7,NÃO,FERNANDO
+Ceará,2 x 0,Vitória,7,NÃO,FERNANDO
+Cruzeiro,0 x 2,Flamengo,7,SIM,FERNANDO
+Botafogo,1 x 0,Internacional,8,SIM,FERNANDO
+Sport,0 x 1,Cruzeiro,8,NÃO,FERNANDO
+Flamengo,3 x 2,Bahia,8,NÃO,FERNANDO
+Santos,2 x 1,Ceará,8,NÃO,FERNANDO
+Mirassol,1 x 3,Corinthians,8,NÃO,FERNANDO
+Atlético-MG,2 x 2,Fluminense,8,NÃO,FERNANDO
+Grêmio,2 x 1,Bragantino,8,NÃO,FERNANDO
+Vitória,1 x 1,Vasco,8,NÃO,FERNANDO
+Fortaleza,2 x 0,Juventude,8,NÃO,FERNANDO
+Palmeiras,2 x 2,São Paulo,8,SIM,FERNANDO
+Flamengo,3 x 2,Internacional,1,SIM,LECO
+Vasco,2 x 1,Santos,1,NÃO,LECO
+Juventude,1 x 0,Vitória,1,NÃO,LECO
+São Paulo,2 x 0,Sport,1,NÃO,LECO
+Bragantino,1 x 0,Ceará,1,NÃO,LECO
+Cruzeiro,3 x 0,Mirassol,1,NÃO,LECO
+Grêmio,2 x 1,Atlético-MG,1,NÃO,LECO
+Bahia,2 x 1,Corinthians,1,NÃO,LECO
+Fortaleza,2 x 1,Fluminense,1,NÃO,LECO
+Palmeiras,2 x 1,Botafogo,1,SIM,LECO
+Atlético-MG,2 x 1,São Paulo,2,SIM,LECO
+Botafogo,2 x 0,Juventude,2,NÃO,LECO
+Corinthians,2 x 0,Vasco,2,NÃO,LECO
+Santos,2 x 1,Bahia,2,NÃO,LECO
+Mirassol,1 x 1,Fortaleza,2,NÃO,LECO
+Sport,1 x 2,Palmeiras,2,NÃO,LECO
+Fluminense,1 x 0,Bragantino,2,NÃO,LECO
+Vitória,1 x 3,Flamengo,2,NÃO,LECO
+Ceará,1 x 2,Grêmio,2,NÃO,LECO
+Internacional,3 x 2,Cruzeiro,2,SIM,LECO
+Palmeiras,2 x 1,Corinthians,3,SIM,LECO
+Vasco,2 x 0,Sport,3,NÃO,LECO
+Fluminense,1 x 1,Santos,3,NÃO,LECO
+São Paulo,2 x 1,Cruzeiro,3,NÃO,LECO
+Bragantino,1 x 1,Botafogo,3,NÃO,LECO
+Atlético-MG,3 x 0,Vitória,3,NÃO,LECO
+Juventude,2 x 1,Ceará,3,NÃO,LECO
+Bahia,1 x 2,Mirassol,3,NÃO,LECO
+Fortaleza,2 x 1,Internacional,3,NÃO,LECO
+Grêmio,1 x 2,Flamengo,3,SIM,LECO
+Santos,2 x 1,Atlético-MG,4,SIM,LECO
+Botafogo,2 x 1,São Paulo,4,NÃO,LECO
+Corinthians,2 x 1,Fluminense,4,NÃO,LECO
+Flamengo,3 x 1,Juventude,4,NÃO,LECO
+Mirassol,1 x 2,Grêmio,4,NÃO,LECO
+Cruzeiro,3 x 2,Bahia,4,NÃO,LECO
+Sport,0 x 1,Bragantino,4,NÃO,LECO
+Vitória,0 x 1,Fortaleza,4,NÃO,LECO
+Ceará,1 x 1,Vasco,4,NÃO,LECO
+Internacional,2 x 1,Palmeiras,4,SIM,LECO
+Vasco,1 x 3,Flamengo,5,SIM,LECO
+Fluminense,2 x 0,Vitória,5,NÃO,LECO
+Corinthians,3 x 0,Sport,5,NÃO,LECO
+São Paulo,2 x 1,Santos,5,NÃO,LECO
+Bragantino,1 x 1,Cruzeiro,5,NÃO,LECO
+Atlético-MG,2 x 1,Botafogo,5,NÃO,LECO
+Juventude,2 x 0,Mirassol,5,NÃO,LECO
+Bahia,2 x 1,Ceará,5,NÃO,LECO
+Fortaleza,2 x 2,Palmeiras,5,NÃO,LECO
+Grêmio,1 x 2,Internacional,5,SIM,LECO
+Flamengo,3 x 1,Corinthians,6,SIM,LECO
+Sport,1 x 1,Fortaleza,6,NÃO,LECO
+Palmeiras,2 x 1,Bahia,6,NÃO,LECO
+Santos,2 x 1,Bragantino,6,NÃO,LECO
+Mirassol,0 x 2,Atlético-MG,6,NÃO,LECO
+Cruzeiro,3 x 1,Vasco,6,NÃO,LECO
+Internacional,2 x 0,Juventude,6,NÃO,LECO
+Vitória,0 x 1,Grêmio,6,NÃO,LECO
+Ceará,1 x 1,São Paulo,6,NÃO,LECO
+Botafogo,2 x 1,Fluminense,6,SIM,LECO
+Vasco,1 x 1,Palmeiras,7,SIM,LECO
+Fluminense,2 x 0,Sport,7,NÃO,LECO
+Corinthians,2 x 1,Internacional,7,NÃO,LECO
+São Paulo,2 x 1,Fortaleza,7,NÃO,LECO
+Bragantino,2 x 0,Mirassol,7,NÃO,LECO
+Juventude,1 x 0,Atlético-MG,7,NÃO,LECO
+Grêmio,2 x 1,Santos,7,NÃO,LECO
+Bahia,1 x 0,Botafogo,7,NÃO,LECO
+Ceará,1 x 0,Vitória,7,NÃO,LECO
+Cruzeiro,1 x 2,Flamengo,7,SIM,LECO
+Botafogo,1 x 1,Internacional,8,SIM,LECO
+Sport,1 x 2,Cruzeiro,8,NÃO,LECO
+Flamengo,3 x 1,Bahia,8,NÃO,LECO
+Santos,2 x 0,Ceará,8,NÃO,LECO
+Mirassol,0 x 2,Corinthians,8,NÃO,LECO
+Atlético-MG,2 x 1,Fluminense,8,NÃO,LECO
+Grêmio,2 x 0,Bragantino,8,NÃO,LECO
+Vitória,1 x 0,Vasco,8,NÃO,LECO
+Fortaleza,1 x 0,Juventude,8,NÃO,LECO
+Palmeiras,2 x 1,São Paulo,8,SIM,LECO
+Flamengo,2 x 1,Internacional,1,SIM,DANI
+Vasco,1 x 0,Santos,1,NÃO,DANI
+Juventude,2 x 1,Vitória,1,NÃO,DANI
+São Paulo,2 x 0,Sport,1,NÃO,DANI
+Bragantino,1 x 0,Ceará,1,NÃO,DANI
+Cruzeiro,2 x 0,Mirassol,1,NÃO,DANI
+Grêmio,2 x 1,Atlético-MG,1,NÃO,DANI
+Bahia,2 x 1,Corinthians,1,NÃO,DANI
+Fortaleza,0 x 1,Fluminense,1,NÃO,DANI
+Palmeiras,2 x 1,Botafogo,1,SIM,DANI
+Atlético-MG,1 x 0,São Paulo,2,SIM,DANI
+Botafogo,2 x 0,Juventude,2,NÃO,DANI
+Corinthians,2 x 1,Vasco,2,NÃO,DANI
+Santos,2 x 1,Bahia,2,NÃO,DANI
+Mirassol,1 x 0,Fortaleza,2,NÃO,DANI
+Sport,1 x 2,Palmeiras,2,NÃO,DANI
+Fluminense,2 x 1,Bragantino,2,NÃO,DANI
+Vitória,1 x 2,Flamengo,2,NÃO,DANI
+Ceará,1 x 0,Grêmio,2,NÃO,DANI
+Internacional,1 x 0,Cruzeiro,2,SIM,DANI
+Palmeiras,2 x 1,Corinthians,3,SIM,DANI
+Vasco,1 x 0,Sport,3,NÃO,DANI
+Fluminense,2 x 1,Santos,3,NÃO,DANI
+São Paulo,2 x 1,Cruzeiro,3,NÃO,DANI
+Bragantino,1 x 0,Botafogo,3,NÃO,DANI
+Atlético-MG,2 x 0,Vitória,3,NÃO,DANI
+Juventude,1 x 0,Ceará,3,NÃO,DANI
+Bahia,1 x 0,Mirassol,3,NÃO,DANI
+Fortaleza,2 x 1,Internacional,3,NÃO,DANI
+Grêmio,1 x 2,Flamengo,3,SIM,DANI
+Santos,1 x 0,Atlético-MG,4,SIM,DANI
+Botafogo,2 x 1,São Paulo,4,NÃO,DANI
+Corinthians,0 x 1,Fluminense,4,NÃO,DANI
+Flamengo,2 x 0,Juventude,4,NÃO,DANI
+Mirassol,0 x 1,Grêmio,4,NÃO,DANI
+Cruzeiro,2 x 1,Bahia,4,NÃO,DANI
+Sport,2 x 1,Bragantino,4,NÃO,DANI
+Vitória,1 x 0,Fortaleza,4,NÃO,DANI
+Ceará,2 x 1,Vasco,4,NÃO,DANI
+Internacional,1 x 0,Palmeiras,4,SIM,DANI
+Vasco,1 x 2,Flamengo,5,SIM,DANI
+Fluminense,2 x 0,Vitória,5,NÃO,DANI
+Corinthians,2 x 0,Sport,5,NÃO,DANI
+São Paulo,2 x 1,Santos,5,NÃO,DANI
+Bragantino,1 x 0,Cruzeiro,5,NÃO,DANI
+Atlético-MG,2 x 1,Botafogo,5,NÃO,DANI
+Juventude,1 x 0,Mirassol,5,NÃO,DANI
+Bahia,1 x 0,Ceará,5,NÃO,DANI
+Fortaleza,1 x 2,Palmeiras,5,NÃO,DANI
+Grêmio,2 x 1,Internacional,5,SIM,DANI
+Flamengo,1 x 0,Corinthians,6,SIM,DANI
+Sport,1 x 0,Fortaleza,6,NÃO,DANI
+Palmeiras,2 x 1,Bahia,6,NÃO,DANI
+Santos,2 x 1,Bragantino,6,NÃO,DANI
+Mirassol,0 x 1,Atlético-MG,6,NÃO,DANI
+Cruzeiro,2 x 1,Vasco,6,NÃO,DANI
+Internacional,2 x 0,Juventude,6,NÃO,DANI
+Vitória,1 x 0,Grêmio,6,NÃO,DANI
+Ceará,1 x 2,São Paulo,6,NÃO,DANI
+Botafogo,0 x 1,Fluminense,6,SIM,DANI
+Vasco,1 x 2,Palmeiras,7,SIM,DANI
+Fluminense,2 x 0,Sport,7,NÃO,DANI
+Corinthians,1 x 0,Internacional,7,NÃO,DANI
+São Paulo,2 x 1,Fortaleza,7,NÃO,DANI
+Bragantino,1 x 0,Mirassol,7,NÃO,DANI
+Juventude,1 x 2,Atlético-MG,7,NÃO,DANI
+Grêmio,2 x 1,Santos,7,NÃO,DANI
+Bahia,1 x 0,Botafogo,7,NÃO,DANI
+Ceará,1 x 0,Vitória,7,NÃO,DANI
+Cruzeiro,1 x 2,Flamengo,7,SIM,DANI
+Botafogo,1 x 0,Internacional,8,SIM,DANI
+Sport,2 x 1,Cruzeiro,8,NÃO,DANI
+Flamengo,2 x 1,Bahia,8,NÃO,DANI
+Santos,2 x 1,Ceará,8,NÃO,DANI
+Mirassol,0 x 1,Corinthians,8,NÃO,DANI
+Atlético-MG,0 x 1,Fluminense,8,NÃO,DANI
+Grêmio,2 x 1,Bragantino,8,NÃO,DANI
+Vitória,1 x 0,Vasco,8,NÃO,DANI
+Fortaleza,2 x 1,Juventude,8,NÃO,DANI
+Palmeiras,1 x 0,São Paulo,8,SIM,DANI
+Flamengo,2 x 1,Internacional,1,SIM,IGUINHO
+Vasco,1 x 0,Santos,1,NÃO,IGUINHO
+Juventude,1 x 0,Vitória,1,NÃO,IGUINHO
+São Paulo,2 x 0,Sport,1,NÃO,IGUINHO
+Bragantino,1 x 0,Ceará,1,NÃO,IGUINHO
+Cruzeiro,2 x 0,Mirassol,1,NÃO,IGUINHO
+Grêmio,1 x 0,Atlético-MG,1,NÃO,IGUINHO
+Bahia,2 x 1,Corinthians,1,NÃO,IGUINHO
+Fortaleza,2 x 0,Fluminense,1,NÃO,IGUINHO
+Palmeiras,2 x 1,Botafogo,1,SIM,IGUINHO
+Atlético-MG,1 x 0,São Paulo,2,SIM,IGUINHO
+Botafogo,2 x 0,Juventude,2,NÃO,IGUINHO
+Corinthians,2 x 0,Vasco,2,NÃO,IGUINHO
+Santos,2 x 1,Bahia,2,NÃO,IGUINHO
+Mirassol,1 x 1,Fortaleza,2,NÃO,IGUINHO
+Sport,1 x 2,Palmeiras,2,NÃO,IGUINHO
+Fluminense,2 x 0,Bragantino,2,NÃO,IGUINHO
+Vitória,1 x 2,Flamengo,2,NÃO,IGUINHO
+Ceará,1 x 0,Grêmio,2,NÃO,IGUINHO
+Internacional,2 x 1,Cruzeiro,2,SIM,IGUINHO
+Palmeiras,2 x 1,Corinthians,3,SIM,IGUINHO
+Vasco,1 x 0,Sport,3,NÃO,IGUINHO
+Fluminense,2 x 1,Santos,3,NÃO,IGUINHO
+São Paulo,2 x 0,Cruzeiro,3,NÃO,IGUINHO
+Bragantino,1 x 0,Botafogo,3,NÃO,IGUINHO
+Atlético-MG,2 x 0,Vitória,3,NÃO,IGUINHO
+Juventude,1 x 1,Ceará,3,NÃO,IGUINHO
+Bahia,3 x 1,Mirassol,3,NÃO,IGUINHO
+Fortaleza,2 x 1,Internacional,3,NÃO,IGUINHO
+Grêmio,0 x 1,Flamengo,3,SIM,IGUINHO
+Santos,1 x 0,Atlético-MG,4,SIM,IGUINHO
+Botafogo,2 x 0,São Paulo,4,NÃO,IGUINHO
+Corinthians,2 x 0,Fluminense,4,NÃO,IGUINHO
+Flamengo,3 x 0,Juventude,4,NÃO,IGUINHO
+Mirassol,1 x 0,Grêmio,4,NÃO,IGUINHO
+Cruzeiro,2 x 1,Bahia,4,NÃO,IGUINHO
+Sport,1 x 0,Bragantino,4,NÃO,IGUINHO
+Vitória,1 x 1,Fortaleza,4,NÃO,IGUINHO
+Ceará,1 x 0,Vasco,4,NÃO,IGUINHO
+Internacional,2 x 1,Palmeiras,4,SIM,IGUINHO
+Vasco,0 x 1,Flamengo,5,SIM,IGUINHO
+Fluminense,2 x 0,Vitória,5,NÃO,IGUINHO
+Corinthians,2 x 0,Sport,5,NÃO,IGUINHO
+São Paulo,2 x 1,Santos,5,NÃO,IGUINHO
+Bragantino,1 x 0,Cruzeiro,5,NÃO,IGUINHO
+Atlético-MG,1 x 0,Botafogo,5,NÃO,IGUINHO
+Juventude,1 x 1,Mirassol,5,NÃO,IGUINHO
+Bahia,2 x 0,Ceará,5,NÃO,IGUINHO
+Fortaleza,0 x 1,Palmeiras,5,NÃO,IGUINHO
+Grêmio,0 x 1,Internacional,5,SIM,IGUINHO
+Flamengo,2 x 1,Corinthians,6,SIM,IGUINHO
+Sport,1 x 0,Fortaleza,6,NÃO,IGUINHO
+Palmeiras,2 x 0,Bahia,6,NÃO,IGUINHO
+Santos,1 x 0,Bragantino,6,NÃO,IGUINHO
+Mirassol,1 x 0,Atlético-MG,6,NÃO,IGUINHO
+Cruzeiro,2 x 1,Vasco,6,NÃO,IGUINHO
+Internacional,2 x 0,Juventude,6,NÃO,IGUINHO
+Vitória,1 x 0,Grêmio,6,NÃO,IGUINHO
+Ceará,1 x 2,São Paulo,6,NÃO,IGUINHO
+Botafogo,1 x 0,Fluminense,6,SIM,IGUINHO
+Vasco,0 x 1,Palmeiras,7,SIM,IGUINHO
+Fluminense,2 x 0,Sport,7,NÃO,IGUINHO
+Corinthians,2 x 1,Internacional,7,NÃO,IGUINHO
+São Paulo,2 x 0,Fortaleza,7,NÃO,IGUINHO
+Bragantino,1 x 0,Mirassol,7,NÃO,IGUINHO
+Juventude,0 x 1,Atlético-MG,7,NÃO,IGUINHO
+Grêmio,2 x 1,Santos,7,NÃO,IGUINHO
+Bahia,1 x 0,Botafogo,7,NÃO,IGUINHO
+Ceará,1 x 1,Vitória,7,NÃO,IGUINHO
+Cruzeiro,0 x 1,Flamengo,7,SIM,IGUINHO
+Botafogo,2 x 1,Internacional,8,SIM,IGUINHO
+Sport,1 x 0,Cruzeiro,8,NÃO,IGUINHO
+Flamengo,2 x 1,Bahia,8,NÃO,IGUINHO
+Santos,1 x 0,Ceará,8,NÃO,IGUINHO
+Mirassol,0 x 1,Corinthians,8,NÃO,IGUINHO
+Atlético-MG,2 x 1,Fluminense,8,NÃO,IGUINHO
+Grêmio,1 x 0,Bragantino,8,NÃO,IGUINHO
+Vitória,2 x 0,Vasco,8,NÃO,IGUINHO
+Fortaleza,2 x 1,Juventude,8,NÃO,IGUINHO
+Palmeiras,1 x 0,São Paulo,8,SIM,IGUINHO
+Flamengo,1 x 0,Internacional,1,SIM,CRIS
+Vasco,2 x 1,Santos,1,NÃO,CRIS
+Juventude,2 x 1,Vitória,1,NÃO,CRIS
+São Paulo,2 x 0,Sport,1,NÃO,CRIS
+Bragantino,2 x 1,Ceará,1,NÃO,CRIS
+Cruzeiro,2 x 0,Mirassol,1,NÃO,CRIS
+Grêmio,1 x 0,Atlético-MG,1,NÃO,CRIS
+Bahia,1 x 0,Corinthians,1,NÃO,CRIS
+Fortaleza,1 x 0,Fluminense,1,NÃO,CRIS
+Palmeiras,2 x 1,Botafogo,1,SIM,CRIS
+Atlético-MG,1 x 0,São Paulo,2,SIM,CRIS
+Botafogo,2 x 0,Juventude,2,NÃO,CRIS
+Corinthians,2 x 1,Vasco,2,NÃO,CRIS
+Santos,1 x 0,Bahia,2,NÃO,CRIS
+Mirassol,1 x 1,Fortaleza,2,NÃO,CRIS
+Sport,1 x 2,Palmeiras,2,NÃO,CRIS
+Fluminense,2 x 1,Bragantino,2,NÃO,CRIS
+Vitória,0 x 1,Flamengo,2,NÃO,CRIS
+Ceará,2 x 1,Grêmio,2,NÃO,CRIS
+Internacional,2 x 1,Cruzeiro,2,SIM,CRIS
+Palmeiras,1 x 0,Corinthians,3,SIM,CRIS
+Vasco,2 x 1,Sport,3,NÃO,CRIS
+Fluminense,1 x 0,Santos,3,NÃO,CRIS
+São Paulo,1 x 0,Cruzeiro,3,NÃO,CRIS
+Bragantino,2 x 1,Botafogo,3,NÃO,CRIS
+Atlético-MG,2 x 0,Vitória,3,NÃO,CRIS
+Juventude,2 x 1,Ceará,3,NÃO,CRIS
+Bahia,2 x 0,Mirassol,3,NÃO,CRIS
+Fortaleza,1 x 0,Internacional,3,NÃO,CRIS
+Grêmio,0 x 1,Flamengo,3,SIM,CRIS
+Santos,2 x 1,Atlético-MG,4,SIM,CRIS
+Botafogo,1 x 0,São Paulo,4,NÃO,CRIS
+Corinthians,1 x 0,Fluminense,4,NÃO,CRIS
+Flamengo,2 x 0,Juventude,4,NÃO,CRIS
+Mirassol,1 x 0,Grêmio,4,NÃO,CRIS
+Cruzeiro,2 x 1,Bahia,4,NÃO,CRIS
+Sport,2 x 1,Bragantino,4,NÃO,CRIS
+Vitória,2 x 1,Fortaleza,4,NÃO,CRIS
+Ceará,1 x 1,Vasco,4,NÃO,CRIS
+Internacional,1 x 0,Palmeiras,4,SIM,CRIS
+Vasco,1 x 2,Flamengo,5,SIM,CRIS
+Fluminense,2 x 0,Vitória,5,NÃO,CRIS
+Corinthians,2 x 0,Sport,5,NÃO,CRIS
+São Paulo,1 x 0,Santos,5,NÃO,CRIS
+Bragantino,1 x 0,Cruzeiro,5,NÃO,CRIS
+Atlético-MG,1 x 0,Botafogo,5,NÃO,CRIS
+Juventude,2 x 1,Mirassol,5,NÃO,CRIS
+Bahia,2 x 1,Ceará,5,NÃO,CRIS
+Fortaleza,0 x 1,Palmeiras,5,NÃO,CRIS
+Grêmio,1 x 0,Internacional,5,SIM,CRIS
+Flamengo,1 x 0,Corinthians,6,SIM,CRIS
+Sport,1 x 0,Fortaleza,6,NÃO,CRIS
+Palmeiras,1 x 0,Bahia,6,NÃO,CRIS
+Santos,1 x 0,Bragantino,6,NÃO,CRIS
+Mirassol,0 x 1,Atlético-MG,6,NÃO,CRIS
+Cruzeiro,2 x 1,Vasco,6,NÃO,CRIS
+Internacional,2 x 1,Juventude,6,NÃO,CRIS
+Vitória,2 x 1,Grêmio,6,NÃO,CRIS
+Ceará,1 x 2,São Paulo,6,NÃO,CRIS
+Botafogo,2 x 1,Fluminense,6,SIM,CRIS
+Vasco,0 x 1,Palmeiras,7,SIM,CRIS
+Fluminense,2 x 0,Sport,7,NÃO,CRIS
+Corinthians,1 x 0,Internacional,7,NÃO,CRIS
+São Paulo,1 x 0,Fortaleza,7,NÃO,CRIS
+Bragantino,2 x 1,Mirassol,7,NÃO,CRIS
+Juventude,2 x 1,Atlético-MG,7,NÃO,CRIS
+Grêmio,1 x 0,Santos,7,NÃO,CRIS
+Bahia,1 x 0,Botafogo,7,NÃO,CRIS
+Ceará,2 x 1,Vitória,7,NÃO,CRIS
+Cruzeiro,1 x 1,Flamengo,7,SIM,CRIS
+Botafogo,1 x 0,Internacional,8,SIM,CRIS
+Sport,2 x 1,Cruzeiro,8,NÃO,CRIS
+Flamengo,1 x 0,Bahia,8,NÃO,CRIS
+Santos,1 x 0,Ceará,8,NÃO,CRIS
+Mirassol,1 x 2,Corinthians,8,NÃO,CRIS
+Atlético-MG,2 x 1,Fluminense,8,NÃO,CRIS
+Grêmio,2 x 1,Bragantino,8,NÃO,CRIS
+Vitória,1 x 2,Vasco,8,NÃO,CRIS
+Fortaleza,1 x 0,Juventude,8,NÃO,CRIS
+Palmeiras,1 x 0,São Paulo,8,SIM,CRIS
+Flamengo,2 x 1,Internacional,1,SIM,BIELZINHO
+Vasco,1 x 0,Santos,1,NÃO,BIELZINHO
+Juventude,1 x 0,Vitória,1,NÃO,BIELZINHO
+São Paulo,2 x 0,Sport,1,NÃO,BIELZINHO
+Bragantino,1 x 0,Ceará,1,NÃO,BIELZINHO
+Cruzeiro,2 x 0,Mirassol,1,NÃO,BIELZINHO
+Grêmio,2 x 1,Atlético-MG,1,NÃO,BIELZINHO
+Bahia,2 x 1,Corinthians,1,NÃO,BIELZINHO
+Fortaleza,2 x 1,Fluminense,1,NÃO,BIELZINHO
+Palmeiras,1 x 0,Botafogo,1,SIM,BIELZINHO
+Atlético-MG,2 x 1,São Paulo,2,SIM,BIELZINHO
+Botafogo,2 x 0,Juventude,2,NÃO,BIELZINHO
+Corinthians,0 x 1,Vasco,2,NÃO,BIELZINHO
+Santos,2 x 1,Bahia,2,NÃO,BIELZINHO
+Mirassol,1 x 0,Fortaleza,2,NÃO,BIELZINHO
+Sport,0 x 1,Palmeiras,2,NÃO,BIELZINHO
+Fluminense,1 x 0,Bragantino,2,NÃO,BIELZINHO
+Vitória,1 x 2,Flamengo,2,NÃO,BIELZINHO
+Ceará,1 x 1,Grêmio,2,NÃO,BIELZINHO
+Internacional,1 x 0,Cruzeiro,2,SIM,BIELZINHO
+Palmeiras,2 x 1,Corinthians,3,SIM,BIELZINHO
+Vasco,1 x 0,Sport,3,NÃO,BIELZINHO
+Fluminense,2 x 1,Santos,3,NÃO,BIELZINHO
+São Paulo,2 x 1,Cruzeiro,3,NÃO,BIELZINHO
+Bragantino,1 x 0,Botafogo,3,NÃO,BIELZINHO
+Atlético-MG,2 x 0,Vitória,3,NÃO,BIELZINHO
+Juventude,1 x 0,Ceará,3,NÃO,BIELZINHO
+Bahia,2 x 0,Mirassol,3,NÃO,BIELZINHO
+Fortaleza,2 x 1,Internacional,3,NÃO,BIELZINHO
+Grêmio,1 x 2,Flamengo,3,SIM,BIELZINHO
+Santos,1 x 0,Atlético-MG,4,SIM,BIELZINHO
+Botafogo,2 x 1,São Paulo,4,NÃO,BIELZINHO
+Corinthians,2 x 1,Fluminense,4,NÃO,BIELZINHO
+Flamengo,2 x 0,Juventude,4,NÃO,BIELZINHO
+Mirassol,1 x 1,Grêmio,4,NÃO,BIELZINHO
+Cruzeiro,1 x 0,Bahia,4,NÃO,BIELZINHO
+Sport,1 x 0,Bragantino,4,NÃO,BIELZINHO
+Vitória,1 x 0,Fortaleza,4,NÃO,BIELZINHO
+Ceará,1 x 2,Vasco,4,NÃO,BIELZINHO
+Internacional,2 x 1,Palmeiras,4,SIM,BIELZINHO
+Vasco,1 x 0,Flamengo,5,SIM,BIELZINHO
+Fluminense,2 x 0,Vitória,5,NÃO,BIELZINHO
+Corinthians,2 x 0,Sport,5,NÃO,BIELZINHO
+São Paulo,2 x 1,Santos,5,NÃO,BIELZINHO
+Bragantino,2 x 1,Cruzeiro,5,NÃO,BIELZINHO
+Atlético-MG,2 x 1,Botafogo,5,NÃO,BIELZINHO
+Juventude,1 x 0,Mirassol,5,NÃO,BIELZINHO
+Bahia,1 x 0,Ceará,5,NÃO,BIELZINHO
+Fortaleza,1 x 2,Palmeiras,5,NÃO,BIELZINHO
+Grêmio,1 x 1,Internacional,5,SIM,BIELZINHO
+Flamengo,2 x 1,Corinthians,6,SIM,BIELZINHO
+Sport,1 x 1,Fortaleza,6,NÃO,BIELZINHO
+Palmeiras,2 x 1,Bahia,6,NÃO,BIELZINHO
+Santos,2 x 1,Bragantino,6,NÃO,BIELZINHO
+Mirassol,1 x 2,Atlético-MG,6,NÃO,BIELZINHO
+Cruzeiro,0 x 1,Vasco,6,NÃO,BIELZINHO
+Internacional,1 x 0,Juventude,6,NÃO,BIELZINHO
+Vitória,1 x 0,Grêmio,6,NÃO,BIELZINHO
+Ceará,0 x 1,São Paulo,6,NÃO,BIELZINHO
+Botafogo,1 x 0,Fluminense,6,SIM,BIELZINHO
+Vasco,1 x 0,Palmeiras,7,SIM,BIELZINHO
+Fluminense,2 x 0,Sport,7,NÃO,BIELZINHO
+Corinthians,2 x 1,Internacional,7,NÃO,BIELZINHO
+São Paulo,2 x 1,Fortaleza,7,NÃO,BIELZINHO
+Bragantino,1 x 0,Mirassol,7,NÃO,BIELZINHO
+Juventude,1 x 0,Atlético-MG,7,NÃO,BIELZINHO
+Grêmio,2 x 1,Santos,7,NÃO,BIELZINHO
+Bahia,2 x 1,Botafogo,7,NÃO,BIELZINHO
+Ceará,1 x 0,Vitória,7,NÃO,BIELZINHO
+Cruzeiro,0 x 1,Flamengo,7,SIM,BIELZINHO
+Botafogo,2 x 1,Internacional,8,SIM,BIELZINHO
+Sport,1 x 0,Cruzeiro,8,NÃO,BIELZINHO
+Flamengo,2 x 1,Bahia,8,NÃO,BIELZINHO
+Santos,2 x 1,Ceará,8,NÃO,BIELZINHO
+Mirassol,0 x 1,Corinthians,8,NÃO,BIELZINHO
+Atlético-MG,1 x 0,Fluminense,8,NÃO,BIELZINHO
+Grêmio,1 x 0,Bragantino,8,NÃO,BIELZINHO
+Vitória,0 x 1,Vasco,8,NÃO,BIELZINHO
+Fortaleza,2 x 1,Juventude,8,NÃO,BIELZINHO
+Palmeiras,2 x 1,São Paulo,8,SIM,BIELZINHO
+Flamengo,2 x 0,Internacional,1,SIM,MARCOS
+Vasco,0 x 1,Santos,1,NÃO,MARCOS
+Juventude,1 x 0,Vitória,1,NÃO,MARCOS
+São Paulo,2 x 1,Sport,1,NÃO,MARCOS
+Bragantino,0 x 1,Ceará,1,NÃO,MARCOS
+Cruzeiro,2 x 0,Mirassol,1,NÃO,MARCOS
+Grêmio,1 x 1,Atlético-MG,1,NÃO,MARCOS
+Bahia,2 x 1,Corinthians,1,NÃO,MARCOS
+Fortaleza,2 x 0,Fluminense,1,NÃO,MARCOS
+Palmeiras,3 x 0,Botafogo,1,SIM,MARCOS
+Atlético-MG,2 x 1,São Paulo,2,SIM,MARCOS
+Botafogo,2 x 0,Juventude,2,NÃO,MARCOS
+Corinthians,2 x 0,Vasco,2,NÃO,MARCOS
+Santos,1 x 0,Bahia,2,NÃO,MARCOS
+Mirassol,1 x 1,Fortaleza,2,NÃO,MARCOS
+Sport,1 x 0,Palmeiras,2,NÃO,MARCOS
+Fluminense,2 x 1,Bragantino,2,NÃO,MARCOS
+Vitória,1 x 2,Flamengo,2,NÃO,MARCOS
+Ceará,1 x 2,Grêmio,2,NÃO,MARCOS
+Internacional,2 x 0,Cruzeiro,2,SIM,MARCOS
+Palmeiras,2 x 2,Corinthians,3,SIM,MARCOS
+Vasco,2 x 1,Sport,3,NÃO,MARCOS
+Fluminense,1 x 1,Santos,3,NÃO,MARCOS
+São Paulo,2 x 0,Cruzeiro,3,NÃO,MARCOS
+Bragantino,2 x 1,Botafogo,3,NÃO,MARCOS
+Atlético-MG,3 x 0,Vitória,3,NÃO,MARCOS
+Juventude,2 x 1,Ceará,3,NÃO,MARCOS
+Bahia,2 x 0,Mirassol,3,NÃO,MARCOS
+Fortaleza,3 x 1,Internacional,3,NÃO,MARCOS
+Grêmio,0 x 1,Flamengo,3,SIM,MARCOS
+Santos,1 x 2,Atlético-MG,4,SIM,MARCOS
+Botafogo,1 x 0,São Paulo,4,NÃO,MARCOS
+Corinthians,2 x 1,Fluminense,4,NÃO,MARCOS
+Flamengo,3 x 0,Juventude,4,NÃO,MARCOS
+Mirassol,1 x 1,Grêmio,4,NÃO,MARCOS
+Cruzeiro,2 x 0,Bahia,4,NÃO,MARCOS
+Sport,1 x 1,Bragantino,4,NÃO,MARCOS
+Vitória,2 x 0,Fortaleza,4,NÃO,MARCOS
+Ceará,2 x 1,Vasco,4,NÃO,MARCOS
+Internacional,1 x 2,Palmeiras,4,SIM,MARCOS
+Vasco,0 x 2,Flamengo,5,SIM,MARCOS
+Fluminense,2 x 0,Vitória,5,NÃO,MARCOS
+Corinthians,2 x 1,Sport,5,NÃO,MARCOS
+São Paulo,1 x 1,Santos,5,NÃO,MARCOS
+Bragantino,2 x 0,Cruzeiro,5,NÃO,MARCOS
+Atlético-MG,3 x 1,Botafogo,5,NÃO,MARCOS
+Juventude,2 x 0,Mirassol,5,NÃO,MARCOS
+Bahia,1 x 1,Ceará,5,NÃO,MARCOS
+Fortaleza,2 x 1,Palmeiras,5,NÃO,MARCOS
+Grêmio,2 x 2,Internacional,5,SIM,MARCOS
+Flamengo,3 x 1,Corinthians,6,SIM,MARCOS
+Sport,1 x 0,Fortaleza,6,NÃO,MARCOS
+Palmeiras,2 x 0,Bahia,6,NÃO,MARCOS
+Santos,3 x 0,Bragantino,6,NÃO,MARCOS
+Mirassol,1 x 1,Atlético-MG,6,NÃO,MARCOS
+Cruzeiro,2 x 1,Vasco,6,NÃO,MARCOS
+Internacional,3 x 0,Juventude,6,NÃO,MARCOS
+Vitória,1 x 0,Grêmio,6,NÃO,MARCOS
+Ceará,0 x 1,São Paulo,6,NÃO,MARCOS
+Botafogo,1 x 1,Fluminense,6,SIM,MARCOS
+Vasco,1 x 0,Palmeiras,7,SIM,MARCOS
+Fluminense,3 x 0,Sport,7,NÃO,MARCOS
+Corinthians,0 x 1,Internacional,7,NÃO,MARCOS
+São Paulo,3 x 0,Fortaleza,7,NÃO,MARCOS
+Bragantino,2 x 1,Mirassol,7,NÃO,MARCOS
+Juventude,1 x 0,Atlético-MG,7,NÃO,MARCOS
+Grêmio,2 x 1,Santos,7,NÃO,MARCOS
+Bahia,2 x 0,Botafogo,7,NÃO,MARCOS
+Ceará,2 x 2,Vitória,7,NÃO,MARCOS
+Cruzeiro,1 x 2,Flamengo,7,SIM,MARCOS
+Botafogo,2 x 1,Internacional,8,SIM,MARCOS
+Sport,0 x 1,Cruzeiro,8,NÃO,MARCOS
+Flamengo,3 x 1,Bahia,8,NÃO,MARCOS
+Santos,0 x 1,Ceará,8,NÃO,MARCOS
+Mirassol,2 x 0,Corinthians,8,NÃO,MARCOS
+Atlético-MG,0 x 1,Fluminense,8,NÃO,MARCOS
+Grêmio,2 x 0,Bragantino,8,NÃO,MARCOS
+Vitória,0 x 2,Vasco,8,NÃO,MARCOS
+Fortaleza,2 x 1,Juventude,8,NÃO,MARCOS
+Palmeiras,0 x 0,São Paulo,8,SIM,MARCOS
+Flamengo,2 x 1,Internacional,1,SIM,3F
+Vasco,1 x 2,Santos,1,NÃO,3F
+Juventude,1 x 0,Vitória,1,NÃO,3F
+São Paulo,2 x 0,Sport,1,NÃO,3F
+Bragantino,1 x 1,Ceará,1,NÃO,3F
+Cruzeiro,2 x 1,Mirassol,1,NÃO,3F
+Grêmio,2 x 1,Atlético-MG,1,NÃO,3F
+Bahia,1 x 2,Corinthians,1,NÃO,3F
+Fortaleza,1 x 1,Fluminense,1,NÃO,3F
+Palmeiras,2 x 0,Botafogo,1,SIM,3F
+Atlético-MG,2 x 2,São Paulo,2,SIM,3F
+Botafogo,1 x 0,Juventude,2,NÃO,3F
+Corinthians,2 x 0,Vasco,2,NÃO,3F
+Santos,2 x 1,Bahia,2,NÃO,3F
+Mirassol,1 x 3,Fortaleza,2,NÃO,3F
+Sport,0 x 2,Palmeiras,2,NÃO,3F
+Fluminense,2 x 1,Bragantino,2,NÃO,3F
+Vitória,1 x 3,Flamengo,2,NÃO,3F
+Ceará,1 x 1,Grêmio,2,NÃO,3F
+Internacional,2 x 1,Cruzeiro,2,SIM,3F
+Palmeiras,2 x 1,Corinthians,3,SIM,3F
+Vasco,2 x 1,Sport,3,NÃO,3F
+Fluminense,1 x 1,Santos,3,NÃO,3F
+São Paulo,2 x 0,Cruzeiro,3,NÃO,3F
+Bragantino,1 x 2,Botafogo,3,NÃO,3F
+Atlético-MG,3 x 0,Vitória,3,NÃO,3F
+Juventude,1 x 1,Ceará,3,NÃO,3F
+Bahia,2 x 0,Mirassol,3,NÃO,3F
+Fortaleza,2 x 2,Internacional,3,NÃO,3F
+Grêmio,1 x 2,Flamengo,3,SIM,3F
+Santos,2 x 1,Atlético-MG,4,SIM,3F
+Botafogo,3 x 2,São Paulo,4,NÃO,3F
+Corinthians,2 x 0,Fluminense,4,NÃO,3F
+Flamengo,2 x 0,Juventude,4,NÃO,3F
+Mirassol,1 x 1,Grêmio,4,NÃO,3F
+Cruzeiro,2 x 1,Bahia,4,NÃO,3F
+Sport,1 x 0,Bragantino,4,NÃO,3F
+Vitória,1 x 1,Fortaleza,4,NÃO,3F
+Ceará,2 x 0,Vasco,4,NÃO,3F
+Internacional,2 x 1,Palmeiras,4,SIM,3F
+Vasco,1 x 4,Flamengo,5,SIM,3F
+Fluminense,2 x 0,Vitória,5,NÃO,3F
+Corinthians,3 x 1,Sport,5,NÃO,3F
+São Paulo,2 x 2,Santos,5,NÃO,3F
+Bragantino,1 x 2,Cruzeiro,5,NÃO,3F
+Atlético-MG,2 x 1,Botafogo,5,NÃO,3F
+Juventude,2 x 0,Mirassol,5,NÃO,3F
+Bahia,2 x 1,Ceará,5,NÃO,3F
+Fortaleza,1 x 1,Palmeiras,5,NÃO,3F
+Grêmio,1 x 1,Internacional,5,SIM,3F
+Flamengo,2 x 0,Corinthians,6,SIM,3F
+Sport,1 x 0,Fortaleza,6,NÃO,3F
+Palmeiras,2 x 1,Bahia,6,NÃO,3F
+Santos,2 x 0,Bragantino,6,NÃO,3F
+Mirassol,1 x 2,Atlético-MG,6,NÃO,3F
+Cruzeiro,2 x 1,Vasco,6,NÃO,3F
+Internacional,2 x 0,Juventude,6,NÃO,3F
+Vitória,1 x 0,Grêmio,6,NÃO,3F
+Ceará,1 x 3,São Paulo,6,NÃO,3F
+Botafogo,1 x 1,Fluminense,6,SIM,3F
+Vasco,1 x 3,Palmeiras,7,SIM,3F
+Fluminense,2 x 0,Sport,7,NÃO,3F
+Corinthians,2 x 1,Internacional,7,NÃO,3F
+São Paulo,2 x 0,Fortaleza,7,NÃO,3F
+Bragantino,1 x 0,Mirassol,7,NÃO,3F
+Juventude,1 x 1,Atlético-MG,7,NÃO,3F
+Grêmio,2 x 1,Santos,7,NÃO,3F
+Bahia,2 x 1,Botafogo,7,NÃO,3F
+Ceará,2 x 0,Vitória,7,NÃO,3F
+Cruzeiro,1 x 2,Flamengo,7,SIM,3F
+Botafogo,1 x 2,Internacional,8,SIM,3F
+Sport,0 x 1,Cruzeiro,8,NÃO,3F
+Flamengo,2 x 0,Bahia,8,NÃO,3F
+Santos,2 x 0,Ceará,8,NÃO,3F
+Mirassol,1 x 3,Corinthians,8,NÃO,3F
+Atlético-MG,2 x 0,Fluminense,8,NÃO,3F
+Grêmio,1 x 1,Bragantino,8,NÃO,3F
+Vitória,1 x 2,Vasco,8,NÃO,3F
+Fortaleza,1 x 0,Juventude,8,NÃO,3F
+Palmeiras,2 x 2,São Paulo,8,SIM,3F
+Flamengo,2 x 0,Internacional,1,SIM,ALEF
+Vasco,2 x 1,Santos,1,NÃO,ALEF
+Juventude,1 x 1,Vitória,1,NÃO,ALEF
+São Paulo,2 x 0,Sport,1,NÃO,ALEF
+Bragantino,2 x 2,Ceará,1,NÃO,ALEF
+Cruzeiro,3 x 0,Mirassol,1,NÃO,ALEF
+Grêmio,2 x 1,Atlético-MG,1,NÃO,ALEF
+Bahia,1 x 2,Corinthians,1,NÃO,ALEF
+Fortaleza,2 x 1,Fluminense,1,NÃO,ALEF
+Palmeiras,2 x 1,Botafogo,1,SIM,ALEF
+Atlético-MG,1 x 0,São Paulo,2,SIM,ALEF
+Botafogo,2 x 0,Juventude,2,NÃO,ALEF
+Corinthians,2 x 2,Vasco,2,NÃO,ALEF
+Santos,2 x 1,Bahia,2,NÃO,ALEF
+Mirassol,1 x 3,Fortaleza,2,NÃO,ALEF
+Sport,0 x 2,Palmeiras,2,NÃO,ALEF
+Fluminense,1 x 0,Bragantino,2,NÃO,ALEF
+Vitória,1 x 3,Flamengo,2,NÃO,ALEF
+Ceará,1 x 2,Grêmio,2,NÃO,ALEF
+Internacional,2 x 1,Cruzeiro,2,SIM,ALEF
+Palmeiras,2 x 2,Corinthians,3,SIM,ALEF
+Vasco,2 x 0,Sport,3,NÃO,ALEF
+Fluminense,2 x 1,Santos,3,NÃO,ALEF
+São Paulo,3 x 2,Cruzeiro,3,NÃO,ALEF
+Bragantino,1 x 2,Botafogo,3,NÃO,ALEF
+Atlético-MG,2 x 0,Vitória,3,NÃO,ALEF
+Juventude,2 x 1,Ceará,3,NÃO,ALEF
+Bahia,2 x 0,Mirassol,3,NÃO,ALEF
+Fortaleza,2 x 1,Internacional,3,NÃO,ALEF
+Grêmio,1 x 2,Flamengo,3,SIM,ALEF
+Santos,2 x 1,Atlético-MG,4,SIM,ALEF
+Botafogo,2 x 0,São Paulo,4,NÃO,ALEF
+Corinthians,2 x 0,Fluminense,4,NÃO,ALEF
+Flamengo,3 x 1,Juventude,4,NÃO,ALEF
+Mirassol,1 x 1,Grêmio,4,NÃO,ALEF
+Cruzeiro,2 x 1,Bahia,4,NÃO,ALEF
+Sport,2 x 2,Bragantino,4,NÃO,ALEF
+Vitória,2 x 2,Fortaleza,4,NÃO,ALEF
+Ceará,1 x 2,Vasco,4,NÃO,ALEF
+Internacional,1 x 1,Palmeiras,4,SIM,ALEF
+Vasco,2 x 2,Flamengo,5,SIM,ALEF
+Fluminense,1 x 0,Vitória,5,NÃO,ALEF
+Corinthians,2 x 0,Sport,5,NÃO,ALEF
+São Paulo,1 x 1,Santos,5,NÃO,ALEF
+Bragantino,1 x 2,Cruzeiro,5,NÃO,ALEF
+Atlético-MG,1 x 1,Botafogo,5,NÃO,ALEF
+Juventude,2 x 1,Mirassol,5,NÃO,ALEF
+Bahia,2 x 0,Ceará,5,NÃO,ALEF
+Fortaleza,2 x 2,Palmeiras,5,NÃO,ALEF
+Grêmio,1 x 1,Internacional,5,SIM,ALEF
+Flamengo,2 x 1,Corinthians,6,SIM,ALEF
+Sport,1 x 2,Fortaleza,6,NÃO,ALEF
+Palmeiras,2 x 0,Bahia,6,NÃO,ALEF
+Santos,1 x 0,Bragantino,6,NÃO,ALEF
+Mirassol,0 x 1,Atlético-MG,6,NÃO,ALEF
+Cruzeiro,1 x 1,Vasco,6,NÃO,ALEF
+Internacional,2 x 1,Juventude,6,NÃO,ALEF
+Vitória,0 x 1,Grêmio,6,NÃO,ALEF
+Ceará,0 x 2,São Paulo,6,NÃO,ALEF
+Botafogo,1 x 1,Fluminense,6,SIM,ALEF
+Vasco,2 x 1,Palmeiras,7,SIM,ALEF
+Fluminense,2 x 0,Sport,7,NÃO,ALEF
+Corinthians,2 x 1,Internacional,7,NÃO,ALEF
+São Paulo,3 x 2,Fortaleza,7,NÃO,ALEF
+Bragantino,1 x 1,Mirassol,7,NÃO,ALEF
+Juventude,1 x 0,Atlético-MG,7,NÃO,ALEF
+Grêmio,1 x 1,Santos,7,NÃO,ALEF
+Bahia,2 x 1,Botafogo,7,NÃO,ALEF
+Ceará,2 x 2,Vitória,7,NÃO,ALEF
+Cruzeiro,0 x 2,Flamengo,7,SIM,ALEF
+Botafogo,2 x 0,Internacional,8,SIM,ALEF
+Sport,1 x 0,Cruzeiro,8,NÃO,ALEF
+Flamengo,3 x 0,Bahia,8,NÃO,ALEF
+Santos,2 x 0,Ceará,8,NÃO,ALEF
+Mirassol,0 x 2,Corinthians,8,NÃO,ALEF
+Atlético-MG,2 x 1,Fluminense,8,NÃO,ALEF
+Grêmio,3 x 1,Bragantino,8,NÃO,ALEF
+Vitória,1 x 2,Vasco,8,NÃO,ALEF
+Fortaleza,2 x 0,Juventude,8,NÃO,ALEF
+Palmeiras,2 x 2,São Paulo,8,SIM,ALEF
+Flamengo,1 x 1,Internacional,1,SIM,GRAFITE
+Vasco,1 x 2,Santos,1,NÃO,GRAFITE
+Juventude,3 x 0,Vitória,1,NÃO,GRAFITE
+São Paulo,2 x 0,Sport,1,NÃO,GRAFITE
+Bragantino,0 x 0,Ceará,1,NÃO,GRAFITE
+Cruzeiro,1 x 0,Mirassol,1,NÃO,GRAFITE
+Grêmio,0 x 2,Atlético-MG,1,NÃO,GRAFITE
+Bahia,1 x 1,Corinthians,1,NÃO,GRAFITE
+Fortaleza,1 x 2,Fluminense,1,NÃO,GRAFITE
+Palmeiras,3 x 1,Botafogo,1,SIM,GRAFITE
+Atlético-MG,1 x 0,São Paulo,2,SIM,GRAFITE
+Botafogo,2 x 0,Juventude,2,NÃO,GRAFITE
+Corinthians,3 x 0,Vasco,2,NÃO,GRAFITE
+Santos,2 x 1,Bahia,2,NÃO,GRAFITE
+Mirassol,2 x 2,Fortaleza,2,NÃO,GRAFITE
+Sport,0 x 1,Palmeiras,2,NÃO,GRAFITE
+Fluminense,2 x 0,Bragantino,2,NÃO,GRAFITE
+Vitória,0 x 2,Flamengo,2,NÃO,GRAFITE
+Ceará,1 x 1,Grêmio,2,NÃO,GRAFITE
+Internacional,3 x 2,Cruzeiro,2,SIM,GRAFITE
+Palmeiras,2 x 1,Corinthians,3,SIM,GRAFITE
+Vasco,1 x 0,Sport,3,NÃO,GRAFITE
+Fluminense,1 x 1,Santos,3,NÃO,GRAFITE
+São Paulo,2 x 0,Cruzeiro,3,NÃO,GRAFITE
+Bragantino,0 x 2,Botafogo,3,NÃO,GRAFITE
+Atlético-MG,3 x 1,Vitória,3,NÃO,GRAFITE
+Juventude,1 x 1,Ceará,3,NÃO,GRAFITE
+Bahia,2 x 0,Mirassol,3,NÃO,GRAFITE
+Fortaleza,0 x 0,Internacional,3,NÃO,GRAFITE
+Grêmio,1 x 1,Flamengo,3,SIM,GRAFITE
+Santos,0 x 2,Atlético-MG,4,SIM,GRAFITE
+Botafogo,2 x 1,São Paulo,4,NÃO,GRAFITE
+Corinthians,3 x 2,Fluminense,4,NÃO,GRAFITE
+Flamengo,3 x 0,Juventude,4,NÃO,GRAFITE
+Mirassol,1 x 1,Grêmio,4,NÃO,GRAFITE
+Cruzeiro,0 x 1,Bahia,4,NÃO,GRAFITE
+Sport,2 x 2,Bragantino,4,NÃO,GRAFITE
+Vitória,2 x 1,Fortaleza,4,NÃO,GRAFITE
+Ceará,2 x 0,Vasco,4,NÃO,GRAFITE
+Internacional,1 x 0,Palmeiras,4,SIM,GRAFITE
+Vasco,0 x 2,Flamengo,5,SIM,GRAFITE
+Fluminense,3 x 1,Vitória,5,NÃO,GRAFITE
+Corinthians,2 x 0,Sport,5,NÃO,GRAFITE
+São Paulo,1 x 1,Santos,5,NÃO,GRAFITE
+Bragantino,2 x 1,Cruzeiro,5,NÃO,GRAFITE
+Atlético-MG,2 x 1,Botafogo,5,NÃO,GRAFITE
+Juventude,1 x 0,Mirassol,5,NÃO,GRAFITE
+Bahia,2 x 2,Ceará,5,NÃO,GRAFITE
+Fortaleza,1 x 2,Palmeiras,5,NÃO,GRAFITE
+Grêmio,2 x 0,Internacional,5,SIM,GRAFITE
+Flamengo,2 x 2,Corinthians,6,SIM,GRAFITE
+Sport,0 x 0,Fortaleza,6,NÃO,GRAFITE
+Palmeiras,2 x 0,Bahia,6,NÃO,GRAFITE
+Santos,2 x 0,Bragantino,6,NÃO,GRAFITE
+Mirassol,0 x 1,Atlético-MG,6,NÃO,GRAFITE
+Cruzeiro,2 x 1,Vasco,6,NÃO,GRAFITE
+Internacional,2 x 1,Juventude,6,NÃO,GRAFITE
+Vitória,1 x 1,Grêmio,6,NÃO,GRAFITE
+Ceará,1 x 1,São Paulo,6,NÃO,GRAFITE
+Botafogo,2 x 0,Fluminense,6,SIM,GRAFITE
+Vasco,0 x 2,Palmeiras,7,SIM,GRAFITE
+Fluminense,2 x 0,Sport,7,NÃO,GRAFITE
+Corinthians,1 x 0,Internacional,7,NÃO,GRAFITE
+São Paulo,0 x 2,Fortaleza,7,NÃO,GRAFITE
+Bragantino,0 x 0,Mirassol,7,NÃO,GRAFITE
+Juventude,2 x 2,Atlético-MG,7,NÃO,GRAFITE
+Grêmio,3 x 1,Santos,7,NÃO,GRAFITE
+Bahia,1 x 0,Botafogo,7,NÃO,GRAFITE
+Ceará,1 x 2,Vitória,7,NÃO,GRAFITE
+Cruzeiro,2 x 3,Flamengo,7,SIM,GRAFITE
+Botafogo,1 x 3,Internacional,8,SIM,GRAFITE
+Sport,0 x 0,Cruzeiro,8,NÃO,GRAFITE
+Flamengo,2 x 0,Bahia,8,NÃO,GRAFITE
+Santos,2 x 0,Ceará,8,NÃO,GRAFITE
+Mirassol,1 x 1,Corinthians,8,NÃO,GRAFITE
+Atlético-MG,1 x 1,Fluminense,8,NÃO,GRAFITE
+Grêmio,3 x 1,Bragantino,8,NÃO,GRAFITE
+Vitória,1 x 0,Vasco,8,NÃO,GRAFITE
+Fortaleza,3 x 1,Juventude,8,NÃO,GRAFITE
+Palmeiras,1 x 0,São Paulo,8,SIM,GRAFITE
+Flamengo,2 x 0,Internacional,1,SIM,KICO
+Vasco,2 x 1,Santos,1,NÃO,KICO
+Juventude,3 x 1,Vitória,1,NÃO,KICO
+São Paulo,1 x 0,Sport,1,NÃO,KICO
+Bragantino,1 x 0,Ceará,1,NÃO,KICO
+Cruzeiro,2 x 1,Mirassol,1,NÃO,KICO
+Grêmio,0 x 2,Atlético-MG,1,NÃO,KICO
+Bahia,1 x 0,Corinthians,1,NÃO,KICO
+Fortaleza,3 x 1,Fluminense,1,NÃO,KICO
+Palmeiras,3 x 2,Botafogo,1,SIM,KICO
+Atlético-MG,2 x 1,São Paulo,2,SIM,KICO
+Botafogo,2 x 0,Juventude,2,NÃO,KICO
+Corinthians,0 x 1,Vasco,2,NÃO,KICO
+Santos,2 x 0,Bahia,2,NÃO,KICO
+Mirassol,0 x 1,Fortaleza,2,NÃO,KICO
+Sport,2 x 3,Palmeiras,2,NÃO,KICO
+Fluminense,1 x 0,Bragantino,2,NÃO,KICO
+Vitória,0 x 1,Flamengo,2,NÃO,KICO
+Ceará,2 x 1,Grêmio,2,NÃO,KICO
+Internacional,2 x 0,Cruzeiro,2,SIM,KICO
+Palmeiras,2 x 1,Corinthians,3,SIM,KICO
+Vasco,3 x 0,Sport,3,NÃO,KICO
+Fluminense,1 x 0,Santos,3,NÃO,KICO
+São Paulo,2 x 0,Cruzeiro,3,NÃO,KICO
+Bragantino,0 x 1,Botafogo,3,NÃO,KICO
+Atlético-MG,4 x 1,Vitória,3,NÃO,KICO
+Juventude,1 x 0,Ceará,3,NÃO,KICO
+Bahia,3 x 1,Mirassol,3,NÃO,KICO
+Fortaleza,2 x 0,Internacional,3,NÃO,KICO
+Grêmio,2 x 1,Flamengo,3,SIM,KICO
+Santos,1 x 0,Atlético-MG,4,SIM,KICO
+Botafogo,2 x 1,São Paulo,4,NÃO,KICO
+Corinthians,2 x 0,Fluminense,4,NÃO,KICO
+Flamengo,2 x 0,Juventude,4,NÃO,KICO
+Mirassol,1 x 0,Grêmio,4,NÃO,KICO
+Cruzeiro,3 x 1,Bahia,4,NÃO,KICO
+Sport,2 x 1,Bragantino,4,NÃO,KICO
+Vitória,3 x 2,Fortaleza,4,NÃO,KICO
+Ceará,0 x 1,Vasco,4,NÃO,KICO
+Internacional,3 x 1,Palmeiras,4,SIM,KICO
+Vasco,2 x 1,Flamengo,5,SIM,KICO
+Fluminense,3 x 2,Vitória,5,NÃO,KICO
+Corinthians,3 x 1,Sport,5,NÃO,KICO
+São Paulo,2 x 2,Santos,5,NÃO,KICO
+Bragantino,1 x 0,Cruzeiro,5,NÃO,KICO
+Atlético-MG,2 x 1,Botafogo,5,NÃO,KICO
+Juventude,1 x 0,Mirassol,5,NÃO,KICO
+Bahia,3 x 1,Ceará,5,NÃO,KICO
+Fortaleza,1 x 2,Palmeiras,5,NÃO,KICO
+Grêmio,1 x 0,Internacional,5,SIM,KICO
+Flamengo,3 x 1,Corinthians,6,SIM,KICO
+Sport,2 x 0,Fortaleza,6,NÃO,KICO
+Palmeiras,3 x 2,Bahia,6,NÃO,KICO
+Santos,1 x 1,Bragantino,6,NÃO,KICO
+Mirassol,0 x 2,Atlético-MG,6,NÃO,KICO
+Cruzeiro,0 x 1,Vasco,6,NÃO,KICO
+Internacional,3 x 2,Juventude,6,NÃO,KICO
+Vitória,1 x 0,Grêmio,6,NÃO,KICO
+Ceará,3 x 1,São Paulo,6,NÃO,KICO
+Botafogo,2 x 0,Fluminense,6,SIM,KICO
+Vasco,2 x 1,Palmeiras,7,SIM,KICO
+Fluminense,2 x 0,Sport,7,NÃO,KICO
+Corinthians,3 x 1,Internacional,7,NÃO,KICO
+São Paulo,1 x 0,Fortaleza,7,NÃO,KICO
+Bragantino,2 x 1,Mirassol,7,NÃO,KICO
+Juventude,1 x 0,Atlético-MG,7,NÃO,KICO
+Grêmio,2 x 1,Santos,7,NÃO,KICO
+Bahia,3 x 2,Botafogo,7,NÃO,KICO
+Ceará,3 x 1,Vitória,7,NÃO,KICO
+Cruzeiro,1 x 0,Flamengo,7,SIM,KICO
+Botafogo,2 x 0,Internacional,8,SIM,KICO
+Sport,2 x 1,Cruzeiro,8,NÃO,KICO
+Flamengo,2 x 0,Bahia,8,NÃO,KICO
+Santos,3 x 1,Ceará,8,NÃO,KICO
+Mirassol,1 x 0,Corinthians,8,NÃO,KICO
+Atlético-MG,2 x 1,Fluminense,8,NÃO,KICO
+Grêmio,3 x 1,Bragantino,8,NÃO,KICO
+Vitória,0 x 1,Vasco,8,NÃO,KICO
+Fortaleza,3 x 0,Juventude,8,NÃO,KICO
+Palmeiras,3 x 2,São Paulo,8,SIM,KICO
+Flamengo,2 x 1,Internacional,1,SIM,FABIN
+Vasco,1 x 1,Santos,1,NÃO,FABIN
+Juventude,1 x 0,Vitória,1,NÃO,FABIN
+São Paulo,2 x 0,Sport,1,NÃO,FABIN
+Bragantino,1 x 1,Ceará,1,NÃO,FABIN
+Cruzeiro,2 x 0,Mirassol,1,NÃO,FABIN
+Grêmio,1 x 1,Atlético-MG,1,NÃO,FABIN
+Bahia,2 x 0,Corinthians,1,NÃO,FABIN
+Fortaleza,1 x 1,Fluminense,1,NÃO,FABIN
+Palmeiras,2 x 1,Botafogo,1,SIM,FABIN
+Atlético-MG,2 x 1,São Paulo,2,SIM,FABIN
+Botafogo,1 x 1,Juventude,2,NÃO,FABIN
+Corinthians,2 x 0,Vasco,2,NÃO,FABIN
+Santos,1 x 1,Bahia,2,NÃO,FABIN
+Mirassol,0 x 1,Fortaleza,2,NÃO,FABIN
+Sport,1 x 1,Palmeiras,2,NÃO,FABIN
+Fluminense,1 x 1,Bragantino,2,NÃO,FABIN
+Vitória,0 x 2,Flamengo,2,NÃO,FABIN
+Ceará,1 x 0,Grêmio,2,NÃO,FABIN
+Internacional,2 x 1,Cruzeiro,2,SIM,FABIN
+Palmeiras,2 x 0,Corinthians,3,SIM,FABIN
+Vasco,1 x 0,Sport,3,NÃO,FABIN
+Fluminense,1 x 0,Santos,3,NÃO,FABIN
+São Paulo,1 x 1,Cruzeiro,3,NÃO,FABIN
+Bragantino,2 x 1,Botafogo,3,NÃO,FABIN
+Atlético-MG,3 x 0,Vitória,3,NÃO,FABIN
+Juventude,1 x 0,Ceará,3,NÃO,FABIN
+Bahia,2 x 0,Mirassol,3,NÃO,FABIN
+Fortaleza,1 x 1,Internacional,3,NÃO,FABIN
+Grêmio,1 x 2,Flamengo,3,SIM,FABIN
+Santos,1 x 1,Atlético-MG,4,SIM,FABIN
+Botafogo,1 x 0,São Paulo,4,NÃO,FABIN
+Corinthians,1 x 1,Fluminense,4,NÃO,FABIN
+Flamengo,2 x 0,Juventude,4,NÃO,FABIN
+Mirassol,0 x 2,Grêmio,4,NÃO,FABIN
+Cruzeiro,1 x 1,Bahia,4,NÃO,FABIN
+Sport,2 x 0,Bragantino,4,NÃO,FABIN
+Vitória,0 x 1,Fortaleza,4,NÃO,FABIN
+Ceará,1 x 0,Vasco,4,NÃO,FABIN
+Internacional,1 x 1,Palmeiras,4,SIM,FABIN
+Vasco,1 x 1,Flamengo,5,SIM,FABIN
+Fluminense,1 x 1,Vitória,5,NÃO,FABIN
+Corinthians,1 x 0,Sport,5,NÃO,FABIN
+São Paulo,2 x 1,Santos,5,NÃO,FABIN
+Bragantino,1 x 2,Cruzeiro,5,NÃO,FABIN
+Atlético-MG,2 x 0,Botafogo,5,NÃO,FABIN
+Juventude,0 x 0,Mirassol,5,NÃO,FABIN
+Bahia,1 x 1,Ceará,5,NÃO,FABIN
+Fortaleza,2 x 1,Palmeiras,5,NÃO,FABIN
+Grêmio,1 x 1,Internacional,5,SIM,FABIN
+Flamengo,2 x 1,Corinthians,6,SIM,FABIN
+Sport,1 x 0,Fortaleza,6,NÃO,FABIN
+Palmeiras,2 x 0,Bahia,6,NÃO,FABIN
+Santos,1 x 0,Bragantino,6,NÃO,FABIN
+Mirassol,0 x 2,Atlético-MG,6,NÃO,FABIN
+Cruzeiro,1 x 0,Vasco,6,NÃO,FABIN
+Internacional,2 x 1,Juventude,6,NÃO,FABIN
+Vitória,1 x 1,Grêmio,6,NÃO,FABIN
+Ceará,0 x 2,São Paulo,6,NÃO,FABIN
+Botafogo,2 x 0,Fluminense,6,SIM,FABIN
+Vasco,1 x 2,Palmeiras,7,SIM,FABIN
+Fluminense,2 x 0,Sport,7,NÃO,FABIN
+Corinthians,1 x 1,Internacional,7,NÃO,FABIN
+São Paulo,2 x 1,Fortaleza,7,NÃO,FABIN
+Bragantino,1 x 0,Mirassol,7,NÃO,FABIN
+Juventude,0 x 2,Atlético-MG,7,NÃO,FABIN
+Grêmio,2 x 1,Santos,7,NÃO,FABIN
+Bahia,1 x 1,Botafogo,7,NÃO,FABIN
+Ceará,1 x 0,Vitória,7,NÃO,FABIN
+Cruzeiro,2 x 2,Flamengo,7,SIM,FABIN
+Botafogo,1 x 2,Internacional,8,SIM,FABIN
+Sport,1 x 1,Cruzeiro,8,NÃO,FABIN
+Flamengo,3 x 0,Bahia,8,NÃO,FABIN
+Santos,1 x 0,Ceará,8,NÃO,FABIN
+Mirassol,0 x 2,Corinthians,8,NÃO,FABIN
+Atlético-MG,2 x 1,Fluminense,8,NÃO,FABIN
+Grêmio,1 x 0,Bragantino,8,NÃO,FABIN
+Vitória,1 x 2,Vasco,8,NÃO,FABIN
+Fortaleza,2 x 0,Juventude,8,NÃO,FABIN
+Palmeiras,1 x 1,São Paulo,8,SIM,FABIN
+Flamengo,3 x 1,Internacional,1,SIM,CHOCOLATE
+Vasco,1 x 1,Santos,1,NÃO,CHOCOLATE
+Juventude,0 x 1,Vitória,1,NÃO,CHOCOLATE
+São Paulo,4 x 0,Sport,1,NÃO,CHOCOLATE
+Bragantino,2 x 1,Ceará,1,NÃO,CHOCOLATE
+Cruzeiro,3 x 0,Mirassol,1,NÃO,CHOCOLATE
+Grêmio,2 x 2,Atlético-MG,1,NÃO,CHOCOLATE
+Bahia,1 x 0,Corinthians,1,NÃO,CHOCOLATE
+Fortaleza,2 x 1,Fluminense,1,NÃO,CHOCOLATE
+Palmeiras,3 x 1,Botafogo,1,SIM,CHOCOLATE
+Atlético-MG,2 x 1,São Paulo,2,SIM,CHOCOLATE
+Botafogo,3 x 0,Juventude,2,NÃO,CHOCOLATE
+Corinthians,2 x 0,Vasco,2,NÃO,CHOCOLATE
+Santos,3 x 1,Bahia,2,NÃO,CHOCOLATE
+Mirassol,0 x 2,Fortaleza,2,NÃO,CHOCOLATE
+Sport,1 x 2,Palmeiras,2,NÃO,CHOCOLATE
+Fluminense,2 x 0,Bragantino,2,NÃO,CHOCOLATE
+Vitória,1 x 3,Flamengo,2,NÃO,CHOCOLATE
+Ceará,0 x 1,Grêmio,2,NÃO,CHOCOLATE
+Internacional,2 x 0,Cruzeiro,2,SIM,CHOCOLATE
+Palmeiras,2 x 2,Corinthians,3,SIM,CHOCOLATE
+Vasco,4 x 0,Sport,3,NÃO,CHOCOLATE
+Fluminense,2 x 2,Santos,3,NÃO,CHOCOLATE
+São Paulo,2 x 0,Cruzeiro,3,NÃO,CHOCOLATE
+Bragantino,0 x 1,Botafogo,3,NÃO,CHOCOLATE
+Atlético-MG,3 x 0,Vitória,3,NÃO,CHOCOLATE
+Juventude,1 x 0,Ceará,3,NÃO,CHOCOLATE
+Bahia,0 x 1,Mirassol,3,NÃO,CHOCOLATE
+Fortaleza,2 x 2,Internacional,3,NÃO,CHOCOLATE
+Grêmio,3 x 1,Flamengo,3,SIM,CHOCOLATE
+Santos,2 x 1,Atlético-MG,4,SIM,CHOCOLATE
+Botafogo,0 x 0,São Paulo,4,NÃO,CHOCOLATE
+Corinthians,1 x 1,Fluminense,4,NÃO,CHOCOLATE
+Flamengo,4 x 0,Juventude,4,NÃO,CHOCOLATE
+Mirassol,2 x 1,Grêmio,4,NÃO,CHOCOLATE
+Cruzeiro,1 x 0,Bahia,4,NÃO,CHOCOLATE
+Sport,1 x 1,Bragantino,4,NÃO,CHOCOLATE
+Vitória,0 x 2,Fortaleza,4,NÃO,CHOCOLATE
+Ceará,1 x 0,Vasco,4,NÃO,CHOCOLATE
+Internacional,2 x 0,Palmeiras,4,SIM,CHOCOLATE
+Vasco,2 x 3,Flamengo,5,SIM,CHOCOLATE
+Fluminense,2 x 0,Vitória,5,NÃO,CHOCOLATE
+Corinthians,1 x 0,Sport,5,NÃO,CHOCOLATE
+São Paulo,0 x 2,Santos,5,NÃO,CHOCOLATE
+Bragantino,0 x 1,Cruzeiro,5,NÃO,CHOCOLATE
+Atlético-MG,0 x 2,Botafogo,5,NÃO,CHOCOLATE
+Juventude,1 x 0,Mirassol,5,NÃO,CHOCOLATE
+Bahia,2 x 0,Ceará,5,NÃO,CHOCOLATE
+Fortaleza,1 x 0,Palmeiras,5,NÃO,CHOCOLATE
+Grêmio,2 x 2,Internacional,5,SIM,CHOCOLATE
+Flamengo,2 x 0,Corinthians,6,SIM,CHOCOLATE
+Sport,0 x 0,Fortaleza,6,NÃO,CHOCOLATE
+Palmeiras,1 x 1,Bahia,6,NÃO,CHOCOLATE
+Santos,0 x 1,Bragantino,6,NÃO,CHOCOLATE
+Mirassol,0 x 2,Atlético-MG,6,NÃO,CHOCOLATE
+Cruzeiro,1 x 1,Vasco,6,NÃO,CHOCOLATE
+Internacional,2 x 0,Juventude,6,NÃO,CHOCOLATE
+Vitória,1 x 0,Grêmio,6,NÃO,CHOCOLATE
+Ceará,1 x 1,São Paulo,6,NÃO,CHOCOLATE
+Botafogo,2 x 2,Fluminense,6,SIM,CHOCOLATE
+Vasco,1 x 0,Palmeiras,7,SIM,CHOCOLATE
+Fluminense,3 x 0,Sport,7,NÃO,CHOCOLATE
+Corinthians,2 x 1,Internacional,7,NÃO,CHOCOLATE
+São Paulo,0 x 2,Fortaleza,7,NÃO,CHOCOLATE
+Bragantino,1 x 1,Mirassol,7,NÃO,CHOCOLATE
+Juventude,0 x 2,Atlético-MG,7,NÃO,CHOCOLATE
+Grêmio,0 x 2,Santos,7,NÃO,CHOCOLATE
+Bahia,1 x 0,Botafogo,7,NÃO,CHOCOLATE
+Ceará,1 x 0,Vitória,7,NÃO,CHOCOLATE
+Cruzeiro,2 x 2,Flamengo,7,SIM,CHOCOLATE
+Botafogo,1 x 0,Internacional,8,SIM,CHOCOLATE
+Sport,1 x 2,Cruzeiro,8,NÃO,CHOCOLATE
+Flamengo,3 x 1,Bahia,8,NÃO,CHOCOLATE
+Santos,2 x 0,Ceará,8,NÃO,CHOCOLATE
+Mirassol,0 x 1,Corinthians,8,NÃO,CHOCOLATE
+Atlético-MG,3 x 2,Fluminense,8,NÃO,CHOCOLATE
+Grêmio,2 x 0,Bragantino,8,NÃO,CHOCOLATE
+Vitória,1 x 1,Vasco,8,NÃO,CHOCOLATE
+Fortaleza,2 x 0,Juventude,8,NÃO,CHOCOLATE
+Palmeiras,1 x 0,São Paulo,8,SIM,CHOCOLATE
+Flamengo,3 x 0,Internacional,1,SIM,WR
+Vasco,1 x 2,Santos,1,NÃO,WR
+Juventude,0 x 1,Vitória,1,NÃO,WR
+São Paulo,2 x 0,Sport,1,NÃO,WR
+Bragantino,2 x 0,Ceará,1,NÃO,WR
+Cruzeiro,3 x 1,Mirassol,1,NÃO,WR
+Grêmio,0 x 2,Atlético-MG,1,NÃO,WR
+Bahia,2 x 1,Corinthians,1,NÃO,WR
+Fortaleza,2 x 0,Fluminense,1,NÃO,WR
+Palmeiras,2 x 0,Botafogo,1,SIM,WR
+Atlético-MG,2 x 1,São Paulo,2,SIM,WR
+Botafogo,2 x 0,Juventude,2,NÃO,WR
+Corinthians,2 x 1,Vasco,2,NÃO,WR
+Santos,1 x 0,Bahia,2,NÃO,WR
+Mirassol,2 x 0,Fortaleza,2,NÃO,WR
+Sport,0 x 2,Palmeiras,2,NÃO,WR
+Fluminense,2 x 1,Bragantino,2,NÃO,WR
+Vitória,0 x 2,Flamengo,2,NÃO,WR
+Ceará,1 x 2,Grêmio,2,NÃO,WR
+Internacional,1 x 1,Cruzeiro,2,SIM,WR
+Palmeiras,2 x 1,Corinthians,3,SIM,WR
+Vasco,1 x 0,Sport,3,NÃO,WR
+Fluminense,2 x 1,Santos,3,NÃO,WR
+São Paulo,1 x 0,Cruzeiro,3,NÃO,WR
+Bragantino,2 x 1,Botafogo,3,NÃO,WR
+Atlético-MG,3 x 0,Vitória,3,NÃO,WR
+Juventude,1 x 0,Ceará,3,NÃO,WR
+Bahia,2 x 0,Mirassol,3,NÃO,WR
+Fortaleza,1 x 1,Internacional,3,NÃO,WR
+Grêmio,1 x 2,Flamengo,3,SIM,WR
+Santos,2 x 0,Atlético-MG,4,SIM,WR
+Botafogo,1 x 0,São Paulo,4,NÃO,WR
+Corinthians,2 x 1,Fluminense,4,NÃO,WR
+Flamengo,2 x 0,Juventude,4,NÃO,WR
+Mirassol,0 x 1,Grêmio,4,NÃO,WR
+Cruzeiro,2 x 1,Bahia,4,NÃO,WR
+Sport,2 x 1,Bragantino,4,NÃO,WR
+Vitória,0 x 1,Fortaleza,4,NÃO,WR
+Ceará,2 x 1,Vasco,4,NÃO,WR
+Internacional,1 x 2,Palmeiras,4,SIM,WR
+Vasco,0 x 4,Flamengo,5,SIM,WR
+Fluminense,2 x 1,Vitória,5,NÃO,WR
+Corinthians,3 x 0,Sport,5,NÃO,WR
+São Paulo,1 x 1,Santos,5,NÃO,WR
+Bragantino,2 x 1,Cruzeiro,5,NÃO,WR
+Atlético-MG,2 x 0,Botafogo,5,NÃO,WR
+Juventude,2 x 1,Mirassol,5,NÃO,WR
+Bahia,2 x 0,Ceará,5,NÃO,WR
+Fortaleza,1 x 2,Palmeiras,5,NÃO,WR
+Grêmio,1 x 0,Internacional,5,SIM,WR
+Flamengo,3 x 1,Corinthians,6,SIM,WR
+Sport,1 x 2,Fortaleza,6,NÃO,WR
+Palmeiras,2 x 0,Bahia,6,NÃO,WR
+Santos,2 x 0,Bragantino,6,NÃO,WR
+Mirassol,0 x 1,Atlético-MG,6,NÃO,WR
+Cruzeiro,3 x 1,Vasco,6,NÃO,WR
+Internacional,2 x 1,Juventude,6,NÃO,WR
+Vitória,0 x 1,Grêmio,6,NÃO,WR
+Ceará,2 x 1,São Paulo,6,NÃO,WR
+Botafogo,2 x 1,Fluminense,6,SIM,WR
+Vasco,1 x 2,Palmeiras,7,SIM,WR
+Fluminense,2 x 1,Sport,7,NÃO,WR
+Corinthians,1 x 0,Internacional,7,NÃO,WR
+São Paulo,2 x 1,Fortaleza,7,NÃO,WR
+Bragantino,3 x 1,Mirassol,7,NÃO,WR
+Juventude,1 x 2,Atlético-MG,7,NÃO,WR
+Grêmio,1 x 2,Santos,7,NÃO,WR
+Bahia,2 x 0,Botafogo,7,NÃO,WR
+Ceará,0 x 2,Vitória,7,NÃO,WR
+Cruzeiro,1 x 3,Flamengo,7,SIM,WR
+Botafogo,2 x 1,Internacional,8,SIM,WR
+Sport,0 x 1,Cruzeiro,8,NÃO,WR
+Flamengo,2 x 0,Bahia,8,NÃO,WR
+Santos,3 x 0,Ceará,8,NÃO,WR
+Mirassol,1 x 0,Corinthians,8,NÃO,WR
+Atlético-MG,3 x 1,Fluminense,8,NÃO,WR
+Grêmio,2 x 0,Bragantino,8,NÃO,WR
+Vitória,2 x 0,Vasco,8,NÃO,WR
+Fortaleza,3 x 1,Juventude,8,NÃO,WR
+Palmeiras,2 x 1,São Paulo,8,SIM,WR
+Flamengo,2 x 1,Internacional,1,SIM,JOHNNY
+Vasco,1 x 0,Santos,1,NÃO,JOHNNY
+Juventude,1 x 0,Vitória,1,NÃO,JOHNNY
+São Paulo,2 x 0,Sport,1,NÃO,JOHNNY
+Bragantino,1 x 1,Ceará,1,NÃO,JOHNNY
+Cruzeiro,2 x 1,Mirassol,1,NÃO,JOHNNY
+Grêmio,1 x 1,Atlético-MG,1,NÃO,JOHNNY
+Bahia,1 x 0,Corinthians,1,NÃO,JOHNNY
+Fortaleza,2 x 1,Fluminense,1,NÃO,JOHNNY
+Palmeiras,2 x 0,Botafogo,1,SIM,JOHNNY
+Atlético-MG,2 x 1,São Paulo,2,SIM,JOHNNY
+Botafogo,2 x 0,Juventude,2,NÃO,JOHNNY
+Corinthians,2 x 0,Vasco,2,NÃO,JOHNNY
+Santos,1 x 0,Bahia,2,NÃO,JOHNNY
+Mirassol,1 x 1,Fortaleza,2,NÃO,JOHNNY
+Sport,1 x 2,Palmeiras,2,NÃO,JOHNNY
+Fluminense,2 x 0,Bragantino,2,NÃO,JOHNNY
+Vitória,1 x 3,Flamengo,2,NÃO,JOHNNY
+Ceará,1 x 0,Grêmio,2,NÃO,JOHNNY
+Internacional,2 x 1,Cruzeiro,2,SIM,JOHNNY
+Palmeiras,1 x 0,Corinthians,3,SIM,JOHNNY
+Vasco,2 x 0,Sport,3,NÃO,JOHNNY
+Fluminense,2 x 1,Santos,3,NÃO,JOHNNY
+São Paulo,1 x 0,Cruzeiro,3,NÃO,JOHNNY
+Bragantino,1 x 3,Botafogo,3,NÃO,JOHNNY
+Atlético-MG,2 x 0,Vitória,3,NÃO,JOHNNY
+Juventude,1 x 0,Ceará,3,NÃO,JOHNNY
+Bahia,2 x 0,Mirassol,3,NÃO,JOHNNY
+Fortaleza,1 x 1,Internacional,3,NÃO,JOHNNY
+Grêmio,1 x 2,Flamengo,3,SIM,JOHNNY
+Santos,2 x 1,Atlético-MG,4,SIM,JOHNNY
+Botafogo,1 x 0,São Paulo,4,NÃO,JOHNNY
+Corinthians,2 x 0,Fluminense,4,NÃO,JOHNNY
+Flamengo,3 x 0,Juventude,4,NÃO,JOHNNY
+Mirassol,1 x 0,Grêmio,4,NÃO,JOHNNY
+Cruzeiro,2 x 1,Bahia,4,NÃO,JOHNNY
+Sport,1 x 0,Bragantino,4,NÃO,JOHNNY
+Vitória,1 x 1,Fortaleza,4,NÃO,JOHNNY
+Ceará,1 x 1,Vasco,4,NÃO,JOHNNY
+Internacional,2 x 1,Palmeiras,4,SIM,JOHNNY
+Vasco,1 x 2,Flamengo,5,SIM,JOHNNY
+Fluminense,2 x 0,Vitória,5,NÃO,JOHNNY
+Corinthians,2 x 0,Sport,5,NÃO,JOHNNY
+São Paulo,2 x 1,Santos,5,NÃO,JOHNNY
+Bragantino,1 x 0,Cruzeiro,5,NÃO,JOHNNY
+Atlético-MG,1 x 1,Botafogo,5,NÃO,JOHNNY
+Juventude,1 x 0,Mirassol,5,NÃO,JOHNNY
+Bahia,3 x 1,Ceará,5,NÃO,JOHNNY
+Fortaleza,1 x 2,Palmeiras,5,NÃO,JOHNNY
+Grêmio,1 x 2,Internacional,5,SIM,JOHNNY
+Flamengo,2 x 1,Corinthians,6,SIM,JOHNNY
+Sport,1 x 0,Fortaleza,6,NÃO,JOHNNY
+Palmeiras,2 x 0,Bahia,6,NÃO,JOHNNY
+Santos,2 x 0,Bragantino,6,NÃO,JOHNNY
+Mirassol,0 x 2,Atlético-MG,6,NÃO,JOHNNY
+Cruzeiro,1 x 1,Vasco,6,NÃO,JOHNNY
+Internacional,2 x 0,Juventude,6,NÃO,JOHNNY
+Vitória,1 x 1,Grêmio,6,NÃO,JOHNNY
+Ceará,1 x 2,São Paulo,6,NÃO,JOHNNY
+Botafogo,1 x 0,Fluminense,6,SIM,JOHNNY
+Vasco,0 x 2,Palmeiras,7,SIM,JOHNNY
+Fluminense,2 x 0,Sport,7,NÃO,JOHNNY
+Corinthians,2 x 1,Internacional,7,NÃO,JOHNNY
+São Paulo,1 x 0,Fortaleza,7,NÃO,JOHNNY
+Bragantino,1 x 0,Mirassol,7,NÃO,JOHNNY
+Juventude,1 x 2,Atlético-MG,7,NÃO,JOHNNY
+Grêmio,2 x 1,Santos,7,NÃO,JOHNNY
+Bahia,3 x 2,Botafogo,7,NÃO,JOHNNY
+Ceará,1 x 0,Vitória,7,NÃO,JOHNNY
+Cruzeiro,1 x 2,Flamengo,7,SIM,JOHNNY
+Botafogo,2 x 1,Internacional,8,SIM,JOHNNY
+Sport,1 x 1,Cruzeiro,8,NÃO,JOHNNY
+Flamengo,3 x 1,Bahia,8,NÃO,JOHNNY
+Santos,2 x 0,Ceará,8,NÃO,JOHNNY
+Mirassol,1 x 2,Corinthians,8,NÃO,JOHNNY
+Atlético-MG,2 x 0,Fluminense,8,NÃO,JOHNNY
+Grêmio,2 x 0,Bragantino,8,NÃO,JOHNNY
+Vitória,1 x 2,Vasco,8,NÃO,JOHNNY
+Fortaleza,3 x 1,Juventude,8,NÃO,JOHNNY
+Palmeiras,1 x 0,São Paulo,8,SIM,JOHNNY
+Flamengo,1 x 0,Internacional,1,SIM,PATRICK
+Vasco,1 x 0,Santos,1,NÃO,PATRICK
+Juventude,2 x 1,Vitória,1,NÃO,PATRICK
+São Paulo,2 x 0,Sport,1,NÃO,PATRICK
+Bragantino,1 x 0,Ceará,1,NÃO,PATRICK
+Cruzeiro,2 x 0,Mirassol,1,NÃO,PATRICK
+Grêmio,2 x 1,Atlético-MG,1,NÃO,PATRICK
+Bahia,1 x 0,Corinthians,1,NÃO,PATRICK
+Fortaleza,2 x 1,Fluminense,1,NÃO,PATRICK
+Palmeiras,2 x 1,Botafogo,1,SIM,PATRICK
+Atlético-MG,1 x 0,São Paulo,2,SIM,PATRICK
+Botafogo,2 x 0,Juventude,2,NÃO,PATRICK
+Corinthians,2 x 0,Vasco,2,NÃO,PATRICK
+Santos,1 x 0,Bahia,2,NÃO,PATRICK
+Mirassol,1 x 0,Fortaleza,2,NÃO,PATRICK
+Sport,2 x 1,Palmeiras,2,NÃO,PATRICK
+Fluminense,1 x 2,Bragantino,2,NÃO,PATRICK
+Vitória,1 x 0,Flamengo,2,NÃO,PATRICK
+Ceará,2 x 1,Grêmio,2,NÃO,PATRICK
+Internacional,2 x 1,Cruzeiro,2,SIM,PATRICK
+Palmeiras,2 x 0,Corinthians,3,SIM,PATRICK
+Vasco,1 x 0,Sport,3,NÃO,PATRICK
+Fluminense,2 x 1,Santos,3,NÃO,PATRICK
+São Paulo,1 x 0,Cruzeiro,3,NÃO,PATRICK
+Bragantino,2 x 1,Botafogo,3,NÃO,PATRICK
+Atlético-MG,2 x 0,Vitória,3,NÃO,PATRICK
+Juventude,1 x 0,Ceará,3,NÃO,PATRICK
+Bahia,2 x 1,Mirassol,3,NÃO,PATRICK
+Fortaleza,1 x 2,Internacional,3,NÃO,PATRICK
+Grêmio,2 x 1,Flamengo,3,SIM,PATRICK
+Santos,2 x 0,Atlético-MG,4,SIM,PATRICK
+Botafogo,2 x 0,São Paulo,4,NÃO,PATRICK
+Corinthians,2 x 0,Fluminense,4,NÃO,PATRICK
+Flamengo,2 x 0,Juventude,4,NÃO,PATRICK
+Mirassol,1 x 0,Grêmio,4,NÃO,PATRICK
+Cruzeiro,2 x 1,Bahia,4,NÃO,PATRICK
+Sport,2 x 1,Bragantino,4,NÃO,PATRICK
+Vitória,1 x 0,Fortaleza,4,NÃO,PATRICK
+Ceará,2 x 1,Vasco,4,NÃO,PATRICK
+Internacional,2 x 1,Palmeiras,4,SIM,PATRICK
+Vasco,1 x 2,Flamengo,5,SIM,PATRICK
+Fluminense,2 x 0,Vitória,5,NÃO,PATRICK
+Corinthians,2 x 0,Sport,5,NÃO,PATRICK
+São Paulo,1 x 1,Santos,5,NÃO,PATRICK
+Bragantino,0 x 1,Cruzeiro,5,NÃO,PATRICK
+Atlético-MG,2 x 1,Botafogo,5,NÃO,PATRICK
+Juventude,2 x 1,Mirassol,5,NÃO,PATRICK
+Bahia,2 x 0,Ceará,5,NÃO,PATRICK
+Fortaleza,2 x 1,Palmeiras,5,NÃO,PATRICK
+Grêmio,2 x 1,Internacional,5,SIM,PATRICK
+Flamengo,1 x 0,Corinthians,6,SIM,PATRICK
+Sport,1 x 0,Fortaleza,6,NÃO,PATRICK
+Palmeiras,2 x 0,Bahia,6,NÃO,PATRICK
+Santos,2 x 0,Bragantino,6,NÃO,PATRICK
+Mirassol,1 x 0,Atlético-MG,6,NÃO,PATRICK
+Cruzeiro,2 x 1,Vasco,6,NÃO,PATRICK
+Internacional,2 x 0,Juventude,6,NÃO,PATRICK
+Vitória,1 x 0,Grêmio,6,NÃO,PATRICK
+Ceará,1 x 0,São Paulo,6,NÃO,PATRICK
+Botafogo,2 x 1,Fluminense,6,SIM,PATRICK
+Vasco,1 x 0,Palmeiras,7,SIM,PATRICK
+Fluminense,2 x 0,Sport,7,NÃO,PATRICK
+Corinthians,2 x 1,Internacional,7,NÃO,PATRICK
+São Paulo,1 x 0,Fortaleza,7,NÃO,PATRICK
+Bragantino,2 x 1,Mirassol,7,NÃO,PATRICK
+Juventude,1 x 0,Atlético-MG,7,NÃO,PATRICK
+Grêmio,2 x 1,Santos,7,NÃO,PATRICK
+Bahia,1 x 0,Botafogo,7,NÃO,PATRICK
+Ceará,1 x 0,Vitória,7,NÃO,PATRICK
+Cruzeiro,1 x 2,Flamengo,7,SIM,PATRICK
+Botafogo,2 x 0,Internacional,8,SIM,PATRICK
+Sport,1 x 0,Cruzeiro,8,NÃO,PATRICK
+Flamengo,2 x 0,Bahia,8,NÃO,PATRICK
+Santos,2 x 0,Ceará,8,NÃO,PATRICK
+Mirassol,0 x 2,Corinthians,8,NÃO,PATRICK
+Atlético-MG,2 x 1,Fluminense,8,NÃO,PATRICK
+Grêmio,1 x 0,Bragantino,8,NÃO,PATRICK
+Vitória,1 x 0,Vasco,8,NÃO,PATRICK
+Fortaleza,2 x 1,Juventude,8,NÃO,PATRICK
+Palmeiras,2 x 1,São Paulo,8,SIM,PATRICK
+Flamengo,2 x 1,Internacional,1,SIM,BRENINHO
+Vasco,0 x 1,Santos,1,NÃO,BRENINHO
+Juventude,1 x 1,Vitória,1,NÃO,BRENINHO
+São Paulo,2 x 1,Sport,1,NÃO,BRENINHO
+Bragantino,1 x 1,Ceará,1,NÃO,BRENINHO
+Cruzeiro,3 x 0,Mirassol,1,NÃO,BRENINHO
+Grêmio,2 x 2,Atlético-MG,1,NÃO,BRENINHO
+Bahia,0 x 1,Corinthians,1,NÃO,BRENINHO
+Fortaleza,1 x 1,Fluminense,1,NÃO,BRENINHO
+Palmeiras,0 x 1,Botafogo,1,SIM,BRENINHO
+Atlético-MG,1 x 2,São Paulo,2,SIM,BRENINHO
+Botafogo,2 x 0,Juventude,2,NÃO,BRENINHO
+Corinthians,3 x 1,Vasco,2,NÃO,BRENINHO
+Santos,1 x 1,Bahia,2,NÃO,BRENINHO
+Mirassol,0 x 1,Fortaleza,2,NÃO,BRENINHO
+Sport,0 x 2,Palmeiras,2,NÃO,BRENINHO
+Fluminense,2 x 1,Bragantino,2,NÃO,BRENINHO
+Vitória,1 x 3,Flamengo,2,NÃO,BRENINHO
+Ceará,2 x 1,Grêmio,2,NÃO,BRENINHO
+Internacional,1 x 1,Cruzeiro,2,SIM,BRENINHO
+Palmeiras,1 x 1,Corinthians,3,SIM,BRENINHO
+Vasco,2 x 0,Sport,3,NÃO,BRENINHO
+Fluminense,1 x 1,Santos,3,NÃO,BRENINHO
+São Paulo,2 x 1,Cruzeiro,3,NÃO,BRENINHO
+Bragantino,1 x 2,Botafogo,3,NÃO,BRENINHO
+Atlético-MG,1 x 0,Vitória,3,NÃO,BRENINHO
+Juventude,2 x 2,Ceará,3,NÃO,BRENINHO
+Bahia,2 x 0,Mirassol,3,NÃO,BRENINHO
+Fortaleza,1 x 1,Internacional,3,NÃO,BRENINHO
+Grêmio,2 x 3,Flamengo,3,SIM,BRENINHO
+Santos,2 x 1,Atlético-MG,4,SIM,BRENINHO
+Botafogo,2 x 0,São Paulo,4,NÃO,BRENINHO
+Corinthians,1 x 1,Fluminense,4,NÃO,BRENINHO
+Flamengo,1 x 0,Juventude,4,NÃO,BRENINHO
+Mirassol,1 x 2,Grêmio,4,NÃO,BRENINHO
+Cruzeiro,1 x 1,Bahia,4,NÃO,BRENINHO
+Sport,2 x 1,Bragantino,4,NÃO,BRENINHO
+Vitória,1 x 1,Fortaleza,4,NÃO,BRENINHO
+Ceará,0 x 1,Vasco,4,NÃO,BRENINHO
+Internacional,2 x 2,Palmeiras,4,SIM,BRENINHO
+Vasco,1 x 1,Flamengo,5,SIM,BRENINHO
+Fluminense,2 x 0,Vitória,5,NÃO,BRENINHO
+Corinthians,3 x 1,Sport,5,NÃO,BRENINHO
+São Paulo,1 x 1,Santos,5,NÃO,BRENINHO
+Bragantino,2 x 1,Cruzeiro,5,NÃO,BRENINHO
+Atlético-MG,0 x 1,Botafogo,5,NÃO,BRENINHO
+Juventude,2 x 1,Mirassol,5,NÃO,BRENINHO
+Bahia,0 x 0,Ceará,5,NÃO,BRENINHO
+Fortaleza,2 x 2,Palmeiras,5,NÃO,BRENINHO
+Grêmio,1 x 2,Internacional,5,SIM,BRENINHO
+Flamengo,1 x 0,Corinthians,6,SIM,BRENINHO
+Sport,1 x 1,Fortaleza,6,NÃO,BRENINHO
+Palmeiras,2 x 0,Bahia,6,NÃO,BRENINHO
+Santos,2 x 1,Bragantino,6,NÃO,BRENINHO
+Mirassol,0 x 1,Atlético-MG,6,NÃO,BRENINHO
+Cruzeiro,1 x 1,Vasco,6,NÃO,BRENINHO
+Internacional,2 x 1,Juventude,6,NÃO,BRENINHO
+Vitória,2 x 2,Grêmio,6,NÃO,BRENINHO
+Ceará,1 x 1,São Paulo,6,NÃO,BRENINHO
+Botafogo,2 x 0,Fluminense,6,SIM,BRENINHO
+Vasco,0 x 2,Palmeiras,7,SIM,BRENINHO
+Fluminense,2 x 1,Sport,7,NÃO,BRENINHO
+Corinthians,3 x 2,Internacional,7,NÃO,BRENINHO
+São Paulo,2 x 1,Fortaleza,7,NÃO,BRENINHO
+Bragantino,1 x 1,Mirassol,7,NÃO,BRENINHO
+Juventude,0 x 1,Atlético-MG,7,NÃO,BRENINHO
+Grêmio,1 x 1,Santos,7,NÃO,BRENINHO
+Bahia,1 x 2,Botafogo,7,NÃO,BRENINHO
+Ceará,2 x 0,Vitória,7,NÃO,BRENINHO
+Cruzeiro,1 x 1,Flamengo,7,SIM,BRENINHO
+Botafogo,3 x 1,Internacional,8,SIM,BRENINHO
+Sport,0 x 1,Cruzeiro,8,NÃO,BRENINHO
+Flamengo,1 x 0,Bahia,8,NÃO,BRENINHO
+Santos,2 x 0,Ceará,8,NÃO,BRENINHO
+Mirassol,0 x 1,Corinthians,8,NÃO,BRENINHO
+Atlético-MG,3 x 2,Fluminense,8,NÃO,BRENINHO
+Grêmio,2 x 1,Bragantino,8,NÃO,BRENINHO
+Vitória,1 x 1,Vasco,8,NÃO,BRENINHO
+Fortaleza,1 x 0,Juventude,8,NÃO,BRENINHO
+Palmeiras,1 x 1,São Paulo,8,SIM,BRENINHO
+Flamengo,2 x 1,Internacional,1,SIM,NARIZ
+Vasco,2 x 1,Santos,1,NÃO,NARIZ
+Juventude,1 x 0,Vitória,1,NÃO,NARIZ
+São Paulo,2 x 0,Sport,1,NÃO,NARIZ
+Bragantino,1 x 0,Ceará,1,NÃO,NARIZ
+Cruzeiro,2 x 0,Mirassol,1,NÃO,NARIZ
+Grêmio,1 x 1,Atlético-MG,1,NÃO,NARIZ
+Bahia,2 x 1,Corinthians,1,NÃO,NARIZ
+Fortaleza,1 x 0,Fluminense,1,NÃO,NARIZ
+Palmeiras,2 x 1,Botafogo,1,SIM,NARIZ
+Atlético-MG,2 x 1,São Paulo,2,SIM,NARIZ
+Botafogo,2 x 0,Juventude,2,NÃO,NARIZ
+Corinthians,2 x 1,Vasco,2,NÃO,NARIZ
+Santos,1 x 0,Bahia,2,NÃO,NARIZ
+Mirassol,0 x 1,Fortaleza,2,NÃO,NARIZ
+Sport,1 x 2,Palmeiras,2,NÃO,NARIZ
+Fluminense,1 x 0,Bragantino,2,NÃO,NARIZ
+Vitória,1 x 2,Flamengo,2,NÃO,NARIZ
+Ceará,1 x 0,Grêmio,2,NÃO,NARIZ
+Internacional,2 x 1,Cruzeiro,2,SIM,NARIZ
+Palmeiras,2 x 1,Corinthians,3,SIM,NARIZ
+Vasco,1 x 0,Sport,3,NÃO,NARIZ
+Fluminense,2 x 1,Santos,3,NÃO,NARIZ
+São Paulo,1 x 0,Cruzeiro,3,NÃO,NARIZ
+Bragantino,1 x 0,Botafogo,3,NÃO,NARIZ
+Atlético-MG,2 x 0,Vitória,3,NÃO,NARIZ
+Juventude,1 x 0,Ceará,3,NÃO,NARIZ
+Bahia,1 x 0,Mirassol,3,NÃO,NARIZ
+Fortaleza,1 x 2,Internacional,3,NÃO,NARIZ
+Grêmio,1 x 2,Flamengo,3,SIM,NARIZ
+Santos,2 x 1,Atlético-MG,4,SIM,NARIZ
+Botafogo,1 x 0,São Paulo,4,NÃO,NARIZ
+Corinthians,2 x 1,Fluminense,4,NÃO,NARIZ
+Flamengo,2 x 0,Juventude,4,NÃO,NARIZ
+Mirassol,1 x 1,Grêmio,4,NÃO,NARIZ
+Cruzeiro,1 x 0,Bahia,4,NÃO,NARIZ
+Sport,1 x 0,Bragantino,4,NÃO,NARIZ
+Vitória,1 x 1,Fortaleza,4,NÃO,NARIZ
+Ceará,1 x 0,Vasco,4,NÃO,NARIZ
+Internacional,2 x 1,Palmeiras,4,SIM,NARIZ
+Vasco,0 x 2,Flamengo,5,SIM,NARIZ
+Fluminense,2 x 0,Vitória,5,NÃO,NARIZ
+Corinthians,2 x 0,Sport,5,NÃO,NARIZ
+São Paulo,1 x 0,Santos,5,NÃO,NARIZ
+Bragantino,1 x 1,Cruzeiro,5,NÃO,NARIZ
+Atlético-MG,2 x 1,Botafogo,5,NÃO,NARIZ
+Juventude,2 x 1,Mirassol,5,NÃO,NARIZ
+Bahia,1 x 0,Ceará,5,NÃO,NARIZ
+Fortaleza,0 x 1,Palmeiras,5,NÃO,NARIZ
+Grêmio,1 x 1,Internacional,5,SIM,NARIZ
+Flamengo,2 x 0,Corinthians,6,SIM,NARIZ
+Sport,0 x 1,Fortaleza,6,NÃO,NARIZ
+Palmeiras,2 x 0,Bahia,6,NÃO,NARIZ
+Santos,2 x 1,Bragantino,6,NÃO,NARIZ
+Mirassol,0 x 1,Atlético-MG,6,NÃO,NARIZ
+Cruzeiro,2 x 0,Vasco,6,NÃO,NARIZ
+Internacional,2 x 0,Juventude,6,NÃO,NARIZ
+Vitória,1 x 1,Grêmio,6,NÃO,NARIZ
+Ceará,1 x 1,São Paulo,6,NÃO,NARIZ
+Botafogo,2 x 1,Fluminense,6,SIM,NARIZ
+Vasco,1 x 2,Palmeiras,7,SIM,NARIZ
+Fluminense,2 x 0,Sport,7,NÃO,NARIZ
+Corinthians,2 x 1,Internacional,7,NÃO,NARIZ
+São Paulo,2 x 1,Fortaleza,7,NÃO,NARIZ
+Bragantino,1 x 0,Mirassol,7,NÃO,NARIZ
+Juventude,1 x 2,Atlético-MG,7,NÃO,NARIZ
+Grêmio,1 x 0,Santos,7,NÃO,NARIZ
+Bahia,1 x 0,Botafogo,7,NÃO,NARIZ
+Ceará,1 x 0,Vitória,7,NÃO,NARIZ
+Cruzeiro,1 x 2,Flamengo,7,SIM,NARIZ
+Botafogo,2 x 1,Internacional,8,SIM,NARIZ
+Sport,0 x 1,Cruzeiro,8,NÃO,NARIZ
+Flamengo,2 x 0,Bahia,8,NÃO,NARIZ
+Santos,2 x 0,Ceará,8,NÃO,NARIZ
+Mirassol,0 x 1,Corinthians,8,NÃO,NARIZ
+Atlético-MG,2 x 1,Fluminense,8,NÃO,NARIZ
+Grêmio,1 x 0,Bragantino,8,NÃO,NARIZ
+Vitória,1 x 0,Vasco,8,NÃO,NARIZ
+Fortaleza,2 x 1,Juventude,8,NÃO,NARIZ
+Palmeiras,1 x 0,São Paulo,8,SIM,NARIZ
+Flamengo,2 x 0,Internacional,1,SIM,KAIQUE
+Vasco,1 x 0,Santos,1,NÃO,KAIQUE
+Juventude,1 x 3,Vitória,1,NÃO,KAIQUE
+São Paulo,3 x 0,Sport,1,NÃO,KAIQUE
+Bragantino,2 x 0,Ceará,1,NÃO,KAIQUE
+Cruzeiro,3 x 0,Mirassol,1,NÃO,KAIQUE
+Grêmio,1 x 2,Atlético-MG,1,NÃO,KAIQUE
+Bahia,0 x 1,Corinthians,1,NÃO,KAIQUE
+Fortaleza,2 x 1,Fluminense,1,NÃO,KAIQUE
+Palmeiras,2 x 0,Botafogo,1,SIM,KAIQUE
+Atlético-MG,2 x 1,São Paulo,2,SIM,KAIQUE
+Botafogo,2 x 0,Juventude,2,NÃO,KAIQUE
+Corinthians,2 x 1,Vasco,2,NÃO,KAIQUE
+Santos,1 x 0,Bahia,2,NÃO,KAIQUE
+Mirassol,0 x 2,Fortaleza,2,NÃO,KAIQUE
+Sport,1 x 3,Palmeiras,2,NÃO,KAIQUE
+Fluminense,2 x 1,Bragantino,2,NÃO,KAIQUE
+Vitória,0 x 2,Flamengo,2,NÃO,KAIQUE
+Ceará,1 x 2,Grêmio,2,NÃO,KAIQUE
+Internacional,2 x 0,Cruzeiro,2,SIM,KAIQUE
+Palmeiras,0 x 0,Corinthians,3,SIM,KAIQUE
+Vasco,2 x 0,Sport,3,NÃO,KAIQUE
+Fluminense,2 x 1,Santos,3,NÃO,KAIQUE
+São Paulo,1 x 0,Cruzeiro,3,NÃO,KAIQUE
+Bragantino,1 x 2,Botafogo,3,NÃO,KAIQUE
+Atlético-MG,3 x 0,Vitória,3,NÃO,KAIQUE
+Juventude,2 x 0,Ceará,3,NÃO,KAIQUE
+Bahia,3 x 0,Mirassol,3,NÃO,KAIQUE
+Fortaleza,1 x 2,Internacional,3,NÃO,KAIQUE
+Grêmio,1 x 3,Flamengo,3,SIM,KAIQUE
+Santos,1 x 2,Atlético-MG,4,SIM,KAIQUE
+Botafogo,1 x 0,São Paulo,4,NÃO,KAIQUE
+Corinthians,2 x 1,Fluminense,4,NÃO,KAIQUE
+Flamengo,3 x 0,Juventude,4,NÃO,KAIQUE
+Mirassol,0 x 2,Grêmio,4,NÃO,KAIQUE
+Cruzeiro,2 x 1,Bahia,4,NÃO,KAIQUE
+Sport,1 x 3,Bragantino,4,NÃO,KAIQUE
+Vitória,0 x 1,Fortaleza,4,NÃO,KAIQUE
+Ceará,1 x 0,Vasco,4,NÃO,KAIQUE
+Internacional,2 x 1,Palmeiras,4,SIM,KAIQUE
+Vasco,1 x 3,Flamengo,5,SIM,KAIQUE
+Fluminense,2 x 0,Vitória,5,NÃO,KAIQUE
+Corinthians,3 x 1,Sport,5,NÃO,KAIQUE
+São Paulo,1 x 0,Santos,5,NÃO,KAIQUE
+Bragantino,1 x 2,Cruzeiro,5,NÃO,KAIQUE
+Atlético-MG,1 x 0,Botafogo,5,NÃO,KAIQUE
+Juventude,2 x 0,Mirassol,5,NÃO,KAIQUE
+Bahia,2 x 1,Ceará,5,NÃO,KAIQUE
+Fortaleza,0 x 2,Palmeiras,5,NÃO,KAIQUE
+Grêmio,1 x 0,Internacional,5,SIM,KAIQUE
+Flamengo,2 x 0,Corinthians,6,SIM,KAIQUE
+Sport,1 x 2,Fortaleza,6,NÃO,KAIQUE
+Palmeiras,3 x 1,Bahia,6,NÃO,KAIQUE
+Santos,1 x 0,Bragantino,6,NÃO,KAIQUE
+Mirassol,1 x 3,Atlético-MG,6,NÃO,KAIQUE
+Cruzeiro,2 x 0,Vasco,6,NÃO,KAIQUE
+Internacional,3 x 1,Juventude,6,NÃO,KAIQUE
+Vitória,1 x 0,Grêmio,6,NÃO,KAIQUE
+Ceará,1 x 2,São Paulo,6,NÃO,KAIQUE
+Botafogo,1 x 0,Fluminense,6,SIM,KAIQUE
+Vasco,1 x 2,Palmeiras,7,SIM,KAIQUE
+Fluminense,3 x 1,Sport,7,NÃO,KAIQUE
+Corinthians,2 x 1,Internacional,7,NÃO,KAIQUE
+São Paulo,1 x 0,Fortaleza,7,NÃO,KAIQUE
+Bragantino,2 x 0,Mirassol,7,NÃO,KAIQUE
+Juventude,1 x 2,Atlético-MG,7,NÃO,KAIQUE
+Grêmio,1 x 0,Santos,7,NÃO,KAIQUE
+Bahia,2 x 1,Botafogo,7,NÃO,KAIQUE
+Ceará,1 x 0,Vitória,7,NÃO,KAIQUE
+Cruzeiro,1 x 3,Flamengo,7,SIM,KAIQUE
+Botafogo,1 x 0,Internacional,8,SIM,KAIQUE
+Sport,2 x 1,Cruzeiro,8,NÃO,KAIQUE
+Flamengo,2 x 0,Bahia,8,NÃO,KAIQUE
+Santos,1 x 0,Ceará,8,NÃO,KAIQUE
+Mirassol,1 x 3,Corinthians,8,NÃO,KAIQUE
+Atlético-MG,2 x 0,Fluminense,8,NÃO,KAIQUE
+Grêmio,3 x 1,Bragantino,8,NÃO,KAIQUE
+Vitória,1 x 0,Vasco,8,NÃO,KAIQUE
+Fortaleza,2 x 1,Juventude,8,NÃO,KAIQUE
+Palmeiras,1 x 0,São Paulo,8,SIM,KAIQUE
+Flamengo,1 x 1,Internacional,1,SIM,ARY
+Vasco,1 x 1,Santos,1,NÃO,ARY
+Juventude,1 x 0,Vitória,1,NÃO,ARY
+São Paulo,2 x 1,Sport,1,NÃO,ARY
+Bragantino,2 x 1,Ceará,1,NÃO,ARY
+Cruzeiro,3 x 1,Mirassol,1,NÃO,ARY
+Grêmio,0 x 0,Atlético-MG,1,NÃO,ARY
+Bahia,1 x 0,Corinthians,1,NÃO,ARY
+Fortaleza,1 x 2,Fluminense,1,NÃO,ARY
+Palmeiras,2 x 1,Botafogo,1,SIM,ARY
+Atlético-MG,2 x 1,São Paulo,2,SIM,ARY
+Botafogo,2 x 0,Juventude,2,NÃO,ARY
+Corinthians,3 x 1,Vasco,2,NÃO,ARY
+Santos,1 x 1,Bahia,2,NÃO,ARY
+Mirassol,1 x 0,Fortaleza,2,NÃO,ARY
+Sport,1 x 1,Palmeiras,2,NÃO,ARY
+Fluminense,2 x 1,Bragantino,2,NÃO,ARY
+Vitória,1 x 1,Flamengo,2,NÃO,ARY
+Ceará,2 x 1,Grêmio,2,NÃO,ARY
+Internacional,2 x 1,Cruzeiro,2,SIM,ARY
+Palmeiras,1 x 1,Corinthians,3,SIM,ARY
+Vasco,2 x 1,Sport,3,NÃO,ARY
+Fluminense,2 x 1,Santos,3,NÃO,ARY
+São Paulo,1 x 1,Cruzeiro,3,NÃO,ARY
+Bragantino,1 x 1,Botafogo,3,NÃO,ARY
+Atlético-MG,3 x 1,Vitória,3,NÃO,ARY
+Juventude,2 x 1,Ceará,3,NÃO,ARY
+Bahia,3 x 0,Mirassol,3,NÃO,ARY
+Fortaleza,0 x 1,Internacional,3,NÃO,ARY
+Grêmio,1 x 1,Flamengo,3,SIM,ARY
+Santos,1 x 2,Atlético-MG,4,SIM,ARY
+Botafogo,1 x 1,São Paulo,4,NÃO,ARY
+Corinthians,1 x 1,Fluminense,4,NÃO,ARY
+Flamengo,3 x 1,Juventude,4,NÃO,ARY
+Mirassol,1 x 2,Grêmio,4,NÃO,ARY
+Cruzeiro,2 x 1,Bahia,4,NÃO,ARY
+Sport,2 x 0,Bragantino,4,NÃO,ARY
+Vitória,0 x 1,Fortaleza,4,NÃO,ARY
+Ceará,2 x 1,Vasco,4,NÃO,ARY
+Internacional,1 x 1,Palmeiras,4,SIM,ARY
+Vasco,2 x 1,Flamengo,5,SIM,ARY
+Fluminense,3 x 1,Vitória,5,NÃO,ARY
+Corinthians,3 x 0,Sport,5,NÃO,ARY
+São Paulo,1 x 1,Santos,5,NÃO,ARY
+Bragantino,1 x 2,Cruzeiro,5,NÃO,ARY
+Atlético-MG,2 x 1,Botafogo,5,NÃO,ARY
+Juventude,3 x 0,Mirassol,5,NÃO,ARY
+Bahia,3 x 0,Ceará,5,NÃO,ARY
+Fortaleza,1 x 1,Palmeiras,5,NÃO,ARY
+Grêmio,0 x 0,Internacional,5,SIM,ARY
+Flamengo,1 x 1,Corinthians,6,SIM,ARY
+Sport,1 x 0,Fortaleza,6,NÃO,ARY
+Palmeiras,1 x 1,Bahia,6,NÃO,ARY
+Santos,2 x 1,Bragantino,6,NÃO,ARY
+Mirassol,1 x 2,Atlético-MG,6,NÃO,ARY
+Cruzeiro,2 x 1,Vasco,6,NÃO,ARY
+Internacional,2 x 0,Juventude,6,NÃO,ARY
+Vitória,0 x 0,Grêmio,6,NÃO,ARY
+Ceará,1 x 1,São Paulo,6,NÃO,ARY
+Botafogo,1 x 2,Fluminense,6,SIM,ARY
+Vasco,1 x 2,Palmeiras,7,SIM,ARY
+Fluminense,3 x 1,Sport,7,NÃO,ARY
+Corinthians,1 x 1,Internacional,7,NÃO,ARY
+São Paulo,2 x 0,Fortaleza,7,NÃO,ARY
+Bragantino,2 x 1,Mirassol,7,NÃO,ARY
+Juventude,0 x 0,Atlético-MG,7,NÃO,ARY
+Grêmio,1 x 1,Santos,7,NÃO,ARY
+Bahia,2 x 1,Botafogo,7,NÃO,ARY
+Ceará,2 x 1,Vitória,7,NÃO,ARY
+Cruzeiro,2 x 1,Flamengo,7,SIM,ARY
+Botafogo,1 x 1,Internacional,8,SIM,ARY
+Sport,2 x 1,Cruzeiro,8,NÃO,ARY
+Flamengo,2 x 2,Bahia,8,NÃO,ARY
+Santos,2 x 0,Ceará,8,NÃO,ARY
+Mirassol,1 x 1,Corinthians,8,NÃO,ARY
+Atlético-MG,1 x 1,Fluminense,8,NÃO,ARY
+Grêmio,2 x 0,Bragantino,8,NÃO,ARY
+Vitória,1 x 0,Vasco,8,NÃO,ARY
+Fortaleza,3 x 0,Juventude,8,NÃO,ARY
+Palmeiras,2 x 2,São Paulo,8,SIM,ARY
+Flamengo,2 x 1,Internacional,1,SIM,KAIO
+Vasco,1 x 0,Santos,1,NÃO,KAIO
+Juventude,1 x 0,Vitória,1,NÃO,KAIO
+São Paulo,2 x 0,Sport,1,NÃO,KAIO
+Bragantino,1 x 0,Ceará,1,NÃO,KAIO
+Cruzeiro,2 x 0,Mirassol,1,NÃO,KAIO
+Grêmio,2 x 1,Atlético-MG,1,NÃO,KAIO
+Bahia,2 x 1,Corinthians,1,NÃO,KAIO
+Fortaleza,1 x 0,Fluminense,1,NÃO,KAIO
+Palmeiras,2 x 1,Botafogo,1,SIM,KAIO
+Atlético-MG,2 x 1,São Paulo,2,SIM,KAIO
+Botafogo,2 x 0,Juventude,2,NÃO,KAIO
+Corinthians,1 x 0,Vasco,2,NÃO,KAIO
+Santos,2 x 1,Bahia,2,NÃO,KAIO
+Mirassol,0 x 1,Fortaleza,2,NÃO,KAIO
+Sport,1 x 2,Palmeiras,2,NÃO,KAIO
+Fluminense,1 x 0,Bragantino,2,NÃO,KAIO
+Vitória,0 x 2,Flamengo,2,NÃO,KAIO
+Ceará,0 x 1,Grêmio,2,NÃO,KAIO
+Internacional,2 x 1,Cruzeiro,2,SIM,KAIO
+Palmeiras,2 x 1,Corinthians,3,SIM,KAIO
+Vasco,2 x 0,Sport,3,NÃO,KAIO
+Fluminense,2 x 1,Santos,3,NÃO,KAIO
+São Paulo,2 x 1,Cruzeiro,3,NÃO,KAIO
+Bragantino,0 x 1,Botafogo,3,NÃO,KAIO
+Atlético-MG,2 x 0,Vitória,3,NÃO,KAIO
+Juventude,1 x 0,Ceará,3,NÃO,KAIO
+Bahia,1 x 0,Mirassol,3,NÃO,KAIO
+Fortaleza,0 x 1,Internacional,3,NÃO,KAIO
+Grêmio,1 x 2,Flamengo,3,SIM,KAIO
+Santos,2 x 1,Atlético-MG,4,SIM,KAIO
+Botafogo,2 x 1,São Paulo,4,NÃO,KAIO
+Corinthians,2 x 0,Fluminense,4,NÃO,KAIO
+Flamengo,2 x 0,Juventude,4,NÃO,KAIO
+Mirassol,0 x 1,Grêmio,4,NÃO,KAIO
+Cruzeiro,2 x 1,Bahia,4,NÃO,KAIO
+Sport,1 x 0,Bragantino,4,NÃO,KAIO
+Vitória,0 x 1,Fortaleza,4,NÃO,KAIO
+Ceará,1 x 0,Vasco,4,NÃO,KAIO
+Internacional,2 x 1,Palmeiras,4,SIM,KAIO
+Vasco,1 x 2,Flamengo,5,SIM,KAIO
+Fluminense,1 x 0,Vitória,5,NÃO,KAIO
+Corinthians,2 x 0,Sport,5,NÃO,KAIO
+São Paulo,2 x 1,Santos,5,NÃO,KAIO
+Bragantino,1 x 0,Cruzeiro,5,NÃO,KAIO
+Atlético-MG,2 x 1,Botafogo,5,NÃO,KAIO
+Juventude,1 x 0,Mirassol,5,NÃO,KAIO
+Bahia,2 x 1,Ceará,5,NÃO,KAIO
+Fortaleza,0 x 1,Palmeiras,5,NÃO,KAIO
+Grêmio,1 x 2,Internacional,5,SIM,KAIO
+Flamengo,2 x 1,Corinthians,6,SIM,KAIO
+Sport,0 x 1,Fortaleza,6,NÃO,KAIO
+Palmeiras,2 x 1,Bahia,6,NÃO,KAIO
+Santos,2 x 1,Bragantino,6,NÃO,KAIO
+Mirassol,0 x 1,Atlético-MG,6,NÃO,KAIO
+Cruzeiro,2 x 1,Vasco,6,NÃO,KAIO
+Internacional,2 x 0,Juventude,6,NÃO,KAIO
+Vitória,0 x 1,Grêmio,6,NÃO,KAIO
+Ceará,0 x 1,São Paulo,6,NÃO,KAIO
+Botafogo,2 x 1,Fluminense,6,SIM,KAIO
+Vasco,1 x 2,Palmeiras,7,SIM,KAIO
+Fluminense,2 x 0,Sport,7,NÃO,KAIO
+Corinthians,2 x 1,Internacional,7,NÃO,KAIO
+São Paulo,2 x 1,Fortaleza,7,NÃO,KAIO
+Bragantino,1 x 0,Mirassol,7,NÃO,KAIO
+Juventude,0 x 1,Atlético-MG,7,NÃO,KAIO
+Grêmio,2 x 1,Santos,7,NÃO,KAIO
+Bahia,1 x 0,Botafogo,7,NÃO,KAIO
+Ceará,1 x 0,Vitória,7,NÃO,KAIO
+Cruzeiro,1 x 2,Flamengo,7,SIM,KAIO
+Botafogo,2 x 1,Internacional,8,SIM,KAIO
+Sport,1 x 2,Cruzeiro,8,NÃO,KAIO
+Flamengo,2 x 0,Bahia,8,NÃO,KAIO
+Santos,2 x 0,Ceará,8,NÃO,KAIO
+Mirassol,0 x 1,Corinthians,8,NÃO,KAIO
+Atlético-MG,2 x 1,Fluminense,8,NÃO,KAIO
+Grêmio,1 x 0,Bragantino,8,NÃO,KAIO
+Vitória,1 x 0,Vasco,8,NÃO,KAIO
+Fortaleza,2 x 0,Juventude,8,NÃO,KAIO
+Palmeiras,2 x 1,São Paulo,8,SIM,KAIO
+Flamengo,2 x 1,Internacional,1,SIM,VITOR
+Vasco,1 x 1,Santos,1,NÃO,VITOR
+Juventude,1 x 1,Vitória,1,NÃO,VITOR
+São Paulo,1 x 0,Sport,1,NÃO,VITOR
+Bragantino,1 x 1,Ceará,1,NÃO,VITOR
+Cruzeiro,2 x 0,Mirassol,1,NÃO,VITOR
+Grêmio,0 x 1,Atlético-MG,1,NÃO,VITOR
+Bahia,1 x 1,Corinthians,1,NÃO,VITOR
+Fortaleza,2 x 1,Fluminense,1,NÃO,VITOR
+Palmeiras,2 x 1,Botafogo,1,SIM,VITOR
+Atlético-MG,2 x 0,São Paulo,2,SIM,VITOR
+Botafogo,2 x 0,Juventude,2,NÃO,VITOR
+Corinthians,3 x 0,Vasco,2,NÃO,VITOR
+Santos,1 x 1,Bahia,2,NÃO,VITOR
+Mirassol,0 x 1,Fortaleza,2,NÃO,VITOR
+Sport,1 x 1,Palmeiras,2,NÃO,VITOR
+Fluminense,2 x 1,Bragantino,2,NÃO,VITOR
+Vitória,0 x 3,Flamengo,2,NÃO,VITOR
+Ceará,1 x 0,Grêmio,2,NÃO,VITOR
+Internacional,1 x 1,Cruzeiro,2,SIM,VITOR
+Palmeiras,0 x 0,Corinthians,3,SIM,VITOR
+Vasco,1 x 0,Sport,3,NÃO,VITOR
+Fluminense,2 x 1,Santos,3,NÃO,VITOR
+São Paulo,1 x 1,Cruzeiro,3,NÃO,VITOR
+Bragantino,1 x 0,Botafogo,3,NÃO,VITOR
+Atlético-MG,3 x 0,Vitória,3,NÃO,VITOR
+Juventude,2 x 1,Ceará,3,NÃO,VITOR
+Bahia,3 x 0,Mirassol,3,NÃO,VITOR
+Fortaleza,2 x 0,Internacional,3,NÃO,VITOR
+Grêmio,1 x 2,Flamengo,3,SIM,VITOR
+Santos,2 x 2,Atlético-MG,4,SIM,VITOR
+Botafogo,2 x 1,São Paulo,4,NÃO,VITOR
+Corinthians,2 x 1,Fluminense,4,NÃO,VITOR
+Flamengo,4 x 0,Juventude,4,NÃO,VITOR
+Mirassol,1 x 1,Grêmio,4,NÃO,VITOR
+Cruzeiro,1 x 1,Bahia,4,NÃO,VITOR
+Sport,1 x 0,Bragantino,4,NÃO,VITOR
+Vitória,2 x 0,Fortaleza,4,NÃO,VITOR
+Ceará,2 x 0,Vasco,4,NÃO,VITOR
+Internacional,3 x 1,Palmeiras,4,SIM,VITOR
+Vasco,0 x 2,Flamengo,5,SIM,VITOR
+Fluminense,2 x 1,Vitória,5,NÃO,VITOR
+Corinthians,2 x 0,Sport,5,NÃO,VITOR
+São Paulo,2 x 1,Santos,5,NÃO,VITOR
+Bragantino,1 x 2,Cruzeiro,5,NÃO,VITOR
+Atlético-MG,2 x 0,Botafogo,5,NÃO,VITOR
+Juventude,2 x 0,Mirassol,5,NÃO,VITOR
+Bahia,2 x 0,Ceará,5,NÃO,VITOR
+Fortaleza,1 x 0,Palmeiras,5,NÃO,VITOR
+Grêmio,1 x 1,Internacional,5,SIM,VITOR
+Flamengo,1 x 0,Corinthians,6,SIM,VITOR
+Sport,1 x 2,Fortaleza,6,NÃO,VITOR
+Palmeiras,2 x 1,Bahia,6,NÃO,VITOR
+Santos,2 x 0,Bragantino,6,NÃO,VITOR
+Mirassol,0 x 2,Atlético-MG,6,NÃO,VITOR
+Cruzeiro,1 x 0,Vasco,6,NÃO,VITOR
+Internacional,2 x 0,Juventude,6,NÃO,VITOR
+Vitória,1 x 0,Grêmio,6,NÃO,VITOR
+Ceará,1 x 1,São Paulo,6,NÃO,VITOR
+Botafogo,1 x 1,Fluminense,6,SIM,VITOR
+Vasco,1 x 2,Palmeiras,7,SIM,VITOR
+Fluminense,2 x 0,Sport,7,NÃO,VITOR
+Corinthians,1 x 1,Internacional,7,NÃO,VITOR
+São Paulo,2 x 0,Fortaleza,7,NÃO,VITOR
+Bragantino,2 x 0,Mirassol,7,NÃO,VITOR
+Juventude,1 x 1,Atlético-MG,7,NÃO,VITOR
+Grêmio,2 x 2,Santos,7,NÃO,VITOR
+Bahia,1 x 0,Botafogo,7,NÃO,VITOR
+Ceará,1 x 2,Vitória,7,NÃO,VITOR
+Cruzeiro,1 x 3,Flamengo,7,SIM,VITOR
+Botafogo,2 x 1,Internacional,8,SIM,VITOR
+Sport,1 x 1,Cruzeiro,8,NÃO,VITOR
+Flamengo,3 x 0,Bahia,8,NÃO,VITOR
+Santos,1 x 0,Ceará,8,NÃO,VITOR
+Mirassol,1 x 2,Corinthians,8,NÃO,VITOR
+Atlético-MG,2 x 0,Fluminense,8,NÃO,VITOR
+Grêmio,1 x 0,Bragantino,8,NÃO,VITOR
+Vitória,2 x 0,Vasco,8,NÃO,VITOR
+Fortaleza,2 x 0,Juventude,8,NÃO,VITOR
+Palmeiras,1 x 1,São Paulo,8,SIM,VITOR
+Flamengo,2 x 0,Internacional,1,SIM,BRIAN
+Vasco,1 x 0,Santos,1,NÃO,BRIAN
+Juventude,2 x 0,Vitória,1,NÃO,BRIAN
+São Paulo,2 x 1,Sport,1,NÃO,BRIAN
+Bragantino,2 x 1,Ceará,1,NÃO,BRIAN
+Cruzeiro,3 x 1,Mirassol,1,NÃO,BRIAN
+Grêmio,1 x 2,Atlético-MG,1,NÃO,BRIAN
+Bahia,1 x 1,Corinthians,1,NÃO,BRIAN
+Fortaleza,0 x 1,Fluminense,1,NÃO,BRIAN
+Palmeiras,2 x 0,Botafogo,1,SIM,BRIAN
+Atlético-MG,2 x 1,São Paulo,2,SIM,BRIAN
+Botafogo,2 x 1,Juventude,2,NÃO,BRIAN
+Corinthians,3 x 1,Vasco,2,NÃO,BRIAN
+Santos,1 x 0,Bahia,2,NÃO,BRIAN
+Mirassol,2 x 0,Fortaleza,2,NÃO,BRIAN
+Sport,0 x 3,Palmeiras,2,NÃO,BRIAN
+Fluminense,1 x 0,Bragantino,2,NÃO,BRIAN
+Vitória,1 x 2,Flamengo,2,NÃO,BRIAN
+Ceará,1 x 0,Grêmio,2,NÃO,BRIAN
+Internacional,1 x 1,Cruzeiro,2,SIM,BRIAN
+Palmeiras,2 x 0,Corinthians,3,SIM,BRIAN
+Vasco,2 x 1,Sport,3,NÃO,BRIAN
+Fluminense,1 x 2,Santos,3,NÃO,BRIAN
+São Paulo,0 x 1,Cruzeiro,3,NÃO,BRIAN
+Bragantino,1 x 1,Botafogo,3,NÃO,BRIAN
+Atlético-MG,2 x 0,Vitória,3,NÃO,BRIAN
+Juventude,2 x 1,Ceará,3,NÃO,BRIAN
+Bahia,1 x 1,Mirassol,3,NÃO,BRIAN
+Fortaleza,0 x 1,Internacional,3,NÃO,BRIAN
+Grêmio,1 x 2,Flamengo,3,SIM,BRIAN
+Santos,2 x 1,Atlético-MG,4,SIM,BRIAN
+Botafogo,1 x 1,São Paulo,4,NÃO,BRIAN
+Corinthians,3 x 2,Fluminense,4,NÃO,BRIAN
+Flamengo,3 x 1,Juventude,4,NÃO,BRIAN
+Mirassol,1 x 0,Grêmio,4,NÃO,BRIAN
+Cruzeiro,1 x 1,Bahia,4,NÃO,BRIAN
+Sport,1 x 0,Bragantino,4,NÃO,BRIAN
+Vitória,2 x 0,Fortaleza,4,NÃO,BRIAN
+Ceará,0 x 1,Vasco,4,NÃO,BRIAN
+Internacional,1 x 2,Palmeiras,4,SIM,BRIAN
+Vasco,0 x 2,Flamengo,5,SIM,BRIAN
+Fluminense,2 x 1,Vitória,5,NÃO,BRIAN
+Corinthians,2 x 0,Sport,5,NÃO,BRIAN
+São Paulo,1 x 1,Santos,5,NÃO,BRIAN
+Bragantino,1 x 1,Cruzeiro,5,NÃO,BRIAN
+Atlético-MG,2 x 1,Botafogo,5,NÃO,BRIAN
+Juventude,2 x 3,Mirassol,5,NÃO,BRIAN
+Bahia,2 x 0,Ceará,5,NÃO,BRIAN
+Fortaleza,0 x 2,Palmeiras,5,NÃO,BRIAN
+Grêmio,1 x 0,Internacional,5,SIM,BRIAN
+Flamengo,2 x 1,Corinthians,6,SIM,BRIAN
+Sport,1 x 0,Fortaleza,6,NÃO,BRIAN
+Palmeiras,2 x 1,Bahia,6,NÃO,BRIAN
+Santos,2 x 0,Bragantino,6,NÃO,BRIAN
+Mirassol,1 x 2,Atlético-MG,6,NÃO,BRIAN
+Cruzeiro,2 x 0,Vasco,6,NÃO,BRIAN
+Internacional,2 x 0,Juventude,6,NÃO,BRIAN
+Vitória,1 x 1,Grêmio,6,NÃO,BRIAN
+Ceará,1 x 2,São Paulo,6,NÃO,BRIAN
+Botafogo,1 x 1,Fluminense,6,SIM,BRIAN
+Vasco,1 x 2,Palmeiras,7,SIM,BRIAN
+Fluminense,2 x 0,Sport,7,NÃO,BRIAN
+Corinthians,3 x 1,Internacional,7,NÃO,BRIAN
+São Paulo,2 x 0,Fortaleza,7,NÃO,BRIAN
+Bragantino,2 x 1,Mirassol,7,NÃO,BRIAN
+Juventude,1 x 1,Atlético-MG,7,NÃO,BRIAN
+Grêmio,0 x 2,Santos,7,NÃO,BRIAN
+Bahia,2 x 1,Botafogo,7,NÃO,BRIAN
+Ceará,2 x 1,Vitória,7,NÃO,BRIAN
+Cruzeiro,2 x 1,Flamengo,7,SIM,BRIAN
+Botafogo,2 x 0,Internacional,8,SIM,BRIAN
+Sport,1 x 2,Cruzeiro,8,NÃO,BRIAN
+Flamengo,2 x 1,Bahia,8,NÃO,BRIAN
+Santos,3 x 0,Ceará,8,NÃO,BRIAN
+Mirassol,1 x 2,Corinthians,8,NÃO,BRIAN
+Atlético-MG,2 x 0,Fluminense,8,NÃO,BRIAN
+Grêmio,1 x 1,Bragantino,8,NÃO,BRIAN
+Vitória,1 x 0,Vasco,8,NÃO,BRIAN
+Fortaleza,2 x 1,Juventude,8,NÃO,BRIAN
+Palmeiras,2 x 1,São Paulo,8,SIM,BRIAN
+Flamengo,3 x 1,Internacional,1,SIM,GUSTAVO
+Vasco,1 x 1,Santos,1,NÃO,GUSTAVO
+Juventude,2 x 1,Vitória,1,NÃO,GUSTAVO
+São Paulo,2 x 0,Sport,1,NÃO,GUSTAVO
+Bragantino,2 x 0,Ceará,1,NÃO,GUSTAVO
+Cruzeiro,1 x 0,Mirassol,1,NÃO,GUSTAVO
+Grêmio,2 x 1,Atlético-MG,1,NÃO,GUSTAVO
+Bahia,1 x 0,Corinthians,1,NÃO,GUSTAVO
+Fortaleza,1 x 1,Fluminense,1,NÃO,GUSTAVO
+Palmeiras,2 x 1,Botafogo,1,SIM,GUSTAVO
+Atlético-MG,2 x 1,São Paulo,2,SIM,GUSTAVO
+Botafogo,2 x 0,Juventude,2,NÃO,GUSTAVO
+Corinthians,2 x 0,Vasco,2,NÃO,GUSTAVO
+Santos,1 x 0,Bahia,2,NÃO,GUSTAVO
+Mirassol,0 x 1,Fortaleza,2,NÃO,GUSTAVO
+Sport,1 x 2,Palmeiras,2,NÃO,GUSTAVO
+Fluminense,2 x 0,Bragantino,2,NÃO,GUSTAVO
+Vitória,0 x 2,Flamengo,2,NÃO,GUSTAVO
+Ceará,1 x 2,Grêmio,2,NÃO,GUSTAVO
+Internacional,1 x 1,Cruzeiro,2,SIM,GUSTAVO
+Palmeiras,1 x 1,Corinthians,3,SIM,GUSTAVO
+Vasco,2 x 0,Sport,3,NÃO,GUSTAVO
+Fluminense,1 x 1,Santos,3,NÃO,GUSTAVO
+São Paulo,2 x 1,Cruzeiro,3,NÃO,GUSTAVO
+Bragantino,1 x 1,Botafogo,3,NÃO,GUSTAVO
+Atlético-MG,2 x 0,Vitória,3,NÃO,GUSTAVO
+Juventude,2 x 1,Ceará,3,NÃO,GUSTAVO
+Bahia,2 x 0,Mirassol,3,NÃO,GUSTAVO
+Fortaleza,2 x 2,Internacional,3,NÃO,GUSTAVO
+Grêmio,1 x 2,Flamengo,3,SIM,GUSTAVO
+Santos,2 x 0,Atlético-MG,4,SIM,GUSTAVO
+Botafogo,1 x 1,São Paulo,4,NÃO,GUSTAVO
+Corinthians,2 x 1,Fluminense,4,NÃO,GUSTAVO
+Flamengo,3 x 0,Juventude,4,NÃO,GUSTAVO
+Mirassol,0 x 1,Grêmio,4,NÃO,GUSTAVO
+Cruzeiro,2 x 1,Bahia,4,NÃO,GUSTAVO
+Sport,2 x 1,Bragantino,4,NÃO,GUSTAVO
+Vitória,2 x 0,Fortaleza,4,NÃO,GUSTAVO
+Ceará,1 x 2,Vasco,4,NÃO,GUSTAVO
+Internacional,2 x 1,Palmeiras,4,SIM,GUSTAVO
+Vasco,0 x 2,Flamengo,5,SIM,GUSTAVO
+Fluminense,2 x 0,Vitória,5,NÃO,GUSTAVO
+Corinthians,2 x 1,Sport,5,NÃO,GUSTAVO
+São Paulo,1 x 1,Santos,5,NÃO,GUSTAVO
+Bragantino,1 x 1,Cruzeiro,5,NÃO,GUSTAVO
+Atlético-MG,2 x 1,Botafogo,5,NÃO,GUSTAVO
+Juventude,2 x 0,Mirassol,5,NÃO,GUSTAVO
+Bahia,2 x 0,Ceará,5,NÃO,GUSTAVO
+Fortaleza,1 x 2,Palmeiras,5,NÃO,GUSTAVO
+Grêmio,1 x 1,Internacional,5,SIM,GUSTAVO
+Flamengo,2 x 0,Corinthians,6,SIM,GUSTAVO
+Sport,2 x 1,Fortaleza,6,NÃO,GUSTAVO
+Palmeiras,2 x 0,Bahia,6,NÃO,GUSTAVO
+Santos,1 x 0,Bragantino,6,NÃO,GUSTAVO
+Mirassol,2 x 1,Atlético-MG,6,NÃO,GUSTAVO
+Cruzeiro,2 x 0,Vasco,6,NÃO,GUSTAVO
+Internacional,3 x 1,Juventude,6,NÃO,GUSTAVO
+Vitória,1 x 1,Grêmio,6,NÃO,GUSTAVO
+Ceará,1 x 2,São Paulo,6,NÃO,GUSTAVO
+Botafogo,2 x 0,Fluminense,6,SIM,GUSTAVO
+Vasco,1 x 2,Palmeiras,7,SIM,GUSTAVO
+Fluminense,2 x 0,Sport,7,NÃO,GUSTAVO
+Corinthians,2 x 0,Internacional,7,NÃO,GUSTAVO
+São Paulo,1 x 1,Fortaleza,7,NÃO,GUSTAVO
+Bragantino,3 x 0,Mirassol,7,NÃO,GUSTAVO
+Juventude,1 x 2,Atlético-MG,7,NÃO,GUSTAVO
+Grêmio,1 x 2,Santos,7,NÃO,GUSTAVO
+Bahia,1 x 1,Botafogo,7,NÃO,GUSTAVO
+Ceará,1 x 2,Vitória,7,NÃO,GUSTAVO
+Cruzeiro,1 x 2,Flamengo,7,SIM,GUSTAVO
+Botafogo,2 x 0,Internacional,8,SIM,GUSTAVO
+Sport,1 x 2,Cruzeiro,8,NÃO,GUSTAVO
+Flamengo,3 x 1,Bahia,8,NÃO,GUSTAVO
+Santos,2 x 0,Ceará,8,NÃO,GUSTAVO
+Mirassol,1 x 2,Corinthians,8,NÃO,GUSTAVO
+Atlético-MG,2 x 0,Fluminense,8,NÃO,GUSTAVO
+Grêmio,3 x 1,Bragantino,8,NÃO,GUSTAVO
+Vitória,2 x 0,Vasco,8,NÃO,GUSTAVO
+Fortaleza,1 x 0,Juventude,8,NÃO,GUSTAVO
+Palmeiras,2 x 1,São Paulo,8,SIM,GUSTAVO

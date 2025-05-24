@@ -1,0 +1,391 @@
+Rodada,Mandante,Placar,Visitante
+38,Fluminense, x ,Bahia
+38,Botafogo, x ,Fortaleza
+38,Corinthians, x ,Juventude
+38,Santos, x ,Cruzeiro
+38,Mirassol, x ,Flamengo
+38,Atlético-MG, x ,Vasco
+38,Internacional, x ,Bragantino
+38,Vitória, x ,São Paulo
+38,Ceará, x ,Palmeiras
+38,Sport, x ,Grêmio
+1,São Paulo,0 x 0,Sport
+1,Cruzeiro,2 x 1,Mirassol
+1,Grêmio,2 x 1,Atlético-MG
+1,Fortaleza,2 x 0,Fluminense
+1,Juventude,2 x 0,Vitória
+1,Flamengo,1 x 1,Internacional
+1,Palmeiras,0 x 0,Botafogo
+1,Vasco,2 x 1,Santos
+1,Bahia,1 x 1,Corinthians
+1,Bragantino,2 x 2,Ceará
+2,Corinthians,3 x 0,Vasco
+2,Ceará,2 x 0,Grêmio
+2,Botafogo,2 x 0,Juventude
+2,Fluminense,2 x 1,Bragantino
+2,Atlético-MG,0 x 0,São Paulo
+2,Mirassol,1 x 1,Fortaleza
+2,Internacional,3 x 0,Cruzeiro
+2,Vitória,1 x 2,Flamengo
+2,Sport,1 x 2,Palmeiras
+2,Santos,2 x 2,Bahia
+3,Bragantino,1 x 0,Botafogo
+3,Juventude,2 x 1,Ceará
+3,Palmeiras,2 x 0,Corinthians
+3,Vasco,3 x 1,Sport
+3,Bahia,1 x 1,Mirassol
+3,São Paulo,1 x 1,Cruzeiro
+3,Grêmio,0 x 2,Flamengo
+3,Fluminense,1 x 0,Santos
+3,Fortaleza,0 x 0,Internacional
+3,Atlético-MG,2 x 2,Vitória
+4,Ceará,2 x 1,Vasco
+4,Botafogo,2 x 2,São Paulo
+4,Mirassol,4 x 1,Grêmio
+4,Sport,0 x 1,Bragantino
+4,Corinthians,0 x 2,Fluminense
+4,Internacional,0 x 1,Palmeiras
+4,Flamengo,6 x 0,Juventude
+4,Santos,2 x 0,Atlético-MG
+4,Vitória,2 x 1,Fortaleza
+4,Cruzeiro,3 x 0,Bahia
+5,Corinthians,2 x 1,Sport
+5,Vasco,0 x 0,Flamengo
+5,Grêmio,1 x 1,Internacional
+5,Juventude,2 x 2,Mirassol
+5,São Paulo,2 x 1,Santos
+5,Atlético-MG,1 x 0,Botafogo
+5,Fluminense,1 x 1,Vitória
+5,Fortaleza,1 x 2,Palmeiras
+5,Bragantino,1 x 0,Cruzeiro
+5,Bahia,1 x 0,Ceará
+6,Internacional,3 x 1,Juventude
+6,Mirassol,2 x 2,Atlético-MG
+6,Ceará,1 x 1,São Paulo
+6,Sport,0 x 0,Fortaleza
+6,Botafogo,2 x 0,Fluminense
+6,Flamengo,4 x 0,Corinthians
+6,Palmeiras,0 x 1,Bahia
+6,Cruzeiro,1 x 0,Vasco
+6,Vitória,1 x 1,Grêmio
+6,Santos,1 x 2,Bragantino
+7,São Paulo,0 x 0,Fortaleza
+7,Fluminense,2 x 1,Sport
+7,Corinthians,4 x 2,Internacional
+7,Ceará,1 x 0,Vitória
+7,Bahia,1 x 0,Botafogo
+7,Vasco,0 x 1,Palmeiras
+7,Grêmio,1 x 0,Santos
+7,Cruzeiro,2 x 1,Flamengo
+7,Bragantino,1 x 0,Mirassol
+7,Juventude,0 x 1,Atlético-MG
+8,Fortaleza,5 x 0,Juventude
+8,Mirassol,2 x 1,Corinthians
+8,Grêmio,1 x 1,Bragantino
+8,Vitória,2 x 1,Vasco
+8,Flamengo,1 x 0,Bahia
+8,Sport,0 x 4,Cruzeiro
+8,Palmeiras,1 x 0,São Paulo
+8,Atlético-MG,3 x 2,Fluminense
+8,Botafogo,4 x 0,Internacional
+8,Santos,0 x 0,Ceará
+9,Ceará,2 x 0,Sport
+9,Vasco,3 x 0,Fortaleza
+9,São Paulo,2 x 1,Grêmio
+9,Corinthians,1 x 0,Santos
+9,Bahia,2 x 1,Vitória
+9,Juventude,1 x 1,Fluminense
+9,Flamengo,0 x 0,Botafogo
+9,Bragantino,1 x 2,Palmeiras
+9,Cruzeiro,0 x 0,Atlético-MG
+9,Internacional,1 x 1,Mirassol
+11,Bahia, x ,São Paulo
+11,Vasco, x ,Bragantino
+11,Mirassol, x ,Sport
+11,Santos, x ,Botafogo
+11,Juventude, x ,Grêmio
+11,Flamengo, x ,Fortaleza
+11,Corinthians, x ,Vitória
+11,Ceará, x ,Atlético-MG
+11,Cruzeiro, x ,Palmeiras
+11,Internacional, x ,Fluminense
+12,Fluminense, x ,Ceará
+12,Botafogo, x ,Mirassol
+12,Palmeiras, x ,Juventude
+12,Sport, x ,Flamengo
+12,Bragantino, x ,Bahia
+12,Vitória, x ,Cruzeiro
+12,Fortaleza, x ,Santos
+12,Grêmio, x ,Corinthians
+12,São Paulo, x ,Vasco
+12,Atlético-MG, x ,Internacional
+13,Flamengo, x ,São Paulo
+13,Vasco, x ,Botafogo
+13,Corinthians, x ,Bragantino
+13,Santos, x ,Palmeiras
+13,Mirassol, x ,Fluminense
+13,Cruzeiro, x ,Grêmio
+13,Internacional, x ,Vitória
+13,Bahia, x ,Atlético-MG
+13,Fortaleza, x ,Ceará
+13,Juventude, x ,Sport
+14,Fluminense, x ,Cruzeiro
+14,Botafogo, x ,Vitória
+14,Palmeiras, x ,Mirassol
+14,Santos, x ,Flamengo
+14,Grêmio, x ,Fortaleza
+14,Bahia, x ,Internacional
+14,Ceará, x ,Corinthians
+14,Juventude, x ,Vasco
+14,Bragantino, x ,São Paulo
+14,Atlético-MG, x ,Sport
+15,Flamengo, x ,Fluminense
+15,Vasco, x ,Grêmio
+15,Palmeiras, x ,Atlético-MG
+15,São Paulo, x ,Corinthians
+15,Mirassol, x ,Santos
+15,Cruzeiro, x ,Juventude
+15,Internacional, x ,Ceará
+15,Vitória, x ,Bragantino
+15,Fortaleza, x ,Bahia
+15,Sport, x ,Botafogo
+16,Fluminense, x ,Palmeiras
+16,Vasco, x ,Bahia
+16,Corinthians, x ,Cruzeiro
+16,Santos, x ,Internacional
+16,Bragantino, x ,Flamengo
+16,Atlético-MG, x ,Fortaleza
+16,Grêmio, x ,Botafogo
+16,Vitória, x ,Sport
+16,Ceará, x ,Mirassol
+16,Juventude, x ,São Paulo
+17,Flamengo, x ,Atlético-MG
+17,Botafogo, x ,Corinthians
+17,Palmeiras, x ,Grêmio
+17,São Paulo, x ,Fluminense
+17,Mirassol, x ,Vitória
+17,Cruzeiro, x ,Ceará
+17,Internacional, x ,Vasco
+17,Bahia, x ,Juventude
+17,Fortaleza, x ,Bragantino
+17,Sport, x ,Santos
+18,Fluminense, x ,Grêmio
+18,Botafogo, x ,Cruzeiro
+18,Corinthians, x ,Fortaleza
+18,Santos, x ,Juventude
+18,Mirassol, x ,Vasco
+18,Atlético-MG, x ,Bragantino
+18,Internacional, x ,São Paulo
+18,Vitória, x ,Palmeiras
+18,Ceará, x ,Flamengo
+18,Sport, x ,Bahia
+19,Flamengo, x ,Mirassol
+19,Vasco, x ,Atlético-MG
+19,Palmeiras, x ,Ceará
+19,São Paulo, x ,Vitória
+19,Bragantino, x ,Internacional
+19,Cruzeiro, x ,Santos
+19,Grêmio, x ,Sport
+19,Bahia, x ,Fluminense
+19,Fortaleza, x ,Botafogo
+19,Juventude, x ,Corinthians
+20,Fluminense, x ,Fortaleza
+20,Botafogo, x ,Palmeiras
+20,Corinthians, x ,Bahia
+20,Santos, x ,Vasco
+20,Mirassol, x ,Cruzeiro
+20,Atlético-MG, x ,Grêmio
+20,Internacional, x ,Flamengo
+20,Vitória, x ,Juventude
+20,Ceará, x ,Bragantino
+20,Sport, x ,São Paulo
+21,Flamengo, x ,Vitória
+21,Vasco, x ,Corinthians
+21,Palmeiras, x ,Sport
+21,São Paulo, x ,Atlético-MG
+21,Bragantino, x ,Fluminense
+21,Cruzeiro, x ,Internacional
+21,Grêmio, x ,Ceará
+21,Bahia, x ,Santos
+21,Fortaleza, x ,Mirassol
+21,Juventude, x ,Botafogo
+22,Flamengo, x ,Grêmio
+22,Botafogo, x ,Bragantino
+22,Corinthians, x ,Palmeiras
+22,Santos, x ,Fluminense
+22,Mirassol, x ,Bahia
+22,Cruzeiro, x ,São Paulo
+22,Internacional, x ,Fortaleza
+22,Vitória, x ,Atlético-MG
+22,Ceará, x ,Juventude
+22,Sport, x ,Vasco
+23,Fluminense, x ,Corinthians
+23,Vasco, x ,Ceará
+23,Palmeiras, x ,Internacional
+23,São Paulo, x ,Botafogo
+23,Bragantino, x ,Sport
+23,Atlético-MG, x ,Santos
+23,Grêmio, x ,Mirassol
+23,Bahia, x ,Cruzeiro
+23,Fortaleza, x ,Vitória
+23,Juventude, x ,Flamengo
+24,Flamengo, x ,Vasco
+24,Botafogo, x ,Atlético-MG
+24,Palmeiras, x ,Fortaleza
+24,Santos, x ,São Paulo
+24,Mirassol, x ,Juventude
+24,Cruzeiro, x ,Bragantino
+24,Internacional, x ,Grêmio
+24,Vitória, x ,Fluminense
+24,Ceará, x ,Bahia
+24,Sport, x ,Corinthians
+25,Fluminense, x ,Botafogo
+25,Vasco, x ,Cruzeiro
+25,Corinthians, x ,Flamengo
+25,São Paulo, x ,Ceará
+25,Bragantino, x ,Santos
+25,Atlético-MG, x ,Mirassol
+25,Grêmio, x ,Vitória
+25,Bahia, x ,Palmeiras
+25,Fortaleza, x ,Sport
+25,Juventude, x ,Internacional
+26,Flamengo, x ,Cruzeiro
+26,Botafogo, x ,Bahia
+26,Palmeiras, x ,Vasco
+26,Santos, x ,Grêmio
+26,Mirassol, x ,Bragantino
+26,Atlético-MG, x ,Juventude
+26,Internacional, x ,Corinthians
+26,Vitória, x ,Ceará
+26,Fortaleza, x ,São Paulo
+26,Sport, x ,Fluminense
+27,Fluminense, x ,Atlético-MG
+27,Vasco, x ,Vitória
+27,Corinthians, x ,Mirassol
+27,São Paulo, x ,Palmeiras
+27,Bragantino, x ,Grêmio
+27,Cruzeiro, x ,Sport
+27,Internacional, x ,Botafogo
+27,Bahia, x ,Flamengo
+27,Ceará, x ,Santos
+27,Juventude, x ,Fortaleza
+28,Fluminense, x ,Juventude
+28,Botafogo, x ,Flamengo
+28,Palmeiras, x ,Bragantino
+28,Santos, x ,Corinthians
+28,Mirassol, x ,Internacional
+28,Atlético-MG, x ,Cruzeiro
+28,Grêmio, x ,São Paulo
+28,Vitória, x ,Bahia
+28,Fortaleza, x ,Vasco
+28,Sport, x ,Ceará
+29,Flamengo, x ,Palmeiras
+29,Vasco, x ,Fluminense
+29,Corinthians, x ,Atlético-MG
+29,Santos, x ,Vitória
+29,Mirassol, x ,São Paulo
+29,Cruzeiro, x ,Fortaleza
+29,Internacional, x ,Sport
+29,Bahia, x ,Grêmio
+29,Ceará, x ,Botafogo
+29,Juventude, x ,Bragantino
+30,Fluminense, x ,Internacional
+30,Botafogo, x ,Santos
+30,Palmeiras, x ,Cruzeiro
+30,São Paulo, x ,Bahia
+30,Bragantino, x ,Vasco
+30,Atlético-MG, x ,Ceará
+30,Grêmio, x ,Juventude
+30,Vitória, x ,Corinthians
+30,Fortaleza, x ,Flamengo
+30,Sport, x ,Mirassol
+31,Flamengo, x ,Sport
+31,Vasco, x ,São Paulo
+31,Corinthians, x ,Grêmio
+31,Santos, x ,Fortaleza
+31,Mirassol, x ,Botafogo
+31,Cruzeiro, x ,Vitória
+31,Internacional, x ,Atlético-MG
+31,Bahia, x ,Bragantino
+31,Ceará, x ,Fluminense
+31,Juventude, x ,Palmeiras
+32,Fluminense, x ,Mirassol
+32,Botafogo, x ,Vasco
+32,Palmeiras, x ,Santos
+32,São Paulo, x ,Flamengo
+32,Bragantino, x ,Corinthians
+32,Atlético-MG, x ,Bahia
+32,Grêmio, x ,Cruzeiro
+32,Vitória, x ,Internacional
+32,Ceará, x ,Fortaleza
+32,Sport, x ,Juventude
+33,Flamengo, x ,Santos
+33,Vasco, x ,Juventude
+33,Corinthians, x ,Ceará
+33,São Paulo, x ,Bragantino
+33,Mirassol, x ,Palmeiras
+33,Cruzeiro, x ,Fluminense
+33,Internacional, x ,Bahia
+33,Vitória, x ,Botafogo
+33,Fortaleza, x ,Grêmio
+33,Sport, x ,Atlético-MG
+34,Fluminense, x ,Flamengo
+34,Botafogo, x ,Sport
+34,Corinthians, x ,São Paulo
+34,Santos, x ,Mirassol
+34,Bragantino, x ,Vitória
+34,Atlético-MG, x ,Palmeiras
+34,Grêmio, x ,Vasco
+34,Bahia, x ,Fortaleza
+34,Ceará, x ,Internacional
+34,Juventude, x ,Cruzeiro
+35,Flamengo, x ,Bragantino
+35,Botafogo, x ,Grêmio
+35,Palmeiras, x ,Fluminense
+35,São Paulo, x ,Juventude
+35,Mirassol, x ,Ceará
+35,Cruzeiro, x ,Corinthians
+35,Internacional, x ,Santos
+35,Bahia, x ,Vasco
+35,Fortaleza, x ,Atlético-MG
+35,Sport, x ,Vitória
+36,Fluminense, x ,São Paulo
+36,Vasco, x ,Internacional
+36,Corinthians, x ,Botafogo
+36,Santos, x ,Sport
+36,Bragantino, x ,Fortaleza
+36,Atlético-MG, x ,Flamengo
+36,Grêmio, x ,Palmeiras
+36,Vitória, x ,Mirassol
+36,Ceará, x ,Cruzeiro
+36,Juventude, x ,Bahia
+37,Flamengo, x ,Ceará
+37,Vasco, x ,Mirassol
+37,Palmeiras, x ,Vitória
+37,São Paulo, x ,Internacional
+37,Bragantino, x ,Atlético-MG
+37,Cruzeiro, x ,Botafogo
+37,Grêmio, x ,Fluminense
+37,Bahia, x ,Sport
+37,Fortaleza, x ,Corinthians
+37,Juventude, x ,Santos
+38,Fluminense, x ,Bahia
+38,Botafogo, x ,Fortaleza
+38,Corinthians, x ,Juventude
+38,Santos, x ,Cruzeiro
+38,Mirassol, x ,Flamengo
+38,Atlético-MG, x ,Vasco
+38,Internacional, x ,Bragantino
+38,Vitória, x ,São Paulo
+38,Ceará, x ,Palmeiras
+38,Sport, x ,Grêmio
+10,Fluminense,1 x 1,Vasco
+10,São Paulo,0 x 1,Mirassol
+10,Atlético-MG, x ,Corinthians
+10,Grêmio, x ,Bahia
+10,Palmeiras, x ,Flamengo
+10,Sport, x ,Internacional
+10,Vitória, x ,Santos
+10,Fortaleza, x ,Cruzeiro
+10,Bragantino, x ,Juventude
+10,Botafogo, x ,Ceará
