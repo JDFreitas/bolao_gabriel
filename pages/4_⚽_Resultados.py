@@ -1,6 +1,8 @@
 # Bibliotecas
 import pandas as pd
 import streamlit as st
+import requests
+from bs4 import BeautifulSoup
 
 
 def atualizar_resultados_brasileirao(rodada, resultados_brasileirao="database/resultados_brasileirao.csv"):

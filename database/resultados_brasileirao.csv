@@ -1,14 +1,4 @@
 Rodada,Mandante,Placar,Visitante
-38,Fluminense, x ,Bahia
-38,Botafogo, x ,Fortaleza
-38,Corinthians, x ,Juventude
-38,Santos, x ,Cruzeiro
-38,Mirassol, x ,Flamengo
-38,Atlético-MG, x ,Vasco
-38,Internacional, x ,Bragantino
-38,Vitória, x ,São Paulo
-38,Ceará, x ,Palmeiras
-38,Sport, x ,Grêmio
 1,São Paulo,0 x 0,Sport
 1,Cruzeiro,2 x 1,Mirassol
 1,Grêmio,2 x 1,Atlético-MG
@@ -379,8 +369,8 @@ Rodada,Mandante,Placar,Visitante
 38,Vitória, x ,São Paulo
 38,Ceará, x ,Palmeiras
 38,Sport, x ,Grêmio
-10,Fluminense,1 x 1,Vasco
-10,São Paulo,0 x 1,Mirassol
+10,Fluminense,2 x 1,Vasco
+10,São Paulo,0 x 2,Mirassol
 10,Atlético-MG, x ,Corinthians
 10,Grêmio, x ,Bahia
 10,Palmeiras, x ,Flamengo
